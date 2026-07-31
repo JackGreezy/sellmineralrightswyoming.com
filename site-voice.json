@@ -140,6 +140,16 @@
     "related_action": "Open the Complete Wyoming Field Index"
   },
   "taxonomy_enrichment": {
+    "locations": [
+      [
+        "Build the {name} County-Record Packet",
+        "A location name is only the first line of a Wyoming mineral file. The working packet should connect {name} to the county, legal description, section, township, range, owner name, vesting instrument, reservations, lease, division order, payor record, and any probate or trust document that changed the chain. The {meta} That local context belongs beside the recorded evidence, not in place of it. Where fee minerals meet federal or state ownership, the packet should also identify which tract, depth, or formation is actually private and conveyable before any acreage or paid decimal is carried into an offer."
+      ],
+      [
+        "Keep the Paid Interest and the Deed Scope Aligned",
+        "A royalty statement can show what is being paid around {name}, but the statement does not by itself prove the full mineral estate. The review should reconcile the paid decimal to the ownership fraction, lease royalty, unit allocation, well, product, production month, deductions, taxes, suspense, and any adjustment line. The proposed deed and written purchase scope should then repeat the verified owner, county, legal description, included depths or formations, effective date, conveyed fraction, retained interest, pre-closing proceeds, title conditions, and recording instructions. Any mismatch stays on the curative list until the supporting record resolves it."
+      ]
+    ],
     "investing": [
       [
         "Read {name} Through the Paid Record",
@@ -156,6 +166,10 @@
       [
         "Preserve the Underwriting Trail",
         "Every material number in the Wyoming owner file should keep its source and date. Royalty statements, production records, county instruments, lease terms, unit documents, spacing orders, operator notices, and written assumptions belong in a record trail that another reviewer can follow. A purchase decision should also state the holding period, liquidity limits, transfer costs, title expense, tax questions, and the event that would make the original case no longer reliable."
+      ],
+      [
+        "Define the Decision Rule Before Comparing Outcomes",
+        "The {name} analysis should end with a written decision rule rather than a single projected return. The rule can identify the minimum title evidence, acceptable concentration, required cash yield, downside tolerance, holding period, liquidity assumption, reserve for curative work, and review date. It should also state which change in title, production, commodity price, operator activity, regulation, or tax treatment would require the file to be reopened. That keeps a Wyoming mineral position tied to observable records instead of allowing an old forecast to become a permanent fact."
       ]
     ],
     "exchange-1031": [
@@ -174,6 +188,10 @@
       [
         "Keep an Owner Copy After Closing",
         "The completed file should retain the signed sale agreement, recorded mineral deed, exact legal description, settlement statement, funding confirmation, qualified-intermediary instructions, identification notices, replacement-property documents, title correspondence, recording information, and tax records supplied by the relevant professionals. The Wyoming payor and operator notice can then be reconciled to the interest actually conveyed. A missing document should remain an open item instead of being treated as completed exchange evidence."
+      ],
+      [
+        "Make the Go-or-No-Go Decision Before the Relinquished Closing",
+        "The {name} file should state who has confirmed eligibility, who controls the proceeds, which replacement properties meet the owner’s investment criteria, and what event would cause the exchange plan to stop. A tax objective should not override a title defect, weak replacement economics, inadequate diligence time, or a mismatch in taxpayer identity. If the required professionals, intermediary documents, financing, replacement scope, and backup property are not ready, the owner should see that constraint before the mineral sale closes rather than after the federal clock has started."
       ]
     ]
   },

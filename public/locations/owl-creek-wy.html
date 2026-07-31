@@ -325,7 +325,8 @@
             .ot-floating-button__front{background-image:none}</style><style id="rr-chrome">
 .skip-link,.visually-hidden{position:absolute!important;left:-9999px!important;width:1px;height:1px;overflow:hidden}
 .rr-wordmark{display:flex;flex-direction:column;justify-content:center;line-height:1.08;text-decoration:none;color:inherit;white-space:nowrap}
-.rr-wordmark,.rr-wordmark:before,.rr-wordmark:after{background:none!important;background-image:none!important;content:normal!important}
+.rr-wordmark,.rr-wordmark:before,.rr-wordmark:after,.rr-brand-force,.rr-brand-force:before,.rr-brand-force:after,.rr-brand-force *,.rr-brand-force *:before,.rr-brand-force *:after{background:none!important;background-image:none!important}
+.rr-wordmark:before,.rr-wordmark:after,.rr-brand-force:before,.rr-brand-force:after,.rr-brand-force *:before,.rr-brand-force *:after{content:none!important;display:none!important}
 .rr-wordmark .rr-wm-1{font-weight:800;font-size:19px;color:inherit;white-space:nowrap}
 .rr-wordmark .rr-wm-2{font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.13em;opacity:.85;white-space:nowrap}
 .rr-brand-logo{display:block!important;width:auto!important;max-width:min(300px,48vw)!important;max-height:58px!important;object-fit:contain!important;visibility:visible!important;opacity:1!important}
@@ -355,8 +356,10 @@ html body [data-rr-mobile]{position:fixed!important;top:0!important;right:0!impo
 html body.rr-nav-open [data-rr-mobile]{width:min(86vw,320px)!important;max-width:min(86vw,320px)!important;transform:translateX(0)!important;
   left:auto!important;right:0!important;overflow:auto!important;box-shadow:-8px 0 30px rgba(0,0,0,.25)!important;padding:64px 20px 20px!important;pointer-events:auto!important}
 html body [data-rr-mobile] .rr-m-link,html body [data-rr-mobile] .rr-x{display:none!important}
+html body [data-rr-mobile] .rr-brand-logo{visibility:hidden!important;opacity:0!important}
 html body.rr-nav-open [data-rr-mobile] .rr-m-link{display:block!important}
 html body.rr-nav-open [data-rr-mobile] .rr-x{display:block!important}
+html body.rr-nav-open [data-rr-mobile] .rr-brand-logo{visibility:visible!important;opacity:1!important}
 @media(min-width:901px){html body [data-rr-mobile],html body .rr-scrim{display:none!important}}
 body.rr-nav-open{overflow:hidden!important}
 .rr-x{position:absolute;top:12px;right:14px;width:34px;height:34px;background:none;border:0;cursor:pointer;color:#17171b!important;z-index:2}
@@ -390,10 +393,12 @@ body.rr-taste-slug *:not(.rr-taste-hero){background-image:none!important}
 .rr-taste-hero{position:relative!important;left:auto!important;display:grid!important;grid-column:1/-1!important;align-items:end!important;box-sizing:border-box!important;width:100%!important;min-width:0!important;max-width:none!important;min-height:clamp(24rem,45vw,40rem)!important;margin:0!important;padding:clamp(2rem,6vw,6rem)!important;background:var(--rr-taste-dark)!important;color:#fff!important;overflow:hidden!important;float:none!important;transform:none!important;writing-mode:horizontal-tb!important;isolation:isolate!important}
 .rr-taste-hero::after{content:""!important;position:absolute!important;z-index:1!important;inset:0!important;display:block!important;background:linear-gradient(90deg,rgba(0,0,0,.68),rgba(0,0,0,.18))!important;pointer-events:none!important}
 .rr-taste-hero-media{position:absolute!important;z-index:0!important;inset:0!important;display:block!important;width:100%!important;height:100%!important;max-width:none!important;object-fit:cover!important;object-position:center!important}
-.rr-taste-hero>:not(.rr-taste-hero-media){position:relative!important;z-index:2!important;height:auto!important;min-height:0!important;margin-top:0!important;margin-bottom:0!important;align-self:end!important}
-.rr-taste-hero-copy{position:relative!important;z-index:2!important;display:block!important;box-sizing:border-box!important;width:min(1180px,100%)!important;min-width:0!important;max-width:none!important;margin:0 auto!important}
+.rr-taste-hero>:not(.rr-taste-hero-media):not(.rr-taste-hero-copy){display:none!important}
+.rr-taste-hero>.rr-taste-hero-copy{position:relative!important;z-index:2!important;grid-area:1/1!important;height:auto!important;min-height:0!important;margin-top:0!important;margin-bottom:0!important;align-self:end!important}
+.rr-taste-hero-copy{position:relative!important;z-index:3!important;display:block!important;grid-area:1/1!important;align-self:end!important;box-sizing:border-box!important;width:min(1180px,100%)!important;min-width:0!important;max-width:none!important;margin:0 auto!important}
+.rr-taste-hero-copy .hero__subtitle{display:block!important;max-width:52rem!important;margin:1.25rem 0 0!important;color:rgba(255,255,255,.88)!important;font-size:clamp(1rem,1.7vw,1.25rem)!important;line-height:1.55!important}
 .rr-taste-hero h1,.rr-taste-hero h2{position:relative!important;z-index:2!important;display:block!important;box-sizing:border-box!important;width:auto!important;min-width:min(100%,18rem)!important;max-width:18ch!important;margin:0!important;color:#fff!important;font-size:clamp(2.5rem,6vw,6.5rem)!important;line-height:.98!important;text-wrap:balance!important;white-space:normal!important;word-break:normal!important;overflow-wrap:normal!important;hyphens:none!important;writing-mode:horizontal-tb!important;text-orientation:mixed!important}
-.rr-taste-hero .byline{margin-top:1.25rem!important;color:rgba(255,255,255,.82)!important}
+.rr-taste-hero .byline,.rr-taste-hero .rr-taste-byline{margin-top:1.25rem!important;color:rgba(255,255,255,.82)!important}
 .rr-taste-prose-shell{position:relative!important;left:50%!important;box-sizing:border-box!important;width:100vw!important;max-width:none!important;margin:0!important;transform:translateX(-50%)!important;float:none!important;grid-column:1/-1!important}
 [data-rr-taste-prose]{position:relative!important;left:auto!important;display:block!important;box-sizing:border-box!important;width:min(1080px,calc(100vw - 48px))!important;max-width:none!important;margin-left:auto!important;margin-right:auto!important;padding-top:clamp(3.5rem,7vw,6.5rem)!important;translate:none!important;transform:none!important;float:none!important;grid-column:1/-1!important}
 [data-rr-taste-prose]>h2,[data-rr-taste-prose]>h3,[data-rr-taste-prose]>p,[data-rr-taste-prose]>ul,[data-rr-taste-prose]>ol,[data-rr-taste-prose]>blockquote{display:block!important;box-sizing:border-box!important;width:100%!important;min-width:0!important;max-width:none!important;float:none!important;writing-mode:horizontal-tb!important;word-break:normal!important;overflow-wrap:break-word!important}
@@ -645,7 +650,7 @@ footer .rr-footer-map iframe{position:absolute!important;inset:0!important;displ
 <button aria-controls="burger-menu" aria-expanded="false" aria-haspopup="true" aria-label="Menu" class="burger-menu__toggle js-burger-menu-toggle rr-burger" role="button" style="display: block;"><span></span><span></span><span></span></button>
 </div>
 <div class="header__logo js-header-logo header__logo--main"><a class="rr-wordmark" href="/"><span class="rr-wm-1">SELL MINERAL RIGHTS</span><span class="rr-wm-2">WYOMING</span></a></div>
-<nav aria-label="Top menu" class="header__top js-header-top" role="navigation"><div class="rr-header-actions"><a class="rr-header-phone rr-header-phone-standalone" href="tel:+13075551036">307-555-1036</a><a class="rr-header-cta" href="/contact#contact-form">Request a Wyoming Review</a></div></nav>
+<nav aria-label="Top menu" class="header__top js-header-top" role="navigation"><div class="rr-header-actions"><a class="rr-header-phone" href="tel:+13075551036">307-555-1036</a><a class="rr-header-cta" href="/contact#contact-form">Request a Wyoming Review</a></div></nav>
 <nav aria-label="Main navigation" class="header__bottom" id="main-navigation" role="navigation">
 <div class="js-menu-container">
 <ul class="menu js-menu menu--level-1" data-max-visible="6" data-once="others-menu">
@@ -659,12 +664,13 @@ footer .rr-footer-map iframe{position:absolute!important;inset:0!important;displ
 <a class="menu__link menu-link menu-link--main" href="/basins">Wyoming Basins</a>
 </li>
 <li class="menu__item">
-<div class="rr-header-explore" data-rr-header-dropdown=""><a aria-expanded="false" aria-haspopup="true" class="rr-header-explore-toggle" href="/resources">Explore</a><ul aria-label="Explore" class="rr-header-submenu"><li><a href="/resources">Field Guides</a></li><li><a href="/about">About</a></li></ul></div>
+<a class="menu__link menu-link menu-link--main" href="/resources">Field Guides</a>
 </li>
 <li class="menu__item">
 <a class="menu__link menu-link menu-link--main" href="/locations">Wyoming Areas</a>
 </li>
 <li class="menu__item">
+<a class="menu__link menu-link menu-link--main" href="/about">About</a>
 </li>
 <li class="menu__item">
 </li>
@@ -681,7 +687,7 @@ footer .rr-footer-map iframe{position:absolute!important;inset:0!important;displ
 </div>
 </div>
 </header>
-<main role="main"><section class="rr-taste-hero rr-taste-hero rr-taste-hero--long" style="--rr-hero-image:url('/ours/pages/mineral-rights-pages-home-sellmineralrightswyoming-com.jpg')"><img alt="" aria-hidden="true" class="rr-taste-hero-media" src="/ours/pages/mineral-rights-pages-home-sellmineralrightswyoming-com.jpg"/><div class="rr-taste-hero-copy"><h1 class="content-page-head__title title-h2">Sell Mineral Rights in Owl Creek, WY</h1></div></section><div class="rr-taste-prose-shell"><div class="rr-taste-generated-prose" data-rr-prose="detail" data-rr-taste-prose=""><p>Owl Creek runs through Hot Springs County near some of the oldest oil production in the Bighorn Basin, ground that has been in field development since early in the last century.</p><p>Hot Springs County's fields — Grass Creek and Hamilton Dome among them — are old, structurally complex Bighorn Basin anticlines that have gone through primary production and, in places, later recovery phases. If your minerals sit near Owl Creek, they are more likely tied to an established, long-producing field than to any recent wildcat activity, and that gives us a solid production record to price against.</p><p>Owl Creek itself cuts through rugged, folded terrain typical of this end of the basin, and a lot of the ranch land along it has been in the same families since before the fields were fully developed.</p><h2>Long production history, steady decline</h2><p>Fields in this part of Hot Springs County have been producing for generations, which means the decline curve is well understood rather than speculative. A mineral interest tied to one of these older units typically pays a modest, predictable royalty, and that predictability is exactly what lets us price it with confidence.</p><h2>Ranch land and reserved minerals</h2><p>This is working ranch country, and mineral rights were commonly reserved separately when land traded hands generations ago. If you hold a mineral interest without owning the ranch it sits under, that is the typical local pattern, and Hot Springs County clerk records in Thermopolis let us trace the severance.</p><h2>What to send</h2><p>A division order or check stub with your decimal interest moves things fastest. Without one, the legal description from an old lease or deed lets us trace it.</p><h2>Sell Mineral Rights in Owl Creek, WY Deadline Control Plan</h2><p>Sell Mineral Rights in Owl Creek, WY should be reviewed with the sale closing date, the 45 day identification deadline, the 180 day acquisition deadline, debt replacement needs, and advisor questions visible in the same working file. For this replacement market, the active facts include Own minerals near Owl Creek, Hot Springs County, close to the historic Grass Creek and Hamilton Dome fields? Get an offer grounded in real history.. Those details affect whether a candidate belongs on the written identification list, whether it should remain a backup, or whether it needs to be removed before the investor relies on it.</p><p>The Casper exchange plan should also document why Sell Mineral Rights in Owl Creek, WY is being considered instead of a broader market label. The file should separate property fit, seller cooperation, lender timing, title review, inspection access, and closing certainty so the qualified intermediary, CPA, attorney, broker, and lender are not working from different assumptions after identification.</p><section class="rr-taste-faq rr-taste-faq--curative-folds" data-rr-design="thales-wyoming-checkerboard" data-rr-taste-faq=""><div class="rr-taste-faq-head"><div><p class="rr-taste-kicker">WYOMING CURATIVE FILE</p><h2>Resolve the Record Question Before It Reaches the Deed</h2></div><p class="rr-taste-faq-intro">Each answer points back to a county instrument, legal description, paid line, well record, checkerboard boundary, or written term that can be checked.</p></div><div class="rr-taste-faq-items"><details class="rr-taste-faq-item"><summary>your interest is tied to a very old well. Is it still worth selling?</summary><div class="rr-taste-faq-answer"><p>Yes, often — old, well-documented production is easier to price confidently than a new, unproven well.</p></div></details><details class="rr-taste-faq-item"><summary>you do not own the ranch, just a mineral fraction under it. Is that normal here?</summary><div class="rr-taste-faq-answer"><p>Very common in Hot Springs County. Minerals were often reserved separately from the ranch surface. We confirm through the deed record.</p></div></details><details class="rr-taste-faq-item"><summary>What if your check stubs are old and you have lost track of who operates the well now?</summary><div class="rr-taste-faq-answer"><p>Send what you have. We can identify the current operator through state production records.</p></div></details><details class="rr-taste-faq-item"><summary>Does the rugged terrain around Owl Creek make title work harder?</summary><div class="rr-taste-faq-answer"><p>Not for us — legal descriptions and courthouse records don't change with the landscape. We can trace ownership the same way regardless of terrain.</p></div></details></div></section><section aria-label="Related Locations" class="rr-taste-related rr-taste-related--checkerboard-plat" data-rr-design="thales-wyoming-checkerboard" data-rr-taste-related=""><div class="rr-taste-related-head"><div><p class="rr-taste-kicker">ADJOINING SECTION PLATS</p><h2>Carry the Same Tract Into the Next Owner Memo</h2></div><p class="rr-taste-related-intro">Keep the legal description, ownership fraction, paid decimal, and open curative from Sell Mineral Rights in Owl Creek, WY visible while reviewing these Locations records.</p></div><div class="rr-taste-links rr-taste-links-3"><a class="rr-taste-link" href="/locations/park-county" style="--rr-link-index:1"><span aria-hidden="true" class="rr-taste-link-index">01</span><strong>Sell Mineral Rights in Park County, WY</strong><small>Minerals under the Oregon Basin, Elk Basin, or Garland fields in Park County? Talk to a landman who reads Bighorn Basin division orders every week.</small></a><a class="rr-taste-link" href="/locations/pine-bluffs-wy" style="--rr-link-index:2"><span aria-hidden="true" class="rr-taste-link-index">02</span><strong>Sell Mineral Rights in Pine Bluffs, WY</strong><small>Own minerals near Pine Bluffs on the Nebraska line, in the Wyoming reach of the DJ Basin? Get a straight offer priced to the actual unit.</small></a><a class="rr-taste-link" href="/locations/point-of-rocks-wy" style="--rr-link-index:3"><span aria-hidden="true" class="rr-taste-link-index">03</span><strong>Sell Mineral Rights in Point of Rocks, WY</strong><small>Own minerals near Point of Rocks, an old rail stop along the checkerboard in Sweetwater County? We confirm section-by-section ownership before pricing.</small></a></div><div class="rr-taste-related-actions"><a class="rr-taste-button" href="/locations">Open the Complete Wyoming Field Index</a></div></section><section class="rr-taste-cta rr-taste-cta--recording-docket" data-rr-design="thales-wyoming-checkerboard" data-rr-taste-cta=""><div class="rr-taste-cta-copy"><p class="rr-taste-kicker">Sell Mineral Rights Wyoming</p><h2>Put This Tract on the Wyoming Recording Docket</h2><p>Share the Wyoming county, owner name, interest type, producing status, and the decision that needs a clearer answer.</p></div><div class="rr-taste-cta-actions"><a class="rr-taste-button rr-taste-cta-primary" href="/contact#contact-form">Request a Wyoming Review</a><a class="rr-taste-button rr-taste-cta-secondary" href="tel:+13075551036">Call 307-555-1036</a></div></section></div></div></main>
+<main role="main"><section class="rr-taste-hero rr-taste-hero rr-taste-hero--long" style="--rr-hero-image:url('/ours/basins/mineral-rights-basins-powder-river-basin-sellmineralrightswyoming-com.jpg')"><img alt="" aria-hidden="true" class="rr-taste-hero-media" src="/ours/basins/mineral-rights-basins-powder-river-basin-sellmineralrightswyoming-com.jpg"/><div class="rr-taste-hero-copy"><h1 class="content-page-head__title title-h2">Sell Mineral Rights in Owl Creek, WY</h1></div></section><div class="rr-taste-prose-shell"><div class="rr-taste-generated-prose" data-rr-prose="detail" data-rr-taste-prose=""><p>Owl Creek runs through Hot Springs County near some of the oldest oil production in the Bighorn Basin, ground that has been in field development since early in the last century.</p><p>Hot Springs County's fields — Grass Creek and Hamilton Dome among them — are old, structurally complex Bighorn Basin anticlines that have gone through primary production and, in places, later recovery phases. If your minerals sit near Owl Creek, they are more likely tied to an established, long-producing field than to any recent wildcat activity, and that gives us a solid production record to price against.</p><p>Owl Creek itself cuts through rugged, folded terrain typical of this end of the basin, and a lot of the ranch land along it has been in the same families since before the fields were fully developed.</p><h2>Long production history, steady decline</h2><p>Fields in this part of Hot Springs County have been producing for generations, which means the decline curve is well understood rather than speculative. A mineral interest tied to one of these older units typically pays a modest, predictable royalty, and that predictability is exactly what lets us price it with confidence.</p><h2>Ranch land and reserved minerals</h2><p>This is working ranch country, and mineral rights were commonly reserved separately when land traded hands generations ago. If you hold a mineral interest without owning the ranch it sits under, that is the typical local pattern, and Hot Springs County clerk records in Thermopolis let us trace the severance.</p><h2>What to send</h2><p>A division order or check stub with your decimal interest moves things fastest. Without one, the legal description from an old lease or deed lets us trace it.</p><h2>Build the Sell Mineral Rights in Owl Creek, WY County-Record Packet</h2><p>A location name is only the first line of a Wyoming mineral file. The working packet should connect Sell Mineral Rights in Owl Creek, WY to the county, legal description, section, township, range, owner name, vesting instrument, reservations, lease, division order, payor record, and any probate or trust document that changed the chain. The Own minerals near Owl Creek, Hot Springs County, close to the historic Grass Creek and Hamilton Dome fields? Get an offer grounded in real history. That local context belongs beside the recorded evidence, not in place of it. Where fee minerals meet federal or state ownership, the packet should also identify which tract, depth, or formation is actually private and conveyable before any acreage or paid decimal is carried into an offer.</p><h2>Keep the Paid Interest and the Deed Scope Aligned</h2><p>A royalty statement can show what is being paid around Sell Mineral Rights in Owl Creek, WY, but the statement does not by itself prove the full mineral estate. The review should reconcile the paid decimal to the ownership fraction, lease royalty, unit allocation, well, product, production month, deductions, taxes, suspense, and any adjustment line. The proposed deed and written purchase scope should then repeat the verified owner, county, legal description, included depths or formations, effective date, conveyed fraction, retained interest, pre-closing proceeds, title conditions, and recording instructions. Any mismatch stays on the curative list until the supporting record resolves it.</p><section class="rr-taste-faq rr-taste-faq--curative-folds" data-rr-design="thales-wyoming-checkerboard" data-rr-taste-faq=""><div class="rr-taste-faq-head"><div><p class="rr-taste-kicker">WYOMING CURATIVE FILE</p><h2>Resolve the Record Question Before It Reaches the Deed</h2></div><p class="rr-taste-faq-intro">Each answer points back to a county instrument, legal description, paid line, well record, checkerboard boundary, or written term that can be checked.</p></div><div class="rr-taste-faq-items"><details class="rr-taste-faq-item"><summary>your interest is tied to a very old well. Is it still worth selling?</summary><div class="rr-taste-faq-answer"><p>Yes, often — old, well-documented production is easier to price confidently than a new, unproven well.</p></div></details><details class="rr-taste-faq-item"><summary>you do not own the ranch, just a mineral fraction under it. Is that normal here?</summary><div class="rr-taste-faq-answer"><p>Very common in Hot Springs County. Minerals were often reserved separately from the ranch surface. We confirm through the deed record.</p></div></details><details class="rr-taste-faq-item"><summary>What if your check stubs are old and you have lost track of who operates the well now?</summary><div class="rr-taste-faq-answer"><p>Send what you have. We can identify the current operator through state production records.</p></div></details><details class="rr-taste-faq-item"><summary>Does the rugged terrain around Owl Creek make title work harder?</summary><div class="rr-taste-faq-answer"><p>Not for us — legal descriptions and courthouse records don't change with the landscape. We can trace ownership the same way regardless of terrain.</p></div></details></div></section><section aria-label="Related Locations" class="rr-taste-related rr-taste-related--checkerboard-plat" data-rr-design="thales-wyoming-checkerboard" data-rr-taste-related=""><div class="rr-taste-related-head"><div><p class="rr-taste-kicker">ADJOINING SECTION PLATS</p><h2>Carry the Same Tract Into the Next Owner Memo</h2></div><p class="rr-taste-related-intro">Keep the legal description, ownership fraction, paid decimal, and open curative from Sell Mineral Rights in Owl Creek, WY visible while reviewing these Locations records.</p></div><div class="rr-taste-links rr-taste-links-3"><a class="rr-taste-link" href="/locations/park-county" style="--rr-link-index:1"><span aria-hidden="true" class="rr-taste-link-index">01</span><strong>Sell Mineral Rights in Park County, WY</strong><small>Minerals under the Oregon Basin, Elk Basin, or Garland fields in Park County? Talk to a landman who reads Bighorn Basin division orders every week.</small></a><a class="rr-taste-link" href="/locations/pine-bluffs-wy" style="--rr-link-index:2"><span aria-hidden="true" class="rr-taste-link-index">02</span><strong>Sell Mineral Rights in Pine Bluffs, WY</strong><small>Own minerals near Pine Bluffs on the Nebraska line, in the Wyoming reach of the DJ Basin? Get a straight offer priced to the actual unit.</small></a><a class="rr-taste-link" href="/locations/point-of-rocks-wy" style="--rr-link-index:3"><span aria-hidden="true" class="rr-taste-link-index">03</span><strong>Sell Mineral Rights in Point of Rocks, WY</strong><small>Own minerals near Point of Rocks, an old rail stop along the checkerboard in Sweetwater County? We confirm section-by-section ownership before pricing.</small></a></div><div class="rr-taste-related-actions"><a class="rr-taste-button" href="/locations">Open the Complete Wyoming Field Index</a></div></section><section class="rr-taste-cta rr-taste-cta--recording-docket" data-rr-design="thales-wyoming-checkerboard" data-rr-taste-cta=""><div class="rr-taste-cta-copy"><p class="rr-taste-kicker">Sell Mineral Rights Wyoming</p><h2>Put This Tract on the Wyoming Recording Docket</h2><p>Share the Wyoming county, owner name, interest type, producing status, and the decision that needs a clearer answer.</p></div><div class="rr-taste-cta-actions"><a class="rr-taste-button rr-taste-cta-primary" href="/contact#contact-form">Request a Wyoming Review</a><a class="rr-taste-button rr-taste-cta-secondary" href="tel:+13075551036">Call 307-555-1036</a></div></section></div></div></main>
 <footer role="contentinfo">
 <div>
 <div id="block-thales-thalesfooter">
@@ -753,17 +759,46 @@ function ensureBurger(){
 ensureBurger();setTimeout(ensureBurger,180);setTimeout(ensureBurger,600);
 window.addEventListener('click',function(e){
   var b=e.target.closest('.rr-burger');if(b){e.preventDefault();e.stopImmediatePropagation();set(!B.classList.contains('rr-nav-open'));return;}
+  var searchToggle=e.target.closest('#searchBttn,#searchBttn_mobile,[data-rr-search-toggle]');
+  if(searchToggle){rrToggleSearch(e);e.stopImmediatePropagation();return;}
   if(e.target.closest('.rr-x')||e.target.classList.contains('rr-scrim')){e.preventDefault();e.stopImmediatePropagation();set(false);return;}
   var a=e.target.closest('[data-rr-mobile] a');if(a)set(false);},true);
 document.addEventListener('keydown',function(e){if(e.key==='Escape')set(false);});
 window.addEventListener('resize',ensureBurger);
+function rrRunSearch(input){
+  if(!input)return;var q=input.value.trim().toLowerCase();if(!q)return;
+  var links=[].slice.call(document.querySelectorAll('a[href^="/"]'));
+  var match=links.find(function(a){return a.textContent.trim().toLowerCase().includes(q);});
+  var fallback=links.find(function(a){return a.getAttribute('href')==='/resources';})
+    ||links.find(function(a){return /^\/(?:services|equipment-types|locations|situations|interest-types)(?:\/|$)/.test(a.getAttribute('href')||'');})
+    ||links.find(function(a){return !/^\/(?:contact|privacy|terms|404)(?:\/|$)/.test(a.getAttribute('href')||'');});
+  window.location.href=match?match.getAttribute('href'):(fallback?fallback.getAttribute('href'):'/');
+}
+function rrToggleSearch(e){
+  e.preventDefault();B.classList.toggle('rr-search-open');
+  var panel=document.querySelector('#search,[data-rr-search-panel]'),input=panel&&panel.querySelector('input[type="search"]');
+  if(panel){var open=B.classList.contains('rr-search-open');panel.setAttribute('aria-hidden',String(!open));
+    panel.style.setProperty('display',open?'block':'none','important');if(open&&input)setTimeout(function(){input.focus();},20);}
+}
+document.querySelectorAll('#searchBttn,#searchBttn_mobile,[data-rr-search-toggle]').forEach(function(toggle){
+  toggle.setAttribute('role','button');toggle.setAttribute('tabindex','0');toggle.setAttribute('aria-label','Search');
+  toggle.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' ')rrToggleSearch(e);});
+});
 document.querySelectorAll('input[type="search"]').forEach(function(input){
-  input.addEventListener('keydown',function(e){
-    if(e.key!=='Enter')return;e.preventDefault();var q=input.value.trim().toLowerCase();
-    if(!q)return;var links=[].slice.call(document.querySelectorAll('a[href^="/"]'));
-    var match=links.find(function(a){return a.textContent.trim().toLowerCase().includes(q);});
-    window.location.href=match?match.getAttribute('href'):'/equipment-types';
-  });
+  input.addEventListener('keydown',function(e){if(e.key==='Enter'){e.preventDefault();rrRunSearch(input);}});
+  var form=input.closest('form');if(form&&!form.dataset.rrSearchReady){form.addEventListener('submit',function(e){e.preventDefault();rrRunSearch(input);});form.dataset.rrSearchReady='true';}
+});
+document.querySelectorAll('[data-href]').forEach(function(card){
+  var href=card.getAttribute('data-href');
+  if(!href||href==='#'||card.dataset.rrHrefReady)return;
+  card.setAttribute('role','link');card.setAttribute('tabindex','0');
+  function follow(e){
+    if(e.target.closest('a,button,input,select,textarea'))return;
+    e.preventDefault();window.location.href=href;
+  }
+  card.addEventListener('click',follow);
+  card.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' ')follow(e);});
+  card.dataset.rrHrefReady='true';
 });
 document.querySelectorAll('.MuiAccordionSummary-root').forEach(function(button){
   if(button.dataset.rrAccordionReady)return;
@@ -796,24 +831,21 @@ function rrEnsureControlPair(root,prev,next){
   var controls=root.querySelector(':scope > .rr-carousel-controls');
   var existingPrev=controls&&controls.querySelector('.rr-carousel-control--prev');
   var existingNext=controls&&controls.querySelector('.rr-carousel-control--next');
-  if(existingPrev&&existingNext)return {prev:existingPrev,next:existingNext};
-  [prev,next].forEach(function(legacy){
-    if(!legacy||!legacy.isConnected)return;
-    legacy.removeAttribute('aria-label');
-    legacy.removeAttribute('role');
-    legacy.removeAttribute('tabindex');
-    legacy.setAttribute('aria-hidden','true');
-    legacy.style.setProperty('display','none','important');
-  });
-  controls=document.createElement('div');
-  controls.className='rr-carousel-controls';
-  prev=document.createElement('button');next=document.createElement('button');
-  prev.type='button';next.type='button';
-  controls.appendChild(prev);controls.appendChild(next);
-  root.insertBefore(controls,root.firstChild);
-  prev.classList.add('rr-carousel-control','rr-carousel-control--prev');
-  next.classList.add('rr-carousel-control','rr-carousel-control--next');
-  [prev,next].forEach(function(control){
+  if(!controls){
+    controls=document.createElement('div');
+    controls.className='rr-carousel-controls';
+    root.appendChild(controls);
+  }
+  prev=existingPrev||prev;
+  next=existingNext||next;
+  if(!prev){prev=document.createElement('button');}
+  if(!next){next=document.createElement('button');}
+  if(prev.parentNode!==controls)controls.appendChild(prev);
+  if(next.parentNode!==controls)controls.appendChild(next);
+  if(prev.nextElementSibling!==next)controls.insertBefore(prev,next);
+  [[prev,'prev'],[next,'next']].forEach(function(pair){
+    var control=pair[0],direction=pair[1];
+    control.classList.add('rr-carousel-control','rr-carousel-control--'+direction);
     control.style.setProperty('position','relative','important');
     control.style.setProperty('display','grid','important');
     control.style.setProperty('visibility','visible','important');
@@ -824,6 +856,13 @@ function rrEnsureControlPair(root,prev,next){
     control.style.setProperty('min-width','44px','important');
     control.style.setProperty('height','44px','important');
     control.style.setProperty('min-height','44px','important');
+    control.style.setProperty('inset','auto','important');
+    control.style.setProperty('left','auto','important');
+    control.style.setProperty('right','auto','important');
+    control.style.setProperty('top','auto','important');
+    control.style.setProperty('bottom','auto','important');
+    control.style.setProperty('transform','none','important');
+    control.style.setProperty('margin','0','important');
   });
   prev.setAttribute('aria-label','Previous slide');next.setAttribute('aria-label','Next slide');
   prev.setAttribute('type','button');next.setAttribute('type','button');
@@ -1287,28 +1326,32 @@ document.querySelectorAll('[data-rr-carousel="slick"]').forEach(function(root){
 });
 document.querySelectorAll('[data-rr-carousel="native"]').forEach(function(root){
   if(root.dataset.rrNativeReady)return;
-  var items=[].slice.call(root.children).filter(function(el){return el.nodeType===1;});
+  var track=root.dataset.rrTrack?root.querySelector(root.dataset.rrTrack):root;
+  if(!track)track=root;
+  var items=root.dataset.rrSlides?[].slice.call(root.querySelectorAll(root.dataset.rrSlides)):[].slice.call(track.children).filter(function(el){return el.nodeType===1;});
   if(items.length<2)return;
-  var section=root.closest('section')||root.parentElement;
-  var controls=section&&section.querySelector('.f-properties__arrows-container');
-  if(!controls){controls=document.createElement('div');root.insertAdjacentElement('afterend',controls);}
-  var prev=document.createElement('button'),next=document.createElement('button');
-  prev.type=next.type='button';prev.className='slick-arrow slick-prev';next.className='slick-arrow slick-next';
-  prev.setAttribute('aria-label','Previous slide');next.setAttribute('aria-label','Next slide');
-  controls.appendChild(prev);controls.appendChild(next);
+  var pair=rrEnsureControlPair(root,null,null),prev=pair.prev,next=pair.next;
   var index=0,requested=parseInt(root.dataset.rrVisible||'1',10)||1;
   function visible(){return window.matchMedia('(max-width:760px)').matches?1:Math.min(requested,items.length);}
-  function render(smooth){
+  var tabs=root.dataset.rrTabs?[].slice.call(root.querySelectorAll(root.dataset.rrTabs)):[];
+  function render(){
     var count=visible(),max=Math.max(0,items.length-count);index=Math.max(0,Math.min(index,max));
-    var step=items[0].getBoundingClientRect().width;
-    root.scrollTo({left:index*step,behavior:smooth?'smooth':'auto'});
+    root.style.setProperty('overflow','hidden','important');
+    track.style.setProperty('display','flex','important');track.style.setProperty('flex-wrap','nowrap','important');track.style.setProperty('justify-content','flex-start','important');track.style.setProperty('align-items','stretch','important');track.style.setProperty('width','100%','important');track.style.setProperty('transform','translate3d('+(-index*(100/count))+'%,0,0)','important');track.style.setProperty('transition','transform 360ms ease','important');
+    items.forEach(function(item,n){var active=n>=index&&n<index+count;item.style.setProperty('display','block','important');item.style.setProperty('position','relative','important');item.style.setProperty('left','0','important');item.style.setProperty('top','0','important');item.style.setProperty('right','auto','important');item.style.setProperty('bottom','auto','important');item.style.setProperty('transform','none','important');item.style.setProperty('flex','0 0 '+(100/count)+'%','important');item.style.setProperty('min-width',(100/count)+'%','important');item.style.setProperty('width',(100/count)+'%','important');item.style.setProperty('visibility','visible','important');item.style.setProperty('opacity','1','important');item.style.setProperty('pointer-events',active?'auto':'none','important');item.classList.toggle('cmp-carousel__item--active',active);item.setAttribute('aria-hidden',String(!active));});
+    tabs.slice(0,items.length).forEach(function(tab,n){var active=n===index;tab.classList.toggle('cmp-carousel__indicator--active',active);tab.setAttribute('aria-selected',String(active));tab.setAttribute('tabindex',active?'0':'-1');});
     prev.classList.toggle('slick-disabled',index===0);next.classList.toggle('slick-disabled',index===max);
     prev.setAttribute('aria-disabled',String(index===0));next.setAttribute('aria-disabled',String(index===max));
+    root.dataset.rrCarouselIndex=String(index);
   }
-  prev.addEventListener('click',function(){index-=1;render(true);});
-  next.addEventListener('click',function(){index+=1;render(true);});
-  window.addEventListener('resize',function(){render(false);});
-  root.dataset.rrNativeReady='true';render(false);
+  prev.addEventListener('click',function(){index-=1;render();});
+  next.addEventListener('click',function(){index+=1;render();});
+  tabs.slice(0,items.length).forEach(function(tab,n){tab.addEventListener('click',function(e){e.preventDefault();index=n;render();});tab.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();index=n;render();}});});
+  var paused=false,delay=parseInt(root.dataset.rrAutoplay||'0',10)||0;
+  root.addEventListener('mouseenter',function(){paused=true;});root.addEventListener('mouseleave',function(){paused=false;});
+  if(delay)window.setInterval(function(){if(!paused){var max=Math.max(0,items.length-visible());index=index>=max?0:index+1;render();}},delay);
+  window.addEventListener('resize',render);
+  root.dataset.rrNativeReady='true';render();
 });
 document.querySelectorAll('[data-rr-carousel="splide"]').forEach(function(root){
   if(root.dataset.rrSplideReady)return;
@@ -1357,7 +1400,7 @@ document.querySelectorAll('[data-rr-carousel="swiper"]').forEach(function(root){
   Array.prototype.slice.call(list.children).forEach(function(el){if(el.classList.contains('swiper-slide-duplicate'))el.remove();});
   var index=0,requested=parseInt(root.dataset.rrVisible||'1',10)||1;
   var normalizedControls=null;
-  function isPrev(arrow){return arrow.classList.contains('rr-carousel-control--prev')||arrow.classList.contains('elementor-swiper-button-prev')||arrow.classList.contains('swiper-arrow-prev')||[].slice.call(arrow.classList).some(function(c){return c.indexOf('swiper-button-prev')===0;});}
+  function isPrev(arrow){var label=(arrow.getAttribute('aria-label')||'').toLowerCase();return label.indexOf('previous')!==-1||arrow.classList.contains('rr-carousel-control--prev')||arrow.classList.contains('elementor-swiper-button-prev')||arrow.classList.contains('swiper-arrow-prev')||[].slice.call(arrow.classList).some(function(c){return c.indexOf('swiper-button-prev')===0;});}
   function visible(){return window.matchMedia('(max-width:760px)').matches?1:Math.min(requested,slides.length);}
   function controls(){if(normalizedControls)return normalizedControls;var configured=[];if(root.dataset.rrPrev)configured=configured.concat([].slice.call(root.querySelectorAll(root.dataset.rrPrev)));if(root.dataset.rrNext)configured=configured.concat([].slice.call(root.querySelectorAll(root.dataset.rrNext)));if(configured.length)return configured;var own=root.querySelectorAll('.elementor-swiper-button-prev,.elementor-swiper-button-next,.swiper-arrow-prev,.swiper-arrow-next,[class*="swiper-button-prev"],[class*="swiper-button-next"]');if(own.length)return own;var host=root.closest('.elementor-widget')||root.parentElement||root;return host.querySelectorAll('.elementor-swiper-button-prev,.elementor-swiper-button-next,.swiper-arrow-prev,.swiper-arrow-next,[class*="swiper-button-prev"],[class*="swiper-button-next"]');}
   function bullets(){var host=root.dataset.rrCompanions?root.querySelector(root.dataset.rrCompanions):root.querySelector('.swiper-pagination');return host?[].slice.call(host.querySelectorAll('.swiper-pagination-bullet')):[];}
@@ -1365,8 +1408,6 @@ document.querySelectorAll('[data-rr-carousel="swiper"]').forEach(function(root){
   var swiperPrev=foundControls.find(isPrev);
   var swiperNext=foundControls.find(function(control){return !isPrev(control);});
   var swiperControls=rrEnsureControlPair(root,swiperPrev,swiperNext);
-  swiperControls.prev.classList.add('swiper-button-prev');
-  swiperControls.next.classList.add('swiper-button-next');
   normalizedControls=[swiperControls.prev,swiperControls.next];
   function render(){
     var count=visible(),max=Math.max(0,slides.length-count);index=Math.max(0,Math.min(index,max));
@@ -1377,9 +1418,10 @@ document.querySelectorAll('[data-rr-carousel="swiper"]').forEach(function(root){
       bullets().forEach(function(bullet,n){var active=n===index;bullet.classList.toggle('swiper-pagination-bullet-active',active);bullet.setAttribute('aria-current',active?'true':'false');});
       return;
     }
-    root.style.setProperty('overflow','hidden','important');list.style.setProperty('display','flex','important');list.style.setProperty('width',(slides.length*100/count)+'%','important');list.style.setProperty('max-width','none','important');list.style.setProperty('margin-left','0','important');list.style.setProperty('margin-right','0','important');
-    list.style.setProperty('transition','transform 420ms ease','important');list.style.setProperty('transform','translate3d('+(-index*100/slides.length)+'%,0,0)','important');
-    slides.forEach(function(slide,n){slide.style.setProperty('display','block','important');slide.style.setProperty('flex','0 0 '+(100/slides.length)+'%','important');slide.style.setProperty('width',(100/slides.length)+'%','important');slide.style.setProperty('height','auto','important');slide.classList.toggle('swiper-slide-active',n===index);slide.classList.toggle('swiper-slide-visible',n>=index&&n<index+count);slide.setAttribute('aria-hidden',String(!(n>=index&&n<index+count)));});
+    var viewport=list.parentElement,viewportWidth=(viewport&&viewport.getBoundingClientRect().width)||root.getBoundingClientRect().width,slideWidth=viewportWidth/count;
+    root.style.setProperty('overflow','hidden','important');list.style.setProperty('display','flex','important');list.style.setProperty('width',(slides.length*slideWidth)+'px','important');list.style.setProperty('max-width','none','important');list.style.setProperty('margin-left','0','important');list.style.setProperty('margin-right','0','important');
+    list.style.setProperty('transition','transform 420ms ease','important');list.style.setProperty('transform','translate3d('+(-index*slideWidth)+'px,0,0)','important');
+    slides.forEach(function(slide,n){slide.style.setProperty('display','block','important');slide.style.setProperty('flex','0 0 '+slideWidth+'px','important');slide.style.setProperty('width',slideWidth+'px','important');slide.style.setProperty('max-width',slideWidth+'px','important');slide.style.setProperty('height','auto','important');slide.classList.toggle('swiper-slide-active',n===index);slide.classList.toggle('swiper-slide-visible',n>=index&&n<index+count);slide.setAttribute('aria-hidden',String(!(n>=index&&n<index+count)));});
     controls().forEach(function(arrow){var prev=isPrev(arrow);arrow.setAttribute('aria-disabled',String((prev&&index===0)||(!prev&&index===max)));});
     bullets().forEach(function(bullet,n){var active=n===index;bullet.classList.toggle('swiper-pagination-bullet-active',active);bullet.setAttribute('aria-current',active?'true':'false');});
   }
@@ -1397,6 +1439,41 @@ document.querySelectorAll('[data-rr-carousel="swiper"]').forEach(function(root){
   if(delay){root.addEventListener('mouseenter',function(){paused=true;});root.addEventListener('mouseleave',function(){paused=false;});window.setInterval(function(){if(!paused){var max=Math.max(0,slides.length-visible());index=index>=max?0:index+1;render();}},delay);}
   window.addEventListener('resize',render);root.dataset.rrSwiperReady='true';render();
 });
+document.querySelectorAll('[data-rr-carousel="bootstrap"]').forEach(function(root){
+  if(root.dataset.rrBootstrapReady)return;
+  var selector=root.dataset.rrSlides||'.carousel-item';
+  var slides=[].slice.call(root.querySelectorAll(selector));
+  if(slides.length<2)return;
+  var configuredPrev=root.dataset.rrPrev?root.querySelector(root.dataset.rrPrev):root.querySelector('.carousel-control-prev');
+  var configuredNext=root.dataset.rrNext?root.querySelector(root.dataset.rrNext):root.querySelector('.carousel-control-next');
+  var pair=rrEnsureControlPair(root,configuredPrev,configuredNext),prev=pair.prev,next=pair.next;
+  var indicators=[].slice.call(root.querySelectorAll('[data-bs-slide-to]'));
+  var requestedStart=parseInt(root.dataset.rrStart||'0',10);
+  var index=Number.isFinite(requestedStart)?requestedStart:0;
+  function render(){
+    index=(index%slides.length+slides.length)%slides.length;
+    slides.forEach(function(slide,n){
+      var active=n===index;
+      slide.classList.toggle('active',active);
+      slide.setAttribute('aria-hidden',String(!active));
+    });
+    indicators.forEach(function(indicator,n){
+      var active=n===index;
+      indicator.classList.toggle('active',active);
+      if(active)indicator.setAttribute('aria-current','true');else indicator.removeAttribute('aria-current');
+    });
+    root.dataset.rrCarouselIndex=String(index);
+    root.dataset.rrCarouselMax=String(slides.length-1);
+    prev.disabled=false;next.disabled=false;
+    prev.setAttribute('aria-disabled','false');next.setAttribute('aria-disabled','false');
+  }
+  prev.addEventListener('click',function(e){e.preventDefault();index-=1;render();});
+  next.addEventListener('click',function(e){e.preventDefault();index+=1;render();});
+  indicators.forEach(function(indicator,n){
+    indicator.addEventListener('click',function(e){e.preventDefault();index=n;render();});
+  });
+  root.dataset.rrBootstrapReady='true';render();
+});
 document.querySelectorAll('[data-rr-carousel="horizontal"],[data-rr-carousel="true"]').forEach(function(root){
   if(root.dataset.rrHorizontalReady||root.dataset.rrCarouselReady)return;
   var track=root.dataset.rrTrack?root.querySelector(root.dataset.rrTrack):null;
@@ -1405,7 +1482,9 @@ document.querySelectorAll('[data-rr-carousel="horizontal"],[data-rr-carousel="tr
   var slides=[].slice.call(track.querySelectorAll(':scope > '+selector)).filter(function(slide){return !slide.classList.contains('slick-cloned')&&!slide.classList.contains('splide__slide--clone')&&!slide.classList.contains('swiper-slide-duplicate');});
   if(!slides.length)slides=[].slice.call(track.children).filter(function(child){return child.nodeType===1;});
   if(slides.length<2)return;
-  var pair=rrEnsureControlPair(root,null,null),prev=pair.prev,next=pair.next;
+  var configuredPrev=root.dataset.rrPrev?root.querySelector(root.dataset.rrPrev):null;
+  var configuredNext=root.dataset.rrNext?root.querySelector(root.dataset.rrNext):null;
+  var pair=rrEnsureControlPair(root,configuredPrev,configuredNext),prev=pair.prev,next=pair.next;
   var index=0,requested=parseInt(root.dataset.rrVisible||'1',10)||1;
   function visible(){return window.matchMedia('(max-width:760px)').matches?1:Math.min(requested,slides.length);}
   function render(){
@@ -1447,16 +1526,18 @@ h1,h2,h3,[data-rr-band] h4,[data-rr-band] h5,[class*="Hero_"] h1,[class*="Hero_"
 [data-rr-prose="detail"] h2,.rr-detail-prose h2{margin-top:42px!important;margin-bottom:16px!important;overflow:visible!important;text-overflow:clip!important;-webkit-line-clamp:unset;white-space:normal!important}
 [data-rr-prose="detail"] ul,.rr-detail-prose ul{padding-left:22px!important}
 [data-rr-band],[data-rr-static-grid]{overflow:visible!important;max-width:100%!important}
-[data-rr-static-grid],[data-rr-band]:not(:has([data-rr-carousel])) .elementor-loop-container,[data-rr-band]:not(:has([data-rr-carousel])) .elementor-grid{display:grid!important;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))!important;gap:24px!important;width:100%!important;max-width:1200px!important;margin-left:auto!important;margin-right:auto!important;transform:none!important;height:auto!important;min-height:0!important;opacity:1!important;visibility:visible!important}
+[data-rr-static-grid],[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .elementor-loop-container,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .elementor-grid{display:grid!important;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))!important;gap:24px!important;width:100%!important;max-width:1200px!important;margin-left:auto!important;margin-right:auto!important;transform:none!important;height:auto!important;min-height:0!important;opacity:1!important;visibility:visible!important}
 [data-rr-static-grid]>*{position:relative!important;left:auto!important;right:auto!important;top:auto!important;bottom:auto!important;float:none!important;width:auto!important;max-width:100%!important;min-width:0!important;margin:0!important;transform:none!important;opacity:1!important;visibility:visible!important}
-[data-rr-band]:not(:has([data-rr-carousel])) .slick-list,[data-rr-band]:not(:has([data-rr-carousel])) .swiper,[data-rr-band]:not(:has([data-rr-carousel])) .swiper-wrapper,[data-rr-band]:not(:has([data-rr-carousel])) .swiper-slide{overflow:visible!important;height:auto!important;transform:none!important}
+[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .slick-list,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .swiper,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .swiper-wrapper,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .swiper-slide{overflow:visible!important;height:auto!important;transform:none!important}
 [data-rr-band] img:not([data-rr-carousel] img),[data-rr-static-grid] img{display:block!important;width:100%!important;max-width:100%!important;height:auto!important;min-height:0!important;object-fit:cover!important;opacity:1!important;visibility:visible!important}
 [data-rr-carousel="slick"] .slick-list{overflow:hidden!important}
 [data-rr-band] .site-img img,[data-rr-band] .properties-img img,[data-rr-band] .communities-img img,[data-rr-band] figure img,[data-rr-band] [class*="image"] img,[data-rr-band] [class*="Image"] img{height:260px!important}
-[data-rr-band] canvas,[data-rr-static-grid] canvas,[data-rr-band]:not(:has([data-rr-carousel])) .swiper-button-prev,[data-rr-band]:not(:has([data-rr-carousel])) .swiper-button-next,[data-rr-band]:not(:has([data-rr-carousel])) .navigation-container,[class*="Video_controller"],[class*="video-button"],[class*="play-button"]{display:none!important}
-[data-rr-carousel] .rr-carousel-controls{display:flex!important;justify-content:flex-end!important;gap:10px!important;margin:24px 0 0!important}
+[data-rr-band] canvas,[data-rr-static-grid] canvas,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .swiper-button-prev,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .swiper-button-next,[data-rr-band]:not([data-rr-carousel]):not(:has([data-rr-carousel])) .navigation-container,[class*="Video_controller"],[class*="video-button"],[class*="play-button"]{display:none!important}
+[data-rr-carousel]{position:relative!important}
+[data-rr-carousel]>.rr-carousel-controls{position:absolute!important;right:20px!important;bottom:20px!important;left:auto!important;top:auto!important;z-index:30!important;display:flex!important;justify-content:flex-end!important;gap:10px!important;width:auto!important;height:auto!important;margin:0!important;transform:none!important}
 [data-rr-carousel] .rr-carousel-control{position:relative!important;display:grid!important;place-items:center!important;box-sizing:border-box!important;min-width:44px!important;width:44px!important;height:44px!important;padding:0!important;border:2px solid #fff!important;border-radius:999px!important;background:var(--rr-taste-dark,#111)!important;color:#fff!important;cursor:pointer!important}
 [data-rr-carousel] .rr-carousel-control::before{content:""!important;display:block!important;width:10px!important;height:10px!important;border-top:2px solid currentColor!important;border-right:2px solid currentColor!important}
+[data-rr-carousel] .rr-carousel-control::after{content:none!important;display:none!important}
 [data-rr-carousel] .rr-carousel-control--prev::before{transform:rotate(-135deg)!important;margin-left:4px!important}
 [data-rr-carousel] .rr-carousel-control--next::before{transform:rotate(45deg)!important;margin-right:4px!important}
 [data-rr-carousel] .rr-carousel-control.disabled,[data-rr-carousel] .rr-carousel-control:disabled{opacity:.35!important;cursor:default!important}
@@ -1524,74 +1605,4 @@ h1,h2,h3,[data-rr-band] h4,[data-rr-band] h5,[class*="Hero_"] h1,[class*="Hero_"
 .mk-gallery .mk-gallery-item,.mk-gallery .item-holder,.mk-gallery .image-hover-overlay{position:relative!important;left:auto!important;right:auto!important;top:auto!important;bottom:auto!important;width:100%!important;max-width:100%!important;min-width:0!important;height:auto!important;transform:none!important}
 .mk-gallery .mk-gallery-item img{display:block!important;width:100%!important;max-width:100%!important;height:auto!important;object-fit:cover!important}
 }
-</style><script id="rr-mineral-header-script">
-document.addEventListener("DOMContentLoaded",function(){
-  document.querySelectorAll("[data-rr-dropdown-trigger]").forEach(function(trigger){
-    trigger.addEventListener("click",function(event){
-      var host=trigger.closest(".rr-dropdown-host");
-      var panel=host&&host.querySelector(":scope > .rr-dropdown-menu");
-      if(!host||!panel)return;
-      event.preventDefault();
-      host.classList.add("rr-dropdown-open");
-      trigger.setAttribute("aria-expanded","true");
-    });
-  });
-  document.querySelectorAll("[data-rr-header-dropdown]").forEach(function(dropdown){
-    var trigger=dropdown.querySelector(".rr-header-explore-toggle");
-    if(!trigger)return;
-    trigger.addEventListener("click",function(event){
-      event.preventDefault();
-      var open=dropdown.classList.toggle("is-open");
-      trigger.setAttribute("aria-expanded",open?"true":"false");
-    });
-  });
-  document.querySelectorAll("header .rr-header-cta").forEach(function(link){
-    link.addEventListener("click",function(event){
-      event.preventDefault();
-      window.location.href="/contact#contact-form";
-    });
-  });
-  document.querySelectorAll("header [data-rr-search-toggle]").forEach(function(trigger){
-    trigger.addEventListener("click",function(event){
-      var header=trigger.closest("header"),input=header&&header.querySelector('input[type="search"]');
-      if(!header||!input)return;
-      event.preventDefault();
-      var open=header.classList.toggle("rr-search-open");
-      trigger.setAttribute("aria-expanded",open?"true":"false");
-      if(open)setTimeout(function(){input.focus();},0);
-    });
-  });
-  document.querySelectorAll("header .rr-header-search-form").forEach(function(form){
-    form.addEventListener("submit",function(event){
-      event.preventDefault();
-      var input=form.querySelector('input[type="search"]'),query=input&&input.value.trim().toLowerCase();
-      if(!query)return;
-      var links=Array.prototype.slice.call(document.querySelectorAll('header a[href^="/"],[data-rr-mobile] a[href^="/"]'));
-      var match=links.find(function(link){return link.textContent.trim().toLowerCase().indexOf(query)!==-1;});
-      window.location.href=match?match.getAttribute("href"):"/resources";
-    });
-    var submit=form.querySelector(".rr-header-search-submit");
-    if(submit)submit.addEventListener("click",function(event){
-      event.preventDefault();
-      if(form.requestSubmit)form.requestSubmit();
-      else form.dispatchEvent(new Event("submit",{cancelable:true}));
-    });
-  });
-  document.addEventListener("click",function(event){
-    document.querySelectorAll("[data-rr-header-dropdown].is-open").forEach(function(dropdown){
-      if(dropdown.contains(event.target))return;
-      dropdown.classList.remove("is-open");
-      var trigger=dropdown.querySelector(".rr-header-explore-toggle");
-      if(trigger)trigger.setAttribute("aria-expanded","false");
-    });
-  });
-  document.addEventListener("keydown",function(event){
-    if(event.key!=="Escape")return;
-    document.querySelectorAll("[data-rr-header-dropdown].is-open").forEach(function(dropdown){
-      dropdown.classList.remove("is-open");
-      var trigger=dropdown.querySelector(".rr-header-explore-toggle");
-      if(trigger){trigger.setAttribute("aria-expanded","false");trigger.focus();}
-    });
-  });
-});
-</script><script data-rr-vercel-analytics="init">window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments);};</script><script data-rr-vercel-analytics="loader" defer="" src="/_vercel/insights/script.js"></script></body>&lt;div id</html>
+</style><script data-rr-vercel-analytics="init">window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments);};</script><script data-rr-vercel-analytics="loader" defer="" src="/_vercel/insights/script.js"></script></body>&lt;div id</html>
