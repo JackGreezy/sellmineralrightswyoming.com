@@ -1,0 +1,84 @@
+{
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Documents Needed to Sell Wyoming Mineral Rights",
+ "metaDescription": "The deed, heirship, and royalty paperwork a Wyoming mineral sale actually requires, and what to do when you can't find any of it.",
+ "heroLead": "Owners always apologize for a shoebox of old paperwork. Don't. Half of what's needed to sell is already sitting in a county courthouse whether you can find your copy or not.",
+ "intro": [
+  "Selling mineral rights doesn't require a filing cabinet of documents, but a handful of them speed the process considerably. Below is the short list, roughly in the order a buyer will actually ask for it.",
+  "If you're missing something, don't let that stop you from calling. Deeds, probate filings, and lease records are public documents recorded at the county clerk's office where the minerals sit, and we pull most of this ourselves as part of a title check."
+ ],
+ "sections": [
+  {
+   "heading": "The Deed Chain",
+   "paragraphs": [
+    "The mineral deed or reservation that shows how you came to own your interest is the starting point. If you inherited it, that might be a deed from a parent or grandparent, sometimes decades old, sometimes handwritten.",
+    "You don't need the original if it's already recorded. The county clerk keeps a permanent copy indexed by grantor and grantee, and we can pull it by name and legal description even if your personal copy was lost years ago.",
+    "Some older Wyoming deeds only describe the tract by an outdated survey reference. If that's the case, we cross-check it against the current county plat ourselves rather than asking you to track down a resurvey record on your own."
+   ]
+  },
+  {
+   "heading": "Lease and Division Order Paper",
+   "paragraphs": [
+    "If your interest is leased or producing, the current lease and the most recent division order confirm the operator, the decimal interest, and the terms governing payment. These help a buyer value a producing interest accurately instead of guessing.",
+    "A stack of old royalty statements, even a few months' worth, tells us more about a well's current production than the lease alone, since decline curves shift over time and the statements are the most current data available.",
+    "If your lease predates the current operator, there may be an assignment of lease recorded at the county showing the change of hands. It's not something most owners keep on file, but it's worth mentioning if you know an operator change happened at some point."
+   ]
+  },
+  {
+   "heading": "Heirship and Probate Records",
+   "paragraphs": [
+    "If you inherited your interest and it was formally probated, the probate order or letters testamentary showing the distribution of the estate is what a buyer's title check will look for. Without it, the county record may still show a deceased relative as owner.",
+    "If probate was never opened, Wyoming allows an affidavit of heirship in many cases to establish ownership without a full court proceeding, though this depends on the size and complexity of the estate. It's worth discussing with an attorney if you're unsure which path applies.",
+    "When several siblings or cousins inherited the same interest, a single affidavit or probate record covering the whole family is usually more efficient than each heir trying to document their share separately, and it's the approach most county clerks are used to seeing."
+   ]
+  },
+  {
+   "heading": "What Speeds a Closing at the Clerk's Office",
+   "paragraphs": [
+    "A legal description that matches current county plat records, a name on the deed that matches your ID, and a chain of title with no unresolved gaps are what let a new deed record quickly rather than sitting in a curative queue.",
+    "When something doesn't match, it's rarely fatal to a sale, it just adds a step, usually a corrective deed or an affidavit correcting the discrepancy before the buyer's deed can record cleanly behind it.",
+    "Clerks in Wyoming's busier oil counties process a steady stream of mineral instruments, so a deed package that arrives complete and consistent tends to move through recording noticeably faster than one requiring a follow-up call to fix a discrepancy."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What if I lost my original deed?",
+   "answer": "It's not a problem. Deeds are recorded permanently at the county clerk's office, and we can retrieve a certified copy using your name and the property's legal description."
+  },
+  {
+   "question": "Do I need to open probate before selling inherited minerals?",
+   "answer": "Often yes, though Wyoming allows an affidavit of heirship in some situations instead of full probate. Which applies depends on the estate, so check with an attorney if you're unsure."
+  },
+  {
+   "question": "Can I sell if I don't have any royalty statements?",
+   "answer": "Yes, particularly for undeveloped acreage. Statements just help value a producing interest more precisely; their absence doesn't block a sale."
+  },
+  {
+   "question": "What is a legal description and why does it matter?",
+   "answer": "It's the surveyed description of your land by section, township, and range, and it must match county plat records for a new deed to record without a corrective filing."
+  },
+  {
+   "question": "Who actually pulls the title records, me or the buyer?",
+   "answer": "A serious buyer typically pulls and verifies the county record as part of due diligence, so you don't need to gather everything yourself before calling."
+  },
+  {
+   "question": "What if my deed lists a maiden name or an old address?",
+   "answer": "That's common and usually not a problem on its own. It just needs to be consistent with your current ID and any subsequent recorded documents so the chain of title reads clearly."
+  },
+  {
+   "question": "Do I need a survey done before selling?",
+   "answer": "No. Mineral sales rely on the existing legal description and county plat records rather than a new survey, unless there's a specific discrepancy that needs resolving first."
+  }
+ ],
+ "wordCount": 902,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-sellmineralrightswyoming-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

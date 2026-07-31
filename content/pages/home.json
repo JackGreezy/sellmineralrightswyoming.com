@@ -1,0 +1,85 @@
+{
+ "slug": "home",
+ "title": "Home",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Wyoming | Direct Buyer",
+ "metaDescription": "Sell your Wyoming mineral rights to a working landman who reads the checkerboard and split estate correctly. Producing or undeveloped, fair offers, no pressure.",
+ "heroLead": "Wyoming minerals don't value like a home or a car. A landman who's read this state's title records for twenty-five years can tell you what yours are actually worth.",
+ "intro": [
+  "If you own mineral rights in Wyoming, whether it's a producing interest kicking off a royalty check every month or acreage that's never been leased, you've probably noticed the offers you get in the mail don't seem to account for anything specific about your tract.",
+  "That's because most of them aren't specific. Ours starts with your actual deed, pulled from the county record, and your actual production or lease history if you have one."
+ ],
+ "sections": [
+  {
+   "heading": "Wyoming Is Different Ground",
+   "paragraphs": [
+    "A lot of this state is checkerboarded, sections alternating between old Union Pacific railroad grants that became private fee minerals and sections the federal government kept, still administered by the BLM out of Cheyenne today.",
+    "Split estate is common too, surface owned by one party, minerals by another. Knowing which pattern applies to your specific tract changes both the paperwork involved in a sale and how the interest gets valued, and it's the first thing we check.",
+    "Add state land board tracts into some counties, and a single spacing unit can pool fee, federal, and state minerals together under one communitization agreement. It's a lot of layers, and most out-of-state buyers never bother sorting through them before making an offer."
+   ]
+  },
+  {
+   "heading": "What We Buy",
+   "paragraphs": [
+    "Producing interests with an existing royalty history, leased acreage that hasn't been drilled yet, and raw undeveloped acreage with no lease at all. Small fractional interests split among several heirs are some of the most common sales we handle.",
+    "Whatever you own, we'll tell you plainly whether it's a fit and roughly what to expect before you commit any time to the process.",
+    "Interests tied up in an unresolved estate are common too, and we're used to walking families through the heirship or probate step alongside the sale itself rather than treating it as a separate hurdle."
+   ]
+  },
+  {
+   "heading": "How the Offer Process Works",
+   "paragraphs": [
+    "You tell us the county and what you own, we confirm it against the county record, and we build a number off your actual production or lease data and current activity nearby. We'll explain how we got there if you want the detail.",
+    "A clean title with recent statements can close in two to four weeks. Heirship or title curative issues add time, but they're routine and something we handle regularly, not a reason to walk away from a sale.",
+    "Once you sign a purchase agreement and mineral deed, we handle recording it with the county and notify the operator directly so your division order gets updated without you having to chase it down."
+   ]
+  },
+  {
+   "heading": "Why Sellers Call a Landman, Not a Website Form",
+   "paragraphs": [
+    "A lot of mineral buyers work off a spreadsheet of county tax rolls and a generic offer letter. We've spent a career reading Wyoming deeds, chasing heirship through probate files, and building the spacing units that show up on your division order.",
+    "That background means fewer surprises at closing and a number that actually reflects your specific tract, not a blanket figure sent to every owner in the county.",
+    "It also means straight answers. If your interest isn't a fit for us, or if a title issue needs an attorney before we can move forward, we'll tell you plainly instead of stringing the conversation along.",
+    "If you're just starting to think about whether selling makes sense, that's a fine reason to reach out too. Not every call ends in a sale, and that's fine with us."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know what my Wyoming mineral rights are worth?",
+   "answer": "It depends on whether the interest is producing or undeveloped, what county it's in, and where it sits against the state's checkerboard ownership pattern. We can walk through your specific tract on a call."
+  },
+  {
+   "question": "Do you buy small or fractional mineral interests?",
+   "answer": "Yes, regularly. Small fractions split among heirs are common sales, especially when the family would rather have one payment than track several small royalty checks."
+  },
+  {
+   "question": "What's the difference between fee and federal minerals in Wyoming?",
+   "answer": "Fee minerals are privately owned and can be sold or leased freely. Federal minerals are administered by the BLM, and any nearby fee interest in a pooled unit follows different lease and royalty rules as a result."
+  },
+  {
+   "question": "Is there any obligation to get an offer?",
+   "answer": "No. Requesting an offer is free and doesn't commit you to selling. Many owners just want to understand what their interest is worth."
+  },
+  {
+   "question": "How long does closing usually take?",
+   "answer": "Two to four weeks with a clean title and recent statements. Heirship or a title curative issue can extend that timeline by several weeks."
+  },
+  {
+   "question": "Can I sell only part of my mineral interest?",
+   "answer": "Yes. Some owners sell a portion and retain the rest, which lets you take some cash now while keeping upside on what remains."
+  },
+  {
+   "question": "What Wyoming counties do you buy in?",
+   "answer": "We're active across the state's producing and prospective counties, from the Powder River Basin to the Green River and Wind River Basins, wherever the deed traces back to Wyoming ground."
+  }
+ ],
+ "wordCount": 878,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-home-sellmineralrightswyoming-com.jpg",
+  "alt": "Home mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

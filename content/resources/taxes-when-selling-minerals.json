@@ -1,0 +1,84 @@
+{
+ "slug": "taxes-when-selling-minerals",
+ "title": "Taxes When You Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Taxes on Selling Wyoming Mineral Rights",
+ "metaDescription": "How capital gains, cost basis, and depletion typically apply when selling Wyoming mineral rights, and questions worth taking to your CPA.",
+ "heroLead": "Wyoming has no state income tax, which surprises a lot of sellers who assume there's a state cut coming out of their check. The federal side is where the real tax questions live.",
+ "intro": [
+  "Selling a mineral interest is generally a capital transaction, not ordinary income, which matters because the tax rate that applies depends on how long you've held the interest and what your cost basis is. None of what follows is tax advice specific to your situation, and it's worth taking your actual numbers to your CPA before filing.",
+  "Most owners' biggest surprise isn't the rate, it's the basis calculation, especially for inherited minerals where the rules work differently than owners expect."
+ ],
+ "sections": [
+  {
+   "heading": "Capital Gains, Not Ordinary Income",
+   "paragraphs": [
+    "A sale of mineral rights is typically treated as a sale of a capital asset. If you've held the interest more than a year, it generally qualifies for long-term capital gains treatment, which is usually taxed at a lower rate than ordinary income.",
+    "Interests held a year or less may be taxed as short-term gains, at ordinary income rates. Holding period rules and their application to inherited or gifted interests can get specific, so this is a good spot to confirm details with your tax advisor.",
+    "For inherited minerals, the holding period generally starts fresh at inheritance and is often treated as long-term regardless of how briefly you've actually owned the interest, though the specifics depend on how the property came to you and should be confirmed with your CPA."
+   ]
+  },
+  {
+   "heading": "Basis and Why It's Often Zero",
+   "paragraphs": [
+    "Cost basis is what you're allowed to subtract from the sale price before calculating gain. If you purchased your minerals outright, your basis is generally what you paid. If you inherited them, basis is often stepped up to the fair market value on the date of the original owner's death.",
+    "Owners who inherited minerals decades ago and never had them appraised at that time sometimes have to reconstruct that value now. This is exactly the kind of calculation your CPA can help document properly.",
+    "If your family has held the interest for multiple generations, tracing basis can mean reconstructing value across more than one prior owner. It's tedious, but it's often the difference between a gain calculated on the full sale price and one calculated on far less."
+   ]
+  },
+  {
+   "heading": "Depletion Before the Sale",
+   "paragraphs": [
+    "If your minerals were producing before you sold them, you may have been able to claim a depletion deduction against royalty income each year you owned the interest, which reduces the income reported from that production, separate from any calculation involved in the eventual sale.",
+    "Depletion taken over years of ownership can affect basis calculations at sale, which is another reason to bring your full ownership history, and not the sale price alone, to whoever prepares your return.",
+    "Percentage depletion and cost depletion are calculated differently, and which applied to your prior returns matters when reconstructing basis for the sale. Your CPA will want your historical royalty statements and prior returns to sort this out correctly."
+   ]
+  },
+  {
+   "heading": "Timing a Sale Around Your Tax Year",
+   "paragraphs": [
+    "Some owners split a sale across two tax years, or time it relative to other income, to manage their overall tax picture for the year. Whether that makes sense depends entirely on your personal financial situation.",
+    "This is genuinely worth a conversation with your CPA before closing, not after, since some strategies only work if they're structured into the sale itself rather than adjusted afterward.",
+    "Owners selling multiple separate interests sometimes stagger closings across tax years for the same reason. There's no single right approach, only the one that fits your broader financial picture, which is exactly the conversation to have before signing anything."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does Wyoming tax the sale of mineral rights?",
+   "answer": "Wyoming has no state income tax, so there's no state-level tax on the sale itself, though federal capital gains tax generally still applies."
+  },
+  {
+   "question": "What is cost basis and why does it matter for inherited minerals?",
+   "answer": "Basis is the value subtracted from your sale price to calculate gain. Inherited minerals often get a stepped-up basis to fair market value at the date of death, which can significantly reduce taxable gain."
+  },
+  {
+   "question": "Is selling mineral rights taxed differently than royalty income?",
+   "answer": "Yes, generally. Royalty income is typically taxed as ordinary income each year it's received, while a sale of the underlying minerals is usually treated as a capital gain."
+  },
+  {
+   "question": "Should I talk to a tax professional before selling?",
+   "answer": "Yes. Basis calculations, depletion history, and holding period rules are specific to your situation, so it's worth a conversation with your CPA before you close a sale, not after."
+  },
+  {
+   "question": "Can I do a 1031 exchange with mineral rights?",
+   "answer": "Mineral interests can sometimes qualify as like-kind property in a 1031 exchange, but the rules are strict and fact-specific, so confirm eligibility with a qualified intermediary and your tax advisor before relying on it."
+  },
+  {
+   "question": "Does depletion I claimed in prior years affect my sale?",
+   "answer": "It can, since depletion taken over the years of ownership factors into basis calculations at the time of sale. Bring your prior returns and royalty history to your CPA so this gets calculated correctly."
+  },
+  {
+   "question": "Will I owe tax the same year I sell, or can it be deferred?",
+   "answer": "Generally the gain is recognized in the year the sale closes, though certain structures may allow deferral in specific situations. This is a question to bring directly to your CPA before closing."
+  }
+ ],
+ "wordCount": 925,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-sellmineralrightswyoming-com.jpg",
+  "alt": "Taxes When You Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

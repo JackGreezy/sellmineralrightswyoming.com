@@ -1,0 +1,80 @@
+{
+ "slug": "non-producing-minerals",
+ "title": "Non-Producing Minerals",
+ "type": "situation",
+ "note": "acreage with no wells or expired leases",
+ "metaTitle": "Sell Non-Producing Mineral Rights in Wyoming",
+ "metaDescription": "No wells, no lease, no royalty checks. Non-producing Wyoming mineral acreage still has value tied to nearby activity. Get a written offer from us.",
+ "heroLead": "No royalty checks, no lease, maybe no activity you've ever heard about on the tract at all. Non-producing doesn't mean worthless, and we buy this kind of acreage every week.",
+ "intro": [
+  "Plenty of mineral owners in Wyoming hold acreage that's never seen a drill bit. Maybe it's in a county with scattered activity rather than a dense field. Maybe it sits on the flank of a play where the core got drilled but the edges haven't. Maybe a lease from years ago expired without a well and nobody's re-leased it since. Whatever the reason, no current income doesn't mean no current value.",
+  "We price non-producing minerals on a different basis than producing ones, and we're upfront that it's a different number. But it's not a nominal number just because there's no royalty check to point to. Real activity nearby, formation potential under your specific tract, and lease bonus trends in the area all feed into what we offer."
+ ],
+ "sections": [
+  {
+   "heading": "How We Value Acreage With No Production History",
+   "paragraphs": [
+    "Without a decline curve or royalty statement to work from, we lean on comparable data instead: recent lease bonuses paid on nearby tracts, permitting and spacing activity in your section and the surrounding ones, and which formations are known to be productive in your specific area of the basin. Wyoming counties keep detailed records of filed leases and permits, and that record is where a real number starts.",
+    "Proximity matters a lot here. A non-producing tract two sections away from an active horizontal drilling program is worth meaningfully more than one in an area that's seen no activity in a decade, even though neither one has a current royalty check. We check exactly where your acreage sits relative to what's currently being drilled before we make an offer."
+   ]
+  },
+  {
+   "heading": "Expired Leases Are Common, Not a Red Flag",
+   "paragraphs": [
+    "A lot of non-producing acreage carries a history of one or more expired leases — a company held it for a few years during an earlier phase of basin interest, paid a bonus, never drilled, and let the lease lapse. That's a completely normal pattern and doesn't indicate anything wrong with the minerals themselves. Companies let leases expire for their own portfolio reasons all the time, not because of anything specific to your tract.",
+    "If your acreage has an expired lease history, that record actually helps us, because it shows what a real operator was once willing to pay for the right to drill it, even if they ultimately moved on to other priorities."
+   ]
+  },
+  {
+   "heading": "Selling Now vs. Waiting for a Lease",
+   "paragraphs": [
+    "Some owners hold non-producing minerals hoping a company eventually offers a new lease bonus. That can happen, but there's no set timeline, and it depends entirely on whether operators expand development toward your specific section. Selling now converts an uncertain future possibility into a certain payment today.",
+    "Other owners are comfortable waiting, and that's a reasonable choice too, especially if there's specific reason to think activity is heading their direction. We're not going to tell you waiting is always wrong. We'll tell you honestly what we see happening nearby so you can decide with real information."
+   ]
+  },
+  {
+   "heading": "What We Need to Evaluate Your Tract",
+   "paragraphs": [
+    "A legal description and the county your minerals sit in is the minimum we need to start. If you have any old lease paperwork, even expired, send that too, since it tells us about the tract's history even if it's no longer active.",
+    "From there we check county records, permitting activity, and nearby drilling trends before coming back with a written offer that reflects what your specific acreage looks like today, not a generic basin-wide guess."
+   ]
+  },
+  {
+   "heading": "Formation Potential Under Your Specific Tract",
+   "paragraphs": [
+    "Not every acre in a basin sits over the same rock. Two neighboring sections can have different formation thickness, different depth to the pay zone, or sit on opposite sides of a fault that changes how a horizontal well would be landed. We look at publicly available well log and permitting data near your tract, where it exists, to understand what formations are realistically in play under your specific acreage rather than assuming the whole county is uniform.",
+    "This is part of why two owners with the same acreage count in different sections of the same county can get meaningfully different offers from us. We're pricing your ground, not a basin-wide average."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "If my minerals have never produced, do they have any real value?",
+   "answer": "Often yes, tied to nearby drilling activity, formation potential, and lease bonus trends in your area, even without a royalty history. We evaluate it on that basis rather than treating it as worthless."
+  },
+  {
+   "question": "My lease expired years ago with no well drilled. Is that a problem?",
+   "answer": "No, it's common and doesn't reflect poorly on your minerals. It actually shows an operator once valued the acreage enough to pay a bonus for it."
+  },
+  {
+   "question": "Should I wait for a new lease offer instead of selling?",
+   "answer": "That depends on whether activity is trending toward your area. We can tell you what we see happening nearby so you can weigh waiting against selling now with real information."
+  },
+  {
+   "question": "What documents do you need if there's no current lease or production?",
+   "answer": "A legal description and county are the minimum. Any old deed or expired lease paperwork you have helps but isn't required to get a starting offer."
+  },
+  {
+   "question": "How is the offer calculated without a royalty check to base it on?",
+   "answer": "We use recent lease bonus activity, permitting trends, and formation data for your specific section and surrounding area, drawn from county and state records."
+  }
+ ],
+ "status": "written",
+ "wordCount": 949,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-non-producing-minerals-sellmineralrightswyoming-com.jpg",
+  "alt": "Non-Producing Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

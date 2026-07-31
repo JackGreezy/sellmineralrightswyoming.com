@@ -1,0 +1,87 @@
+{
+ "slug": "contact",
+ "title": "Contact",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Contact — Sell Mineral Rights Wyoming",
+ "metaDescription": "Reach a Wyoming mineral rights buyer directly. Have your deed, county, and recent royalty statement ready for the fastest first answer.",
+ "heroLead": "No call center, no queue. A call about your minerals goes to someone who can actually pull the county record and talk through your specific tract.",
+ "intro": [
+  "Whether you've got a specific offer question, a royalty statement you don't understand, or you're just starting to think about selling, the fastest way to get a real answer is a direct call or a short message with the basics.",
+  "We'll ask a handful of questions up front, mostly about the county your minerals sit in and whatever paperwork you have on hand, so we can give you something more useful than a form-letter number."
+ ],
+ "sections": [
+  {
+   "heading": "How to Reach Us",
+   "paragraphs": [
+    "Use the phone number or contact form on this site to start a conversation. If you'd rather email documents directly, we'll set that up once we've talked so you're not sending sensitive paperwork to an inbox you don't have a name attached to.",
+    "We typically respond within a business day. If your situation is time-sensitive, say so in your message and we'll prioritize getting back to you.",
+    "If you'd rather talk through your situation before sending any documents at all, that's fine too. A short phone call is often the fastest way to figure out what, if anything, we need from you next.",
+    "We're also happy to answer a quick question by phone without turning it into a longer conversation if that's all you're looking for that day."
+   ]
+  },
+  {
+   "heading": "What to Have Ready",
+   "paragraphs": [
+    "The county where your minerals sit is the single most useful fact you can give us up front. Beyond that, a copy of your deed, a recent royalty statement, or a division order all speed things up considerably.",
+    "If you don't have any of that handy, don't let it stop you from calling. We can often locate the county record ourselves once we know your name and roughly where the property sits.",
+    "If you're contacting us on behalf of several heirs, having a rough sense of who else shares the interest is helpful, even if you don't yet have contact information for everyone.",
+    "None of this needs to be perfect or complete before you call. We'd rather start the conversation with partial information than have you wait weeks trying to track everything down first."
+   ]
+  },
+  {
+   "heading": "What Happens After You Call",
+   "paragraphs": [
+    "We'll ask a few questions, confirm what you own through the county record, and let you know what additional information, if any, we need to put together an offer. There's no obligation at this stage, and no pressure to move faster than you're ready to.",
+    "If you decide to move forward, we'll walk you through the purchase agreement and mineral deed step by step before anything gets signed, and answer whatever questions come up along the way.",
+    "If you decide it's not the right time, that's a fine outcome too. We're glad to leave the door open for a future conversation whenever your situation changes."
+   ]
+  },
+  {
+   "heading": "Coverage Area",
+   "paragraphs": [
+    "We buy across Wyoming's producing and prospective counties, from the Powder River Basin in the northeast to the Green River and Wind River Basins further west, wherever a deed traces back to Wyoming ground.",
+    "If you're unsure whether your county falls in an area we're active in, reach out anyway. We can generally tell you quickly whether it's a fit.",
+    "We're equally comfortable discussing a tract in a well-known producing county or one that's seen little activity to date. Either way, we'll give you a straight answer about whether your interest is one we're positioned to buy.",
+    "If your family holds interests in more than one county, mention all of them when you reach out. It's common for one inquiry to touch several tracts at once, and we'd rather look at the whole picture from the start."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there any cost or obligation to contact you?",
+   "answer": "No. An initial conversation and any offer we put together are free, and there's no obligation to sell just because you asked a question."
+  },
+  {
+   "question": "What information should I include in my first message?",
+   "answer": "Your name, the county where your minerals sit, and a general description of what you own, whether that's a producing interest, a lease, or undeveloped acreage."
+  },
+  {
+   "question": "How quickly will I hear back?",
+   "answer": "Typically within one business day. If your situation is time-sensitive, let us know in your message and we'll do our best to prioritize it."
+  },
+  {
+   "question": "Can I send documents by email?",
+   "answer": "Yes, once we've had an initial conversation and you have a direct contact to send them to, rather than an unmonitored general inbox."
+  },
+  {
+   "question": "Do you handle interests owned by multiple heirs?",
+   "answer": "Yes, regularly. We can work with one heir initially and coordinate the paperwork for the rest of the family as the process moves forward."
+  },
+  {
+   "question": "Can I call just to ask a question, without wanting to sell?",
+   "answer": "Yes. Plenty of calls are just owners trying to understand a royalty statement, a division order, or what their interest might be worth someday."
+  },
+  {
+   "question": "What if I'm not the primary contact for my family's interest?",
+   "answer": "That's fine. Reach out with what you know, and we can help figure out who else needs to be involved as the conversation moves forward."
+  }
+ ],
+ "wordCount": 878,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-contact-sellmineralrightswyoming-com.jpg",
+  "alt": "Contact mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

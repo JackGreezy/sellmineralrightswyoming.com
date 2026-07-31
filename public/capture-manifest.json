@@ -1,0 +1,32 @@
+{
+  "src": "https://www.thalesgroup.com/en",
+  "host": "thalesgroup.com",
+  "pages": [
+    {
+      "label": "home",
+      "url": "https://www.thalesgroup.com/en",
+      "bytes": 286326
+    },
+    {
+      "label": "about",
+      "url": "https://www.thalesgroup.com/en/about-thales",
+      "bytes": 294315
+    },
+    {
+      "label": "contact",
+      "url": "https://www.thalesgroup.com/en/contacts",
+      "bytes": 282135
+    },
+    {
+      "label": "index",
+      "url": "https://www.thalesgroup.com/en/news-centre",
+      "bytes": 868
+    },
+    {
+      "label": "slug",
+      "url": "https://www.thalesgroup.com/en/research-and-innovation/new-world-quantum",
+      "bytes": 284384
+    }
+  ],
+  "capturedAt": "see-fs-mtime"
+}

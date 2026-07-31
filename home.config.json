@@ -1,0 +1,31 @@
+{
+  "domain": "sellmineralrightswyoming.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightswyoming.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightswyoming.com",
+  "reference": "https://www.thalesgroup.com/en",
+  "refhost": "thalesgroup-com",
+  "biz": "Sell Mineral Rights Wyoming",
+  "businessName": "Sell Mineral Rights Wyoming",
+  "wordmark_l1": "SELL MINERAL RIGHTS",
+  "wordmark_l2": "WYOMING",
+  "city": "Casper",
+  "state": "Wyoming",
+  "region": "Casper, the Powder River Basin, the Green River Basin, and mineral-producing counties across Wyoming",
+  "phone": "307-555-1036",
+  "email": "wyoming@sellmineralrightswyoming.com",
+  "address": "123 W 1st St, Casper, WY 82601",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "brand_favicon": "/favicon.svg",
+  "hero_image": "/ours/pages/mineral-rights-pages-home-sellmineralrightswyoming-com.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightswyoming.com/site-voice.json",
+  "nav": [
+    ["Owner Situations", "/situations"],
+    ["Interest Types", "/interest-types"],
+    ["Wyoming Basins", "/basins"],
+    ["Field Guides", "/resources"],
+    ["Wyoming Areas", "/locations"],
+    ["About", "/about"]
+  ],
+  "cta": ["Request a Wyoming Review", "/contact#contact-form"]
+}

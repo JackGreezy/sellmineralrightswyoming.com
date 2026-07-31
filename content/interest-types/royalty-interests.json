@@ -1,0 +1,72 @@
+{
+ "slug": "royalty-interests",
+ "title": "Royalty Interests",
+ "type": "interest-type",
+ "metaTitle": "Sell Wyoming Royalty Interests | Cash Offer",
+ "metaDescription": "Getting royalty checks from a Wyoming well but don't own the leasing rights? We buy royalty interests statewide. Get a written offer on your stream.",
+ "heroLead": "A royalty interest gets you a check when the well produces and no bill when it doesn't. That's the whole deal, and it's a real asset we buy regularly.",
+ "intro": [
+  "A royalty interest is the right to a share of production revenue from a well, free of the costs of drilling and operating it. It's distinct from owning the underlying minerals outright, which includes the right to lease the ground and negotiate terms. Most royalty owners in Wyoming got there one of two ways: they leased their own minerals to an operator and retained a royalty under that lease, or they inherited or purchased a royalty interest that had already been carved out of someone else's mineral ownership.",
+  "Whichever path brought you here, a royalty interest pays out as a percentage of the value of oil and gas produced, typically a percentage of gross proceeds before drilling and lease operating costs are deducted, though the exact deduction treatment depends on your specific lease or conveyance language."
+ ],
+ "sections": [
+  {
+   "heading": "Landowner Royalty vs. Purchased Royalty",
+   "paragraphs": [
+    "A landowner royalty is what a mineral owner keeps when they sign an oil and gas lease — commonly one-eighth historically, though modern Wyoming leases in active basins often run higher depending on negotiating position and competition among operators at the time of leasing. That royalty stays with the mineral owner as long as the lease is in effect and the well produces.",
+    "A purchased or inherited royalty interest, sometimes called a non-participating royalty depending on how it was created, is a standalone asset that doesn't carry the right to negotiate future leases, just the right to a defined percentage of production revenue. Both types are real, valuable, and separately saleable, but they're valued somewhat differently because of what rights come attached."
+   ]
+  },
+  {
+   "heading": "How Royalty Income Actually Behaves",
+   "paragraphs": [
+    "A royalty check tracks the well's production volume and the commodity price at the time of sale, both of which move constantly. A new well typically peaks in its first year or two, then declines, sometimes steeply for tight shale plays and more gradually for tight gas formations like those in the Green River Basin. Your check size will reflect that curve, and a shrinking check doesn't automatically mean something's wrong — it's usually just the ordinary decline pattern playing out.",
+    "Commodity price swings hit on top of that volume decline. Two identical months of oil production can produce very different royalty checks depending on where crude or gas prices sat that month. Reading a royalty statement means separating these two effects — is the check smaller because the well is declining, or because prices moved, or both."
+   ]
+  },
+  {
+   "heading": "What We Look at When Pricing a Royalty Interest",
+   "paragraphs": [
+    "We start with your actual payment history if you have it — division orders, check stubs, or 1099 statements from the operator all help establish the real production and price trend on your specific interest. From there we model the remaining decline curve for the well or wells involved and estimate a realistic value for the future income stream, discounted to reflect that a dollar today is worth more than an uncertain dollar five years from now.",
+    "If your royalty interest doesn't come with much payment history, or is tied to a well that hasn't started producing yet, we look at comparable wells nearby in the same formation to build a reasonable estimate instead."
+   ]
+  },
+  {
+   "heading": "Selling a Royalty Interest vs. Continuing to Hold It",
+   "paragraphs": [
+    "A royalty interest is genuinely passive — no operating decisions, no cost exposure, just a check when the well produces. For some owners that's exactly the kind of asset worth keeping long term. For others, the unpredictability of the check size, the eventual decline to a trickle, and the administrative burden of tracking operator changes and tax paperwork make selling for a lump sum the more practical choice.",
+    "We buy royalty interests of any size, from a single well's worth of production up to a multi-well portfolio spread across several counties. Send us your division order or the legal description and county, and we'll build a written offer based on your interest's actual production history and remaining potential."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between a royalty interest and a mineral interest?",
+   "answer": "A mineral interest includes the right to lease the property and negotiate terms. A royalty interest is the right to a share of production revenue, without leasing control or drilling cost exposure."
+  },
+  {
+   "question": "Do I have to pay any of the drilling or operating costs on a royalty interest?",
+   "answer": "No. Royalty interests are free of drilling and operating costs by definition, which is what separates them from a working interest."
+  },
+  {
+   "question": "Why has my royalty check gotten smaller over time?",
+   "answer": "Usually a combination of normal well decline and commodity price movement. Most wells produce most heavily in their first year or two and taper off after that, and price swings compound the effect."
+  },
+  {
+   "question": "Can you buy my royalty interest if I've only had it a short time?",
+   "answer": "Yes. Even a short payment history gives us useful data, and we can supplement it with comparable well data nearby if needed to build a fair offer."
+  },
+  {
+   "question": "Is it better to keep collecting royalty checks or sell for a lump sum?",
+   "answer": "It depends on your goals. A royalty stream is passive but declining and unpredictable; a lump sum is certain today. We can walk through the real numbers so you decide with actual information."
+  }
+ ],
+ "status": "written",
+ "wordCount": 927,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightswyoming-com.jpg",
+  "alt": "Royalty Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

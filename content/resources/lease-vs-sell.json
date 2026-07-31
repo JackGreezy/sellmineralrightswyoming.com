@@ -1,0 +1,84 @@
+{
+ "slug": "lease-vs-sell",
+ "title": "Lease vs. Sell: Which Is Right?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Lease or Sell Your Wyoming Mineral Rights?",
+ "metaDescription": "How leasing and selling Wyoming mineral rights actually differ, what each commits you to, and which situations tend to favor one over the other.",
+ "heroLead": "Leasing and selling get talked about like they're two versions of the same decision. They're not. One keeps you in the deal for decades, the other ends your involvement at the courthouse.",
+ "intro": [
+  "A lease is a temporary grant of drilling rights to an operator in exchange for a bonus payment up front and a royalty share if production ever happens. A sale transfers your ownership outright, permanently, to whoever buys it.",
+  "Owners often ask which is smarter without realizing the two aren't really competing for the same money. Leasing bets on future production you may or may not see. Selling converts whatever you own now, producing or not, into cash today."
+ ],
+ "sections": [
+  {
+   "heading": "What Leasing Actually Commits You To",
+   "paragraphs": [
+    "A lease typically runs a primary term, often three or five years in Wyoming, and extends automatically as long as the well is producing, sometimes for decades after. You keep ownership, but an operator controls the timing and manner of development on your acreage.",
+    "The tradeoff is upside. If a well is drilled and performs well, royalty income can run for years. The risk is that many leased tracts never get drilled at all before the primary term expires, especially undeveloped acreage outside an active part of a basin.",
+    "A lease also commits you to whatever surface use, access roads, pad sites, pipeline easements, comes with development, even on a split estate tract where you own only the minerals. That's a real tradeoff for owners who also hold or care about the surface."
+   ]
+  },
+  {
+   "heading": "What Selling Actually Gives Up",
+   "paragraphs": [
+    "A sale ends your involvement. You give up any future royalty, any future lease bonus, and any say in what happens on that tract going forward, whether the buyer sees one more well or ten more over the coming decades.",
+    "In exchange, you get certainty now rather than a claim on production that decline curves, commodity prices, and operator decisions will otherwise control for years to come. For many owners, especially those with small fractional interests, that certainty is the whole point.",
+    "It also removes the ongoing administrative side: no more tracking statements, no more division orders to sign when ownership shifts, no more calls to an operator's owner relations desk when a check looks off."
+   ]
+  },
+  {
+   "heading": "The Math Behind Both Paths",
+   "paragraphs": [
+    "A buyer values a mineral interest by weighing the same production history, decline trend, and nearby activity that would drive a lease bonus or a royalty stream, then converting that into a present number. Neither figure is fixed; both move with current market activity.",
+    "Owners sometimes assume selling means leaving money on the table compared to leasing and waiting. Sometimes that's true if a well gets drilled soon after. Just as often, acreage sits leased and undrilled for years, and the bonus money is the only return an owner ever sees.",
+    "There's no way to know in advance which outcome you'll get by holding. Selling removes that uncertainty entirely, which is a real cost if a well later gets drilled, and a real benefit if it never does."
+   ]
+  },
+  {
+   "heading": "Situations That Tilt the Decision",
+   "paragraphs": [
+    "Owners with several heirs splitting a small fractional interest often lean toward selling, since dividing decades of small royalty checks among multiple people is more hassle than it's worth compared to one clean payment split once.",
+    "Owners who want to hold ground for a specific reason, family legacy, a belief in a particular play's future, or who already have significant, stable production, more often lease or hold rather than sell. There's no universally correct answer, only which tradeoff fits your situation.",
+    "Owners facing an immediate need for cash, a medical bill, a debt, an estate to settle, often find selling straightforward for reasons that have nothing to do with where they think the play is headed, and that's a legitimate reason on its own."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I sell my minerals if they're already leased?",
+   "answer": "Yes. Selling a leased interest is common; the buyer simply steps into your position as the lessor and continues receiving any future royalty under the existing lease terms."
+  },
+  {
+   "question": "Does leasing pay more than selling over time?",
+   "answer": "It can, if a well is drilled and produces well, but it depends entirely on activity that hasn't happened yet. Selling trades that uncertainty for a number based on today's known facts."
+  },
+  {
+   "question": "What happens to a lease if I sell my minerals?",
+   "answer": "The lease stays in place and transfers with the minerals. The buyer becomes the new lessor and takes over any royalty rights going forward."
+  },
+  {
+   "question": "Is it better to sell only part of my interest?",
+   "answer": "Some owners sell a portion and keep the rest, which lets you take some cash now while retaining upside on the remainder. It's a common middle path for larger interests."
+  },
+  {
+   "question": "How do I know if my acreage is likely to get drilled?",
+   "answer": "Recent permits, active leasing, and rig activity in your county are the clearest signals. An operator with acreage nearby is the strongest indicator that development could reach your tract."
+  },
+  {
+   "question": "Can I lease now and decide about selling later?",
+   "answer": "Yes. Leasing doesn't foreclose a future sale. Many owners lease first, wait to see how development plays out, and consider selling once there's a production history to value."
+  },
+  {
+   "question": "Does selling affect surface rights if I own both?",
+   "answer": "No, a mineral sale only transfers the minerals unless the agreement specifically includes surface. You can sell minerals and retain surface ownership as two separate things."
+  }
+ ],
+ "wordCount": 928,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-lease-vs-sell-sellmineralrightswyoming-com.jpg",
+  "alt": "Lease vs. Sell: Which Is Right? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

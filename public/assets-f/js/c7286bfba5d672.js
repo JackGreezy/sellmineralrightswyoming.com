@@ -1,0 +1,3 @@
+/* @license GPL-2.0-or-later https://www.drupal.org/licensing/faq */
+function OptanonWrapper(){};
+(function(){function patch(){var link=document.querySelector('.ot-cookie-policy-link');if(link)link.setAttribute('aria-label','Cookie Policy');var logo=document.querySelector('img.ot-bnr-logo');if(logo)logo.setAttribute('alt','Thales');var logo2=document.querySelector('.ot-pc-logo');if(logo2)logo2.setAttribute('aria-label','Thales');var divlogo2=document.querySelector('.ot-pc-logo img');if(divlogo2)divlogo2.setAttribute('alt','Thales');}var previous=window.OptanonWrapper;window.OptanonWrapper=function(){if(typeof previous==='function')previous();patch();if(window.OneTrust&&typeof OneTrust.OnConsentChanged==='function')OneTrust.OnConsentChanged(patch);};patch();})();;

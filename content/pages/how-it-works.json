@@ -1,0 +1,87 @@
+{
+ "slug": "how-it-works",
+ "title": "How It Works",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "How Selling Wyoming Mineral Rights Works",
+ "metaDescription": "Four steps to selling Wyoming mineral rights: tell us what you own, we pull the record, you get an offer, and we close with a recorded deed.",
+ "heroLead": "Four steps, start to finish. No listing, no showing, no waiting on a buyer to materialize.",
+ "intro": [
+  "Selling mineral rights follows a narrower path than most people expect the first time they go through it. Below is the process broken into the four stages it actually moves through, from that first conversation to a recorded deed.",
+  "None of these steps require you to have everything figured out ahead of time. We fill in what we can from the county record as we go."
+ ],
+ "sections": [
+  {
+   "heading": "Step One: You Tell Us What You Own",
+   "paragraphs": [
+    "A phone call or a short message with the county, your name as it appears on any deed you have, and whether the interest is producing, leased, or undeveloped. That's enough to start.",
+    "If you have a royalty statement, division order, or old deed handy, share it. If not, we'll work from what you can tell us and confirm the rest against the county record.",
+    "This step usually takes a few minutes. Most owners are surprised how little they need to have organized before we can get moving on the rest.",
+    "If you're reaching out on behalf of family, a rough headcount of who else shares the interest is useful here too, even before everyone's individually confirmed."
+   ]
+  },
+  {
+   "heading": "Step Two: We Pull the Records",
+   "paragraphs": [
+    "We confirm your ownership at the county clerk's office where the minerals sit, checking the legal description, the chain of title, and whether the tract falls on the fee or federal side of Wyoming's checkerboard.",
+    "For producing interests, we also review recent statement history and the well's decline trend. For undeveloped acreage, we check nearby permitting and lease activity in that part of the county.",
+    "If we find a title gap, an unresolved heirship or a legal description mismatch, we'll flag it for you here rather than let it surprise you later at closing.",
+    "This step is entirely on us. You don't need to visit the courthouse, request records yourself, or track down old family paperwork unless you want to."
+   ]
+  },
+  {
+   "heading": "Step Three: The Offer",
+   "paragraphs": [
+    "We put a number together based on what the record and the production or activity data show, and we'll explain how we got there if you want the walk-through. There's no pressure to decide on the spot.",
+    "Take the time you need. Show it to family, run it past an attorney, or just sit with it. We'll still be here when you're ready to answer either way.",
+    "If you have questions about how the checkerboard, split estate, or a pooled unit factored into the number, this is the point to ask. We'd rather you understand the offer fully than just accept it.",
+    "If the number needs to work for multiple heirs, we're glad to help think through how a sale would split, even if the final decision on dividing proceeds is a family matter outside our part of the process."
+   ]
+  },
+  {
+   "heading": "Step Four: Closing",
+   "paragraphs": [
+    "If you decide to move forward, we send a purchase agreement and mineral deed for you to review and sign in front of a notary. Once we receive the signed deed back, we record it at the county and funds move by wire or check.",
+    "If there's a title issue, an heirship gap or a legal description mismatch, we'll walk you through the curative step needed before the deed can record cleanly, and handle most of that legwork ourselves.",
+    "Once the deed is recorded, we send a copy to the operator on any producing well so your division order updates promptly, closing out the last practical piece of the transaction."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need to do anything before I call?",
+   "answer": "No, though having your deed, a royalty statement, or a division order on hand speeds things up. If you don't have any of it, we can locate the county record ourselves."
+  },
+  {
+   "question": "How is the offer amount decided?",
+   "answer": "Off your actual production or lease history, current activity nearby, and where your tract sits relative to Wyoming's checkerboard and split estate ownership patterns, not a flat countywide figure."
+  },
+  {
+   "question": "What happens at the signing step?",
+   "answer": "You'll review a purchase agreement and mineral deed, sign in front of a notary, and return it to us. There's no in-person closing table required."
+  },
+  {
+   "question": "When do I actually get paid?",
+   "answer": "Once the signed deed is received and recorded with the county, funds move by wire or check, typically within the same closing window."
+  },
+  {
+   "question": "What if there's a title problem with my deed?",
+   "answer": "Most issues, like an heirship gap or a legal description mismatch, are routine and fixable with a corrective instrument or affidavit. We handle most of that legwork as part of closing."
+  },
+  {
+   "question": "How many people do I talk to during the process?",
+   "answer": "You'll generally work with the same person from the first call through closing, rather than getting passed between different departments along the way."
+  },
+  {
+   "question": "Is there a way to speed up the process if I'm in a hurry?",
+   "answer": "Having your deed, statements, and any probate paperwork ready up front is the biggest factor in a faster closing. Beyond that, we move as quickly as the county record allows."
+  }
+ ],
+ "wordCount": 875,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-how-it-works-sellmineralrightswyoming-com.jpg",
+  "alt": "How It Works mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

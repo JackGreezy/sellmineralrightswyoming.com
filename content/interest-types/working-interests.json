@@ -1,0 +1,72 @@
+{
+ "slug": "working-interests",
+ "title": "Working Interests",
+ "type": "interest-type",
+ "metaTitle": "Sell Wyoming Working Interests | Cash Offer",
+ "metaDescription": "Own a working interest in a Wyoming well and tired of the cost calls? We buy operated and non-operated working interests statewide. Get an offer.",
+ "heroLead": "A working interest pays more than a royalty when a well does well, and costs you real money when it doesn't. If you're carrying that risk and want out, we buy working interests too.",
+ "intro": [
+  "A working interest is ownership in the right to explore for, develop, and produce oil and gas from a lease, along with the obligation to pay a proportionate share of drilling, completion, and ongoing operating costs. That's the fundamental difference from a royalty interest — a working interest owner shares in the upside of production, but also shares in the downside of a dry hole, an expensive workover, or a stretch of low prices that makes a marginal well cost more to run than it earns.",
+  "Most working interest owners in Wyoming fall into one of two categories: operators actively running the well themselves, or non-operated partners who put up capital alongside an operator and receive their share of production net of costs, without making day-to-day operating decisions. We buy both types, though the valuation approach differs."
+ ],
+ "sections": [
+  {
+   "heading": "Operated vs. Non-Operated Working Interests",
+   "paragraphs": [
+    "An operated working interest means you or your company runs the well — makes the operating decisions, manages the vendors, and carries the operational liability that goes with actually running oil and gas equipment. That's a real business, not a passive investment, and it's a different kind of asset than most of what we typically buy.",
+    "A non-operated working interest is more common among the individual owners we work with — you put capital into a well an operator runs, and you receive your proportionate share of revenue after your share of costs is deducted, without making operational decisions yourself. Division orders and joint interest billing statements track this net position, and that paperwork is central to how we value the interest."
+   ]
+  },
+  {
+   "heading": "Why Cost Exposure Changes the Math",
+   "paragraphs": [
+    "Unlike a royalty interest, a working interest's value depends heavily on the cost side, not only the production side. A well with strong gross production but high lease operating expenses, or one facing an upcoming expensive workover, might net far less than the gross numbers suggest, or even run negative in a low-price month. We look at your joint interest billing history specifically for this reason, since it shows the real net cash flow you've actually been receiving, not the theoretical gross alone.",
+    "Aging wells often see rising per-barrel operating costs as equipment needs more maintenance and production volumes shrink, which is a normal pattern but one that specifically erodes working interest value faster than it erodes royalty value, since the royalty owner never bears those costs in the first place."
+   ]
+  },
+  {
+   "heading": "Federal Leases and Working Interest Obligations",
+   "paragraphs": [
+    "Working interests tied to federal leases in Wyoming's checkerboard and BLM-administered acreage carry additional obligations beyond a private lease — bonding requirements, compliance with federal drilling and spacing rules, and BLM oversight of operations that a purely private working interest doesn't face. If your working interest sits on federal acreage, that adds a layer of regulatory exposure worth factoring into the decision to hold or sell.",
+    "We check whether a working interest is tied to a federal or private lease as part of every valuation, since it affects both the ongoing obligations you're carrying and how a transfer of the interest needs to be documented and approved."
+   ]
+  },
+  {
+   "heading": "Selling Out of a Working Interest",
+   "paragraphs": [
+    "A lot of non-operated working interest owners came into their position through a family investment, a direct participation deal from years back, or an inherited share of a small operator's project, and many would rather have a clean exit than keep receiving joint interest billing statements and covering occasional cost calls indefinitely. Selling converts that ongoing cost and revenue exposure into a single payment and ends your liability going forward.",
+    "Send us your joint interest billing history, division order, and any operating agreement you have, and we'll review the net cash flow, remaining reserves, and cost trend before making a written offer that reflects the real economics of your specific interest."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between a working interest and a royalty interest?",
+   "answer": "A working interest shares in both production revenue and the costs of drilling and operating the well. A royalty interest receives revenue only, with no cost exposure."
+  },
+  {
+   "question": "Do I have to be actively involved in operating the well to own a working interest?",
+   "answer": "No. Many working interest owners hold a non-operated position, contributing capital and sharing in net revenue while an operator handles the actual drilling and operating decisions."
+  },
+  {
+   "question": "Why would my working interest lose money in a given month?",
+   "answer": "If operating costs, including maintenance, workovers, or low commodity prices, exceed your share of gross production revenue that month, a working interest can net negative, unlike a royalty interest that never bears those costs."
+  },
+  {
+   "question": "Does selling a working interest end my obligation to pay future costs?",
+   "answer": "Yes. Once sold and properly assigned, the buyer takes on the ongoing cost and revenue position, and your obligation for future joint interest billing ends."
+  },
+  {
+   "question": "Is a working interest on a federal lease different from one on a private lease?",
+   "answer": "Yes. Federal leases carry additional bonding and compliance requirements through the BLM. We factor that into both valuation and the transfer process."
+  }
+ ],
+ "status": "written",
+ "wordCount": 896,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-working-interests-sellmineralrightswyoming-com.jpg",
+  "alt": "Working Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "domain": "sellmineralrightswyoming.com",
+ "keyword": "sell mineral rights wyoming",
+ "segment": "wyoming-state",
+ "intent": "seller",
+ "tier": "Expansion (210 head vol)",
+ "available": true,
+ "voice": "plainspoken-landman: 25yr field landman; short declaratives; courthouse-records concrete",
+ "angle": "WY pillar; federal checkerboard ownership explainer edge",
+ "taxonomyCounts": {
+  "locations": 125,
+  "basins": 3,
+  "situations": 10,
+  "interest-types": 6,
+  "resources": 10,
+  "pages": 7
+ },
+ "totalPages": 161,
+ "status": "scaffold"
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "sublette-county",
+ "title": "Sell Mineral Rights in Sublette County, WY",
+ "type": "county",
+ "group": "Green River",
+ "primaryKeyword": "sublette county mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "metaTitle": "Sell Mineral Rights in Sublette County, WY",
+ "metaDescription": "Minerals under the Jonah Field or Pinedale Anticline in Sublette County? Get an offer priced against the real spacing and BLM checkerboard on your tract.",
+ "heroLead": "Pinedale is the county seat, and Sublette County sits over two of the biggest gas fields in the Rocky Mountains — Jonah and the Pinedale Anticline. Few counties in Wyoming have a tighter link between mineral ownership and the federal checkerboard.",
+ "intro": [
+  "Sublette County is Green River Basin gas country, tight sand production out of the Lance and Mesaverde formations, developed on close well spacing across the Jonah Field and the Pinedale Anticline. Both fields were built out under federal environmental review with directional drilling from consolidated pads, which changed how spacing units get drawn compared to older Wyoming fields. If you hold minerals here, there is a good chance your tract sits inside a formally established federal unit with a specific participating area, not a loosely bounded old-style spacing unit.",
+  "This county is also where the Union Pacific checkerboard runs thickest through active development. The railroad grant gave UP the odd-numbered sections in a mile-wide band on either side of the original transcontinental route, and much of that land was later sold off with the minerals going a dozen different directions — while the even sections stayed federal, with BLM administering the minerals underneath. On a map of Jonah or the Anticline, that checkerboard pattern is why two neighboring sections can have completely different ownership rules, and why title work here takes real care."
+ ],
+ "sections": [
+  {
+   "heading": "The checkerboard and split estate in Sublette County",
+   "paragraphs": [
+    "Because of the Union Pacific land grant, a lot of Sublette County alternates between federal BLM sections and private sections that trace back to old railroad patents. Where the surface was sold off private but minerals were reserved by the railroad or a later owner, you get split estate — someone else owns the surface a rig sits on, and you own what's underneath. County clerk records in Pinedale, combined with BLM's Wyoming state office records for the federal sections, are how we confirm which pattern applies to your tract before we quote a number."
+   ]
+  },
+  {
+   "heading": "Jonah Field and the tight-sand decline curve",
+   "paragraphs": [
+    "Jonah is one of the more heavily developed tight gas fields in the country, drilled on close spacing to drain a low-permeability reservoir that does not flow easily without a lot of wellbores. That means individual well decline curves are steep early and flatten out over years, and a mineral owner's royalty stream reflects that shape — strong in the first few years after completion, then settling into a longer tail. If your interest is inside the Jonah participating area, we look at where in that curve current production sits before pricing an offer."
+   ]
+  },
+  {
+   "heading": "What drives the offer here",
+   "paragraphs": [
+    "Sublette County pricing leans heavily on which field your acreage sits in, how deep into the well's productive life the current royalty checks reflect, and whether your tract is inside an established federal participating area or still speculative acreage on the fringe. Gas price swings hit this county's royalty checks more directly than an oil county, since almost all of the production here is Lance and Mesaverde gas rather than oil, so we look at a longer stretch of your payment history than we might elsewhere to smooth out any one bad month."
+   ]
+  },
+  {
+   "heading": "The Pinedale Anticline and directional development",
+   "paragraphs": [
+    "The Anticline was developed later than Jonah and mostly from consolidated well pads using directional drilling, which was required to limit surface disturbance in mule deer and sage grouse habitat. For a mineral owner, that means your tract may be drained by a wellbore that surfaces from a pad a half mile or more away — the well location on a map is not where your minerals actually sit. We trace bottom-hole locations against your legal description before making an offer, not only surface locations."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if my minerals are inside the Jonah Field or the Pinedale Anticline participating area?",
+   "answer": "Your division order will usually name the unit or participating area directly. If you only have an old lease, send us the legal description and we can check it against BLM and Wyoming Oil and Gas Conservation Commission unit records."
+  },
+  {
+   "question": "My section is federal BLM land — do I even own minerals there?",
+   "answer": "If the section is federal, the government owns the minerals, not you. But a lot of Sublette County acreage is privately owned minerals in odd-numbered sections tied to the old railroad grant, so it depends on which section your legal description falls in."
+  },
+  {
+   "question": "Why does the well on the map look nowhere near my tract?",
+   "answer": "Anticline development uses directional drilling from consolidated pads, so a well can be bottomed under your section while surfacing somewhere else entirely. We check bottom-hole location, not only the surface pin, before pricing your interest."
+  },
+  {
+   "question": "Gas prices swing a lot — how does that affect what you'll offer?",
+   "answer": "We look at a run of recent royalty history rather than a single check, so a short-term price dip doesn't distort the number. We'll walk you through how we weighted it."
+  },
+  {
+   "question": "Do you buy interests that are still in the leasing stage but not yet producing?",
+   "answer": "We look at those case by case, weighted on how close the acreage is to established production in Jonah or the Anticline and whether permits are already filed nearby."
+  }
+ ],
+ "status": "written",
+ "wordCount": 898,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-sublette-county-wy.jpg",
+  "alt": "Sell Mineral Rights in Sublette County, WY location",
+  "width": 1600,
+  "height": 1000
+ }
+}

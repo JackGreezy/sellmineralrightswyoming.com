@@ -1,0 +1,87 @@
+{
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Privacy Policy — Sell Mineral Rights Wyoming",
+ "metaDescription": "How we collect, use, and protect information you share when requesting an offer on your Wyoming mineral rights, including deed and title records.",
+ "heroLead": "You're sharing deed and title information with us to get an accurate offer. Here's exactly how that information gets used and who sees it.",
+ "intro": [
+  "This policy covers what happens to information you provide through this site, whether that's a contact form, a phone call, or documents like a deed, division order, or royalty statement you send us as part of getting an offer.",
+  "Because valuing mineral rights requires real ownership and production detail, we handle more specific paperwork than a typical contact form, and we take that seriously."
+ ],
+ "sections": [
+  {
+   "heading": "What Information We Collect",
+   "paragraphs": [
+    "Basic contact details you provide, like your name, phone number, and email, along with anything you choose to share about your mineral interest: county, deed information, royalty statements, or division orders.",
+    "We also pull publicly available county records, deed indexes and plat maps, as part of confirming ownership. Those records are public regardless of whether you contact us, and reviewing them is a standard part of building an accurate offer.",
+    "If you submit a contact form on this site, we collect only what you enter into that form, along with basic technical details like the browser and device used, which is standard for most websites.",
+    "We don't ask for sensitive financial account numbers or passwords through this site, and you shouldn't need to provide anything like that to get an initial offer or ask a question."
+   ]
+  },
+  {
+   "heading": "How We Use Deed and Title Information",
+   "paragraphs": [
+    "Information you share is used to confirm your ownership, calculate a decimal interest, and put together an offer. Production and lease data helps us value producing interests; permitting and activity data helps us value undeveloped acreage.",
+    "We don't use information you share with us for any purpose beyond evaluating and, if you choose to proceed, closing a purchase of your mineral interest.",
+    "We also don't retain sensitive documents, like a copy of a probate order or an old deed, any longer than necessary to complete the evaluation or transaction you've requested.",
+    "Publicly available county records we pull as part of confirming ownership are used the same way any title examiner would use them, strictly to verify what you own and build an accurate offer."
+   ]
+  },
+  {
+   "heading": "Who We Share Information With",
+   "paragraphs": [
+    "We don't sell contact information or deed details to third parties. Information may be shared with title companies, notaries, or attorneys directly involved in closing a transaction you've chosen to move forward with.",
+    "Where a sale involves a county recording, that recorded deed becomes a public document, as is standard for any real property or mineral transaction, separate from any private contact information you shared with us.",
+    "If an operator needs a copy of a recorded deed to update a division order, we send only what's necessary for that purpose, not your broader contact or financial details.",
+    "We don't share your information with marketing lists, data brokers, or other buyers looking to solicit you separately. Information you give us is used for your inquiry and nothing beyond it."
+   ]
+  },
+  {
+   "heading": "Your Choices",
+   "paragraphs": [
+    "You can ask us at any time what information we have on file connected to your inquiry, and you can ask us to delete contact information if you're not moving forward with a sale.",
+    "Reaching out for an offer doesn't create any ongoing obligation, and you can stop the conversation at any point without needing to explain why.",
+    "If you'd rather communicate by phone instead of email or a web form, that's fine too. We can conduct the entire evaluation process over the phone if that's your preference."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you sell or share my contact information?",
+   "answer": "No. We don't sell contact details to third parties. Information is only shared with parties directly involved in closing a transaction you choose to proceed with, like a title company or notary."
+  },
+  {
+   "question": "Is my deed or royalty statement kept confidential?",
+   "answer": "Yes, aside from information that becomes part of the public record through county recording, which is standard for any mineral or real property transaction."
+  },
+  {
+   "question": "Can I ask what information you have about me?",
+   "answer": "Yes, reach out and we'll tell you what's on file connected to your inquiry and can delete contact information if you're not moving forward."
+  },
+  {
+   "question": "Do you use cookies or tracking on this site?",
+   "answer": "This site may use basic analytics to understand how visitors use it, but that data isn't tied to the personal or deed information you share through a contact form."
+  },
+  {
+   "question": "What happens to my information if I don't end up selling?",
+   "answer": "It stays on file only as needed to respond to your inquiry, and you can ask us to delete your contact information at any time."
+  },
+  {
+   "question": "Do you share information with other mineral buyers?",
+   "answer": "No. We don't pass your contact or deed information along to other buyers or brokers as part of doing business with us."
+  },
+  {
+   "question": "How do I request that my information be deleted?",
+   "answer": "Contact us directly using the phone number or form on this site and ask us to remove your information. We'll confirm once it's been deleted."
+  }
+ ],
+ "wordCount": 855,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-sellmineralrightswyoming-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

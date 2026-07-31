@@ -1,0 +1,72 @@
+{
+ "slug": "mineral-rights",
+ "title": "Mineral Rights",
+ "type": "interest-type",
+ "metaTitle": "Sell Mineral Rights in Wyoming | What They're Worth",
+ "metaDescription": "Own the minerals under Wyoming land, separate from the surface? We buy full mineral interests statewide, producing or not. Get a written cash offer.",
+ "heroLead": "Owning the minerals under a piece of Wyoming ground is a different thing than owning the ground itself, and a lot of owners hold one without the other. If your deed says minerals, we can put a number on it.",
+ "intro": [
+  "A mineral interest is the ownership of everything below the surface — oil, gas, coal, and other substances — separate and apart from ownership of the surface land itself. Wyoming has a long history of severing these two estates, going back to homestead-era reservations, railroad land grants, and coal company transactions from a century ago, so it's common for the person who owns the surface today to have no connection at all to who owns the minerals underneath it.",
+  "If you hold a mineral interest, you own the right to explore for and produce oil and gas from that tract, or to lease that right to an operator in exchange for a bonus payment and ongoing royalty. That's the full bundle of rights, and it's the most complete, most valuable form of ownership in the oil and gas business, more so than a royalty-only or overriding interest carved out of it."
+ ],
+ "sections": [
+  {
+   "heading": "What a Full Mineral Interest Actually Includes",
+   "paragraphs": [
+    "Owning the minerals outright means you control whether the tract gets leased at all, who it gets leased to, and on what terms — royalty rate, bonus per acre, primary term length. Once leased, you receive royalty payments on production, typically without bearing any of the drilling or operating costs, since those fall on the operator under the lease.",
+    "This is different from owning just a royalty interest, which is a right to payment without the leasing control, or a working interest, which carries drilling costs alongside the upside. A full mineral owner sits in the strongest negotiating position of the three, because everything downstream — the lease terms, the royalty rate, whether a well gets drilled at all — starts with a decision only the mineral owner can make."
+   ]
+  },
+  {
+   "heading": "How Wyoming Deeds Reserve or Convey Minerals",
+   "paragraphs": [
+    "Mineral ownership in Wyoming traces back through deed language that either conveys the minerals along with the surface, reserves them for the grantor while selling the surface, or severs them entirely into a standalone mineral deed. County clerk and recorder records show this chain, tract by tract, and reading it correctly is the difference between knowing what you actually own versus assuming based on a family story.",
+    "It's common to find a deed from the 1940s or 1950s that reserved minerals when a ranch sold its surface, with the mineral interest then passing down through the reserving family's estate ever since, sometimes fractionalizing along the way, while the surface changed hands to entirely unrelated owners multiple times. Neither owner has any claim on the other's estate, and that separation is permanent unless both parties agree otherwise."
+   ]
+  },
+  {
+   "heading": "The Wyoming Checkerboard and Federal Minerals",
+   "paragraphs": [
+    "Across a wide swath of southern Wyoming, federal mineral ownership checkerboards with private mineral ownership in an alternating pattern of sections, a legacy of the 1862 Pacific Railway Act land grants to the Union Pacific Railroad. Odd-numbered sections in that corridor were typically granted to the railroad and eventually passed into private hands; even-numbered sections stayed federal, administered by the BLM.",
+    "If your minerals sit in that corridor, knowing whether your specific section is private or federal changes the entire transaction — federal minerals carry BLM-set royalty terms, require federal lease assignment paperwork, and move through a different, generally slower process than a straight private deed. We check this against county plat records before we ever quote a number, so you know upfront which kind of asset you're actually holding."
+   ]
+  },
+  {
+   "heading": "Getting Your Interest Valued",
+   "paragraphs": [
+    "Whether your mineral interest is producing, leased but undrilled, or sitting undeveloped, we price it based on real factors: current production and decline curve where it exists, nearby drilling and permitting activity, lease bonus trends in your specific area, and the formation your tract sits over. We don't use a flat statewide number, because a mineral interest in the Powder River Basin and one in the Green River Basin are priced on completely different data.",
+    "Send us your legal description, county, and whatever deed or production paperwork you have, and we'll pull the rest from the courthouse record ourselves before coming back with a written offer."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between mineral rights and surface rights?",
+   "answer": "Mineral rights cover ownership of oil, gas, and other subsurface substances. Surface rights cover ownership of the land itself. Wyoming deeds frequently separate the two, so one person can own the surface while another owns the minerals underneath."
+  },
+  {
+   "question": "How do I know if I own the minerals under my property?",
+   "answer": "Check your deed's language, or the deed history in the county clerk and recorder's office where the property sits. Many Wyoming surface owners don't own the minerals below their land, and many mineral owners have never owned or lived on the surface at all."
+  },
+  {
+   "question": "Do you buy both producing and non-producing mineral interests?",
+   "answer": "Yes. We price producing interests based on current royalty income and decline trends, and non-producing interests based on nearby activity, formation potential, and lease bonus history."
+  },
+  {
+   "question": "What is the Wyoming checkerboard and how does it affect my minerals?",
+   "answer": "It's the alternating pattern of private and federal mineral ownership left over from 19th-century railroad land grants across parts of southern Wyoming. It affects royalty terms and closing paperwork, and we check for it as part of every offer."
+  },
+  {
+   "question": "Is owning full mineral rights better than owning a royalty interest?",
+   "answer": "A full mineral interest generally carries more control and value than a royalty-only interest, since it includes the right to negotiate leases and decide whether to lease at all. Both are real, saleable assets."
+  }
+ ],
+ "status": "written",
+ "wordCount": 984,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightswyoming-com.jpg",
+  "alt": "Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

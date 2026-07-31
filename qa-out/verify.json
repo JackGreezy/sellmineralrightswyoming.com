@@ -1,0 +1,16 @@
+{
+ "pages": 187,
+ "fails": [],
+ "warns": [
+  "G6 IMAGES: configured hero image not on situations.html",
+  "G6 IMAGES: configured hero image not on interest-types.html",
+  "G6 IMAGES: configured hero image not on basins.html",
+  "G6 IMAGES: configured hero image not on resources.html",
+  "G6 IMAGES: configured hero image not on investing.html",
+  "G6 IMAGES: configured hero image not on exchange-1031.html"
+ ],
+ "content_warnings": [
+  "investing: 10 thin items (<300 words): ['mineral-rights-as-an-investment', 'how-to-evaluate-a-mineral-package', 'producing-vs-nonproducing-for-investors', 'how-royalty-income-works', 'cash-flow-vs-long-term-value']",
+  "exchange-1031: 10 thin items (<300 words): ['is-a-1031-right-for-you', 'qualified-intermediary-basics', '45-and-180-day-deadlines', 'defer-taxes-on-your-mineral-sale', '1031-exchange-into-mineral-rights']"
+ ]
+}

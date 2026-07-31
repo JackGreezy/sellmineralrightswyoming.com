@@ -1,0 +1,88 @@
+{
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Terms of Use — Sell Mineral Rights Wyoming",
+ "metaDescription": "Terms governing use of this site, including that offers are not binding contracts and nothing here is legal, tax, or appraisal advice.",
+ "heroLead": "Plain terms, no fine print games. Read this before you use the contact form or request an offer.",
+ "intro": [
+  "These terms govern your use of this website and any offer, communication, or transaction that follows from contacting us through it. Using this site or submitting a contact form means you agree to the terms below.",
+  "We keep these terms straightforward because most owners visiting this site aren't lawyers, and neither are we pretending to be one."
+ ],
+ "sections": [
+  {
+   "heading": "Use of This Site",
+   "paragraphs": [
+    "This site provides general information about selling mineral rights in Wyoming and a way to request an offer on a mineral interest. Content here is educational and general in nature, not a substitute for advice specific to your ownership situation.",
+    "You agree to provide accurate information when requesting an offer. Providing false ownership information could delay or invalidate any resulting transaction.",
+    "Use of the contact form or phone line on this site is intended for genuine inquiries about mineral ownership. Content on this site may not be copied or republished without permission.",
+    "You're responsible for the accuracy of any information you submit, and we reserve the right to decline to proceed with an inquiry that doesn't check out against the county record."
+   ]
+  },
+  {
+   "heading": "No Legal, Tax, or Appraisal Advice",
+   "paragraphs": [
+    "Nothing on this site constitutes legal, tax, or appraisal advice. We are a mineral rights buyer, not a licensed attorney, CPA, or appraiser, and information here shouldn't be relied on as a substitute for advice from those professionals.",
+    "If your situation involves heirship, a trust, or a tax question specific to your circumstances, talk to your attorney or CPA before making a decision based solely on anything you've read here.",
+    "General descriptions of Wyoming title, heirship, or tax concepts on this site are meant to orient you to the process, not to resolve a specific legal or tax question that depends on your family's particular situation.",
+    "Nothing on this site should be read as a promise of a specific outcome, timeline, or dollar figure for your particular ownership situation, since every tract's title and production history differs."
+   ]
+  },
+  {
+   "heading": "Offers Are Not Binding Contracts",
+   "paragraphs": [
+    "Any offer number communicated verbally, by email, or through this site is preliminary and subject to confirmation of title and ownership details through the county record. It is not a binding contract until a signed purchase agreement is in place.",
+    "Either party may withdraw from a proposed transaction at any point before a purchase agreement is signed and executed, without obligation.",
+    "An offer may be adjusted if the county record reveals a title issue, an ownership discrepancy, or a decimal interest different from what was initially assumed, before any purchase agreement is finalized.",
+    "Communications through this site or by phone regarding a potential purchase do not themselves create a contract. Only a signed purchase agreement and mineral deed do."
+   ]
+  },
+  {
+   "heading": "Limitation of Liability",
+   "paragraphs": [
+    "We make reasonable efforts to provide accurate general information, but we don't guarantee that every figure, timeline, or description on this site applies exactly to your situation, since mineral ownership and county procedures vary by tract.",
+    "We aren't liable for decisions made based solely on general information on this site without independent confirmation of your specific ownership and title details.",
+    "These terms may be updated from time to time to reflect changes in how this site or our process operates. Continued use of this site after an update means you accept the current version of these terms.",
+    "If any part of these terms is found unenforceable, the remaining provisions still stand. These terms are governed by Wyoming law, consistent with where the underlying mineral transactions take place."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is an offer I receive legally binding?",
+   "answer": "No. An offer is preliminary until a signed purchase agreement and mineral deed are executed and title has been confirmed through the county record."
+  },
+  {
+   "question": "Can I back out after receiving an offer?",
+   "answer": "Yes. You're free to decline or walk away at any point before signing a purchase agreement, without obligation or penalty."
+  },
+  {
+   "question": "Is the information on this site legal or tax advice?",
+   "answer": "No. It's general and educational. For advice specific to your situation, talk to your attorney or CPA."
+  },
+  {
+   "question": "What if the county record shows different ownership than I expected?",
+   "answer": "That's not unusual with older or inherited interests. We'll walk through what the record shows and what, if anything, needs to be resolved before a sale can proceed."
+  },
+  {
+   "question": "Do these terms cover a completed sale?",
+   "answer": "A completed sale is governed by the specific purchase agreement and mineral deed you sign, which take precedence over the general terms on this site."
+  },
+  {
+   "question": "Can these terms change after I've contacted you?",
+   "answer": "Yes, they may be updated periodically. Any active transaction is still governed by the specific purchase agreement you sign, regardless of later site updates."
+  },
+  {
+   "question": "Who do I contact with questions about these terms?",
+   "answer": "Use the phone number or contact form on this site, and we'll answer directly or point you toward an attorney if your question needs one."
+  }
+ ],
+ "wordCount": 851,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-sellmineralrightswyoming-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

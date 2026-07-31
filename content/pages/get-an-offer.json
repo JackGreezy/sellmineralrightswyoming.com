@@ -1,0 +1,86 @@
+{
+ "slug": "get-an-offer",
+ "title": "Get An Offer",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Get an Offer on Your Wyoming Mineral Rights",
+ "metaDescription": "Request an offer on your Wyoming mineral rights. Tell us the county and what you own, and we'll build a number from real records, not a form letter.",
+ "heroLead": "Tell us what county your minerals sit in and roughly what you own. That's genuinely enough to start.",
+ "intro": [
+  "An offer here isn't a number pulled off a county tax roll and mailed to every owner in the area. It starts with your actual deed and, if applicable, your actual production or lease history, and it's built by someone who's done this kind of title work for twenty-five years.",
+  "You don't need to have everything organized before you reach out. Give us what you have, we'll pull the rest from the county record, and we'll tell you plainly if something's missing that would change the number."
+ ],
+ "sections": [
+  {
+   "heading": "What We Need From You",
+   "paragraphs": [
+    "At minimum, the county where your minerals sit and your name as it appears on the deed, if you know it. From there, a recent royalty statement or division order for producing interests, or whatever lease paperwork you have for undeveloped acreage, helps considerably.",
+    "If you're missing documents, say so. We'll pull the county record ourselves in most cases and confirm the decimal interest and legal description before we put a number in front of you.",
+    "If you're not sure what you own, that's a common starting point too. A rough description, a family name, and a county are often enough for us to locate the record and take it from there."
+   ]
+  },
+  {
+   "heading": "How We Build the Number",
+   "paragraphs": [
+    "For a producing interest, we look at the decline curve, the operator, and recent statement history. For undeveloped or leased acreage, we look at nearby permits, lease activity in the county, and where your tract sits against the checkerboard, fee, state, or federal minerals.",
+    "We'll walk through how we got to the number if you want the detail. Values here move with production data and activity in the area, so the figure reflects current conditions rather than a fixed formula.",
+    "If your tract sits in a spacing unit with federal or state minerals pooled alongside your fee interest, we factor the communitization agreement into the math, since it directly shapes your decimal interest and royalty terms.",
+    "We'll also flag anything unusual we find in the county record, like a stale legal description or an old lien, as part of that same review, rather than surprising you with it after an offer's already on the table."
+   ]
+  },
+  {
+   "heading": "Timeline From Call to Cash",
+   "paragraphs": [
+    "A clean title with recent statements can move from first call to funds in two to four weeks. Heirship issues, a missing probate record, or a checkerboard tract needing a BLM land status check can extend that, usually by a matter of weeks, not months.",
+    "We'll give you a realistic estimate once we've seen the county record, rather than a generic timeline that doesn't reflect your specific situation.",
+    "Owners who gather their deed, statements, and any probate paperwork before that first call tend to see the fastest timelines, though it's not a requirement to get started.",
+    "We'll keep you posted along the way rather than leaving you to wonder where things stand. A short check-in call is normal if a title issue takes longer than expected to resolve."
+   ]
+  },
+  {
+   "heading": "No-Pressure, No-Obligation, In Practice",
+   "paragraphs": [
+    "Requesting an offer doesn't commit you to anything. You'll get a number, an explanation of how we arrived at it, and time to think it over, show it to family, or run it past an attorney if you'd rather.",
+    "If the number doesn't work for you, that's a fine outcome too. Plenty of owners reach out just to understand what their interest might be worth before deciding whether selling makes sense at all.",
+    "We'd rather you take the time you need than rush into a sale you're not sure about. The offer will still be there, or can be updated, whenever you're ready to talk again."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is requesting an offer free?",
+   "answer": "Yes, there's no cost and no obligation to sell. It's a straightforward way to find out what your interest might be worth."
+  },
+  {
+   "question": "What if I don't know my exact decimal interest?",
+   "answer": "That's common and not a problem. We can determine it from the county record and your deed, or from a recent division order if you have one."
+  },
+  {
+   "question": "Can I get an offer on undeveloped acreage with no lease?",
+   "answer": "Yes. We value undeveloped acreage based on nearby permitting, lease activity, and where the tract sits relative to current drilling in the county."
+  },
+  {
+   "question": "How long is an offer good for once I receive it?",
+   "answer": "We'll give you a specific window when we send it, but we're not going to pressure you into a rushed decision. Reach out if you need more time to review it."
+  },
+  {
+   "question": "What happens if I decide not to sell?",
+   "answer": "Nothing happens. There's no obligation, and you're welcome to reach back out later if your situation changes or you want an updated number."
+  },
+  {
+   "question": "Do you need my Social Security number to give me an offer?",
+   "answer": "No. That level of detail isn't needed until closing paperwork, and only through secure channels at that point, never as part of an initial offer request."
+  },
+  {
+   "question": "Can I request an offer on behalf of a family trust or estate?",
+   "answer": "Yes. Let us know the situation and we'll walk through what documentation, like trust or probate paperwork, is needed to move forward."
+  }
+ ],
+ "wordCount": 904,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-get-an-offer-sellmineralrightswyoming-com.jpg",
+  "alt": "Get An Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

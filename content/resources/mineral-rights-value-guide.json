@@ -1,0 +1,82 @@
+{
+ "slug": "mineral-rights-value-guide",
+ "title": "What Are Mineral Rights Worth?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "What Wyoming Mineral Rights Are Worth",
+ "metaDescription": "Why Wyoming's federal checkerboard, split estate, and BLM lease layer change what a mineral interest is worth, and what actually drives the number.",
+ "heroLead": "Ask ten Wyoming mineral owners what their interest is worth and half will hedge with 'depends on the section.' They're not wrong. The grid under this state decides more than most owners realize.",
+ "intro": [
+  "There's a piece of Wyoming's history sitting under almost every mineral appraisal here that owners in other states never have to think about: the checkerboard. Sections one, three, five, and so on, alternating between land granted to the Union Pacific Railroad in the 1860s and land the federal government kept.",
+  "Those old grants became private fee minerals. What the government kept is still federal minerals today, leased and administered out of the BLM's Wyoming state office in Cheyenne. Two neighbors on the same road can own completely different kinds of interest depending on which square of the checkerboard their family land fell into."
+ ],
+ "sections": [
+  {
+   "heading": "The Checkerboard Nobody Explains",
+   "paragraphs": [
+    "The pattern runs through much of southern Wyoming along the old Union Pacific corridor, and it shows up in patches elsewhere too. If your family's minerals trace to a railroad-era patent, you likely own fee minerals outright, free to sell or lease as you see fit.",
+    "If your section fell on the federal side of the grid, the government owns those minerals, and any nearby fee owner is really selling an interest that exists alongside a federal lease, not instead of one. Knowing which pattern applies to your tract is the first real step in valuing it.",
+    "Owners who've never looked at a section plat are sometimes surprised to learn their family's land sits directly against a federal section, with a fence line or a section road being the only visible marker of a completely different ownership regime a few hundred feet away."
+   ]
+  },
+  {
+   "heading": "Split Estate and the Federal Lease Layer",
+   "paragraphs": [
+    "A lot of Wyoming ground is also split estate: one party owns the surface, another owns the minerals below it. When a well is proposed on federal minerals, the operator needs a BLM-approved Application for Permit to Drill, and that approval process moves on a different clock than a straight fee well.",
+    "Fee mineral owners inside a spacing unit that includes federal or state tracts typically get pooled into the unit through a communitization agreement, since the checkerboard rarely lines up with a natural drilling unit. That agreement is what your royalty decimal is actually built from.",
+    "State land board tracts add a third category in some counties, administered separately from both fee and federal minerals under their own leasing rules. A unit can genuinely pool all three ownership types on a single well, each with its own paperwork trail."
+   ]
+  },
+  {
+   "heading": "What Actually Moves a Number",
+   "paragraphs": [
+    "Production history is the biggest driver for a producing interest: how many months of statements exist, what the well's decline curve looks like, and which operator holds it. A well two years into a steep decline is worth a different multiple than one still climbing toward peak.",
+    "For undeveloped acreage, value tracks activity: recent permits nearby, lease bonuses being paid in the county, and whether the play in that basin is drawing rigs right now. Values move with these signals and vary with current market conditions rather than sitting at a fixed number."
+   ]
+  },
+  {
+   "heading": "Reading Your Own Tract Against the Grid",
+   "paragraphs": [
+    "We start every valuation by pulling the county plat and confirming where your tract sits against the checkerboard and whether it's split estate. That single step tells us whether we're valuing a clean fee interest or one that shares a spacing unit with federal or state minerals.",
+    "From there we layer in the production or lease data. Owners are often surprised how much the grid itself explains about why their number looks different from a cousin's interest three sections over, even on land that looks identical from the road."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does Wyoming's checkerboard affect mineral value?",
+   "answer": "It determines whether your minerals are fee-owned outright or sit alongside federal minerals in a pooled unit, which changes both the paperwork required to sell and how the interest is typically valued."
+  },
+  {
+   "question": "What is split estate and does it lower value?",
+   "answer": "Split estate just means the surface and minerals have different owners. It doesn't lower mineral value by itself, though it can add steps for an operator seeking surface access to drill."
+  },
+  {
+   "question": "Do federal minerals pay royalty the same way as fee minerals?",
+   "answer": "Yes, once pooled into a communitization agreement, but federal royalty rates and lease terms are set by BLM regulation rather than negotiated the way a private fee lease is."
+  },
+  {
+   "question": "Is a producing interest always worth more than undeveloped acreage?",
+   "answer": "Usually, since it has actual statements to appraise against, but undeveloped acreage in an active part of a basin can carry real value tied to nearby permitting and lease activity."
+  },
+  {
+   "question": "How do I find out if my tract is on the checkerboard?",
+   "answer": "The county assessor or clerk's plat records show it, and BLM's Wyoming land status records confirm which sections are federal. We check this as a standard first step before valuing any tract."
+  },
+  {
+   "question": "Does owning fee minerals next to federal sections change my paperwork?",
+   "answer": "It can. If your fee minerals are pooled into a unit alongside federal or state tracts, the communitization agreement governing that unit becomes part of the record a buyer reviews before purchase."
+  },
+  {
+   "question": "Is undeveloped checkerboard acreage worth appraising at all?",
+   "answer": "Yes, particularly if there's recent permitting or leasing nearby. Even acreage with no current production can carry real value tied to activity elsewhere in the spacing unit or the surrounding township."
+  }
+ ],
+ "wordCount": 938,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-sellmineralrightswyoming-com.jpg",
+  "alt": "What Are Mineral Rights Worth? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

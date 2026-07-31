@@ -1,0 +1,84 @@
+{
+ "slug": "royalty-statements-guide",
+ "title": "Reading Your Royalty Statements",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Read Your Wyoming Royalty Statement",
+ "metaDescription": "A plain-language breakdown of what's on a Wyoming royalty statement, why deductions and volumes move, and when a statement signals a problem.",
+ "heroLead": "The envelope shows up every month, or every quarter if the operator batches small accounts, and most owners never read past the check amount. Here's what the rest of the page is telling you.",
+ "intro": [
+  "A royalty statement is the operator's accounting of your share of production for that period, and it carries more information than the number in the corner. Owner number, property or well name, decimal interest, volumes sold, price received, deductions taken, and net paid to you.",
+  "I've read thousands of these across two careers, and the ones that confuse owners most aren't complicated, they're just unfamiliar. Once you know what each column means, a statement takes about two minutes to check."
+ ],
+ "sections": [
+  {
+   "heading": "Anatomy of the Statement",
+   "paragraphs": [
+    "Your decimal interest is the most important number on the page. It's your ownership share expressed as a long decimal, something like 0.00185422, derived from your fractional interest in the tract and the size of the spacing unit it's pooled into.",
+    "Below that you'll typically see production volumes in barrels or mcf, the price per unit the operator received, gross value, deductions, and net value. Multiply your decimal interest against the well's total to reconcile your own line, which most operators will walk you through if you call their owner relations desk.",
+    "You'll also see a check or property number tied to that specific well or unit, which is worth noting if you own interests in more than one well, since each carries its own decimal and its own line on the statement."
+   ]
+  },
+  {
+   "heading": "Why the Number Moves Every Month",
+   "paragraphs": [
+    "Oil and gas wells decline. Production typically peaks in the first year or two and then drops on a curve that's steep at first and flattens later, so a check that was strong eighteen months ago naturally shrinks even with no change in price.",
+    "Price swings layer on top of that decline. A statement can drop even when volumes hold steady, simply because the posted price for that month's oil or gas came in lower than the prior period.",
+    "Some operators also true up prior months on a later statement, adjusting for corrected volumes or pricing after the fact. A one-time spike or dip that doesn't repeat the following month is often exactly this kind of adjustment, not a sign of anything wrong."
+   ]
+  },
+  {
+   "heading": "Deductions Landowners Always Ask About",
+   "paragraphs": [
+    "Gathering, transportation, and processing costs are commonly deducted before your net is calculated, and whether that's allowed depends on the language in the original lease. Some older Wyoming leases are silent on deductions, which has been litigated more than once in state courts.",
+    "If deductions suddenly appear on a statement that never had them, or jump significantly month over month, that's worth a call to the operator's owner relations line before you assume it's an error.",
+    "Severance and ad valorem taxes are separate from post-production cost deductions and are typically itemized on their own line, since those are taxes owed on the production itself rather than a cost the operator is passing through."
+   ]
+  },
+  {
+   "heading": "When a Statement Signals Trouble",
+   "paragraphs": [
+    "A statement that goes to zero without notice, one where the decimal interest changed without a division order update, or one where the operator name changed without a transfer letter are all worth investigating before you sign anything a buyer sends you.",
+    "Owners considering a sale should pull their last six to twelve months of statements first. That history is exactly what we and any serious buyer will want to see, and it's the fastest way to get an accurate offer instead of a guess.",
+    "If statements stop arriving altogether with no explanation, don't assume the well went dry. It's worth a direct call to the operator, since address changes and administrative mixups explain a surprising share of these gaps."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my royalty check drop with no warning?",
+   "answer": "Usually production decline or a lower posted price that period, sometimes both at once. Compare the volume and price lines against a prior statement before assuming something is wrong."
+  },
+  {
+   "question": "What is a decimal interest and where does it come from?",
+   "answer": "It's your ownership share expressed as a decimal, calculated from your fractional mineral interest and the size of the unit your tract is pooled into for that well."
+  },
+  {
+   "question": "Can an operator deduct post-production costs from my royalty?",
+   "answer": "It depends on the lease language. Some Wyoming leases allow gathering and processing deductions, others are silent or prohibit them, so the original lease terms control."
+  },
+  {
+   "question": "How many months of statements should I keep?",
+   "answer": "At minimum the last twelve months, since that history is what buyers and appraisers use to estimate remaining value and to spot a well's decline pattern."
+  },
+  {
+   "question": "What do I do if my statement stops arriving?",
+   "answer": "Contact the operator's owner relations department directly. It can mean a change in operator, a title issue on the well's division order, or simply an address on file that's out of date."
+  },
+  {
+   "question": "What is severance tax and is it separate from deductions?",
+   "answer": "Severance tax is a state tax on production, itemized separately from post-production cost deductions. It's charged regardless of the lease language governing gathering or processing costs."
+  },
+  {
+   "question": "Can I request statements going further back than what I have?",
+   "answer": "Yes, most operators can provide historical statements on request through their owner relations department, which is useful if you're missing several years for a sale or an estate matter."
+  }
+ ],
+ "wordCount": 915,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-sellmineralrightswyoming-com.jpg",
+  "alt": "Reading Your Royalty Statements mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

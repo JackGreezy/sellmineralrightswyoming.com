@@ -1,0 +1,84 @@
+{
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Wyoming Mineral Deeds and Title Transfer Basics",
+ "metaDescription": "What a Wyoming mineral deed conveys, how heirship without a will gets resolved, and what title curative work looks like before a sale records.",
+ "heroLead": "A mineral deed is two pages that decide who owns what beneath a piece of ground for as long as it sits recorded at the courthouse. Getting the language right matters more than owners think.",
+ "intro": [
+  "A mineral deed conveys ownership of the oil, gas, and other minerals beneath a tract, separately from the surface. In Wyoming, minerals and surface are frequently severed, meaning different people or entities own each, and each transfers independently.",
+  "Title work is the process of confirming who currently holds that ownership by tracing the chain of deeds, probate filings, and any liens or judgments back through the county record. It's tedious, courthouse-bound work, and it's the backbone of every clean sale."
+ ],
+ "sections": [
+  {
+   "heading": "What a Mineral Deed Actually Conveys",
+   "paragraphs": [
+    "A properly drafted mineral deed identifies the grantor, the grantee, the legal description by section, township, and range, and the fractional or decimal interest being conveyed. It may reserve certain rights, like an existing lease's royalty, depending on how it's written.",
+    "Wyoming deeds are recorded at the county clerk's office in the county where the land sits, indexed by grantor and grantee name, which is how a title search traces ownership back through decades of transfers.",
+    "A deed can convey all of a tract's minerals or a specific fraction, and it can be written to include or exclude specific formations in rarer cases. Reading exactly what's conveyed, not only skimming the grantor and grantee names, matters before signing either side of one."
+   ]
+  },
+  {
+   "heading": "Heirship Without a Will",
+   "paragraphs": [
+    "When a mineral owner dies without a will, or with one that was never probated, the county record still shows their name as owner. Wyoming law provides for intestate succession, meaning the interest passes to heirs by statute, but that has to be documented before a sale can record.",
+    "Depending on the estate's size and complexity, that documentation might be an affidavit of heirship or a formal probate proceeding. An attorney familiar with Wyoming probate can advise which path fits a given family's situation.",
+    "Multiple generations of unresolved heirship can stack up on older Wyoming interests, where a grandparent's name is still on the deed and no one in the family formally handled the estate. It's more common than owners expect, and it's fixable, just with more paperwork than a single-generation transfer."
+   ]
+  },
+  {
+   "heading": "Title Curative Work",
+   "paragraphs": [
+    "Curative work is what a title examiner does to fix gaps in the record before a sale closes: correcting a misspelled name, resolving a missing signature, clearing an old lien, or reconciling a legal description that doesn't match current county plats.",
+    "Most curative issues are routine and resolve with a corrective instrument or an affidavit filed at the same clerk's office. It adds time, not risk, and a buyer who does title work regularly in Wyoming counties has usually seen the specific issue before.",
+    "Old mortgages or judgments that were never formally released from the record can also show up during curative work. Clearing them usually just requires locating the original release or a payoff letter, then recording it alongside the sale."
+   ]
+  },
+  {
+   "heading": "Recording and What Happens After",
+   "paragraphs": [
+    "Once signed and notarized, a mineral deed is recorded at the county clerk's office, which stamps it with a book and page or instrument number and enters it into the public index. That recording is what makes the transfer legally effective against later claims.",
+    "After recording, the operator on any producing well updates their division order to reflect the new owner, which is why a buyer typically sends the recorded deed to the operator directly as part of closing out the transaction.",
+    "Keep a copy of the recorded deed for your own records even after the sale closes. It's the cleanest proof of what was conveyed and when, should any question ever come up about the transaction years down the road."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between a mineral deed and a lease?",
+   "answer": "A deed transfers ownership permanently. A lease grants drilling rights to an operator for a set term in exchange for a bonus and potential royalty, while ownership stays with the mineral owner."
+  },
+  {
+   "question": "Do all heirs have to agree before selling inherited minerals?",
+   "answer": "If multiple heirs share ownership, all owners of record typically need to sign off on a sale of the whole interest, though each heir can usually sell their own individual share separately."
+  },
+  {
+   "question": "How long does title curative work usually take?",
+   "answer": "Simple issues, like a name correction, can resolve in days. Heirship requiring probate can take several weeks to a few months depending on the county court's schedule."
+  },
+  {
+   "question": "Where are Wyoming mineral deeds recorded?",
+   "answer": "At the county clerk's office in the county where the minerals are located, the same office that handles real property deeds and other recorded instruments."
+  },
+  {
+   "question": "Can I transfer mineral rights to a family member without selling?",
+   "answer": "Yes, a deed can convey minerals as a gift or estate planning transfer, though it's worth discussing tax and title implications with an attorney before doing so."
+  },
+  {
+   "question": "What if the deed lists my name with a typo or misspelling?",
+   "answer": "It's a common curative issue and usually resolves with a corrective affidavit or deed connecting the misspelled name to your correct legal name before a sale records."
+  },
+  {
+   "question": "How do I find out which county holds my deed record?",
+   "answer": "It's recorded in the county where the mineral tract physically sits, not necessarily where you live. We can help locate it if you're unsure which county that is."
+  }
+ ],
+ "wordCount": 927,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellmineralrightswyoming-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

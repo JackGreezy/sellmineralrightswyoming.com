@@ -1,0 +1,82 @@
+{
+ "slug": "how-to-sell-mineral-rights",
+ "title": "How to Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Sell Mineral Rights in Wyoming",
+ "metaDescription": "A landman's walk-through of selling Wyoming mineral rights: what paperwork you need, how offers get built, and what closing actually looks like.",
+ "heroLead": "Most owners call us with a deed, a royalty check, and a question. Here's the process from that first call to a wire in your account.",
+ "intro": [
+  "Selling mineral rights in Wyoming isn't complicated once someone walks you through it, but it looks nothing like selling a house or a truck. There's no listing, no showing, no bidding war most of the time. It's a title search, a decimal interest, and a number built off production history or lease potential.",
+  "I've worked both sides of this desk for twenty-five years, first as a landman running title for operators, now buying interests directly from owners. The steps below are the same ones I'd walk a family member through at their kitchen table."
+ ],
+ "sections": [
+  {
+   "heading": "Where the Process Starts",
+   "paragraphs": [
+    "It starts with what you actually own. A lot of owners inherited a fraction of a fraction and have never seen the deed. We pull the county record ourselves, usually from the clerk's office in the county where the land sits, and confirm the decimal interest before we ever discuss a number.",
+    "If you're getting a royalty check, bring the most recent statement to that first call. It tells us the well, the operator, and roughly what your interest is producing, which speeds everything that follows by a couple of weeks."
+   ]
+  },
+  {
+   "heading": "What We Look At Before an Offer Goes Out",
+   "paragraphs": [
+    "For producing interests, we look at the decline curve on the well, the operator's history in that field, and how many months of statements we have to work from. For undeveloped acreage, we look at nearby permits, spacing units, and whether the county is seeing lease activity at all.",
+    "Wyoming adds a layer most states don't: a lot of ground here is checkerboarded with federal minerals under BLM administration next to fee minerals under private deed. We check which pattern your tract sits in, because it changes both the paperwork and, sometimes, the timeline."
+   ]
+  },
+  {
+   "heading": "The Closing Table Reality",
+   "paragraphs": [
+    "There's no closing table, really. We send a purchase and sale agreement and a mineral deed, you review it, sign in front of a notary, and mail it back or meet locally if you'd rather. Funds move by wire or check once the deed is recorded with the county.",
+    "Recording is the part owners underestimate. County clerks in Wyoming's oil counties process a steady volume of these instruments, and a deed with a clean legal description and a matching name on the chain of title records faster than one that needs curative work first.",
+    "Once the deed records, we typically send a copy to the operator on any producing well so the division order gets updated in your name promptly, which is the last practical step before your involvement in that interest ends."
+   ]
+  },
+  {
+   "heading": "Where Landmen Bog Down Deals",
+   "paragraphs": [
+    "Heirship is the most common holdup. If a deceased owner's interest was never formally probated, the county record still shows the original owner's name, and a buyer can't record a clean deed until that's resolved, sometimes with an affidavit of heirship instead of full probate.",
+    "The second holdup is a mismatch between the legal description on an old deed and how the county has since resurveyed sections. It's usually fixable with a corrective instrument, but it takes an extra round at the clerk's office before a sale can close.",
+    "The third is simply owners who wait to gather every document before calling. It's faster the other way around: call first with what you know, and let us chase whatever's missing through the county record while you decide whether the number makes sense."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does selling mineral rights in Wyoming take?",
+   "answer": "A clean title with recent royalty statements can close in two to four weeks. Heirship issues or a checkerboard tract that needs a BLM record check can add a month or more."
+  },
+  {
+   "question": "Do I need a lawyer to sell my mineral rights?",
+   "answer": "It's not required, but if there's heirship, a trust, or unclear language in an old deed, an attorney who works Wyoming title is worth the fee before you sign anything."
+  },
+  {
+   "question": "What if I only own a small fractional interest?",
+   "answer": "Small fractions sell all the time, especially when heirs are splitting an inherited interest several ways and would rather have cash than track quarterly statements on a few dollars a month."
+  },
+  {
+   "question": "Can I sell if my minerals are leased but not producing?",
+   "answer": "Yes. An active lease with no production yet still has value tied to the operator, the acreage position, and activity in the surrounding spacing units, and it gets appraised differently than a producing interest."
+  },
+  {
+   "question": "What documents should I gather before I call?",
+   "answer": "Your deed or probate paperwork, the most recent division order, and the last few royalty statements if you have them. If you can't find any of it, we can usually locate the record ourselves through the county."
+  },
+  {
+   "question": "Do I need to be present in Wyoming to sell?",
+   "answer": "No. Most sales close entirely by mail, with documents signed in front of a local notary wherever you happen to live, so there's no need to travel."
+  },
+  {
+   "question": "What happens to my minerals after the sale closes?",
+   "answer": "Ownership transfers permanently to the buyer. Any future royalty, lease bonus, or say in development on that tract belongs to the new owner from that point forward."
+  }
+ ],
+ "wordCount": 905,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-how-to-sell-mineral-rights-sellmineralrightswyoming-com.jpg",
+  "alt": "How to Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

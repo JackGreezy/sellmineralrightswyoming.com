@@ -1,0 +1,72 @@
+{
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "metaTitle": "Surface vs. Mineral Estate in Wyoming Explained",
+ "metaDescription": "Confused whether you own the surface, the minerals, or both under your Wyoming land? We explain the split estate and buy mineral interests statewide.",
+ "heroLead": "Owning a ranch in Wyoming doesn't automatically mean you own what's under it, and owning minerals here doesn't require ever setting foot on the surface above them.",
+ "intro": [
+  "Wyoming recognizes what's called a split estate, where surface ownership and mineral ownership are treated as two separate, independently transferable pieces of property. A deed can convey the surface and reserve the minerals, convey the minerals and reserve the surface, or convey both together, and once split, the two estates can trade hands entirely independently of each other going forward.",
+  "This isn't unusual or a defect in the title. It's a normal, deliberate feature of how Wyoming land has changed hands for over a century, particularly through homestead patents that reserved minerals to the federal government, railroad land grants, and ranch sales that carved out mineral reservations for the selling family."
+ ],
+ "sections": [
+  {
+   "heading": "The Dominant Estate Doctrine",
+   "paragraphs": [
+    "Under Wyoming law, the mineral estate is generally considered dominant over the surface estate, meaning the mineral owner or their lessee has the right to use as much of the surface as is reasonably necessary to explore for and produce the minerals, even without the surface owner's consent. That right isn't unlimited — operators must use due regard for the surface owner's use of the land and, for oil and gas specifically, Wyoming's split estate statute requires notice and, in many cases, a surface use agreement or bond before entry.",
+    "This dynamic matters differently depending on which side of the split you're on. A surface owner with no mineral rights can find a well pad, road, or pipeline placed on their property without their say in whether it happens, only in how it's done and what compensation applies. A mineral owner benefits from that same dominant right when their own minerals are the ones being developed."
+   ]
+  },
+  {
+   "heading": "Federal Minerals and Wyoming's Checkerboard",
+   "paragraphs": [
+    "A large share of Wyoming's split estate involves federal mineral ownership underlying private surface, a pattern that runs especially deep through the checkerboard corridor across southern Wyoming created by the 1862 Pacific Railway Act grants to the Union Pacific Railroad. Odd-numbered sections went to the railroad and largely became private land over time; even-numbered sections stayed federal. Surface ownership in that corridor followed a similarly mixed pattern, so it's entirely possible to own private surface sitting over federal minerals, or the reverse.",
+    "Where minerals are federal, development runs through the Bureau of Land Management's leasing and permitting process rather than a private lease negotiation, and the surface owner's rights and compensation follow a somewhat different framework than they would under a purely private split estate. Knowing which pattern applies to your specific section is something we check against county and, where relevant, BLM records."
+   ]
+  },
+  {
+   "heading": "What This Means If You're Selling Minerals",
+   "paragraphs": [
+    "If you own minerals without the surface, selling your mineral interest doesn't require any involvement from whoever owns the surface today, and it doesn't affect their surface ownership at all. The two estates stay legally separate through the transaction, exactly as they were before it.",
+    "If you happen to own both the surface and the minerals together on a tract, you can choose to sell either one independently, or both together, depending on what makes sense for your situation. Selling minerals while keeping the surface is common among Wyoming landowners who want to monetize the mineral asset without giving up the ranch or homestead itself."
+   ]
+  },
+  {
+   "heading": "Figuring Out What You Own",
+   "paragraphs": [
+    "The county clerk and recorder's deed records show whether your specific tract's surface and mineral estates are unified or split, and if split, when and how the separation happened. That record is where we start before ever discussing a number, because assuming you own both when the deed says otherwise is a mistake we want to catch before you do, not after.",
+    "Send us your legal description and county, and we'll pull the deed history to confirm exactly what mineral interest, if any, you hold, separate from whatever you may or may not own on the surface."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I own the surface of my land without owning the minerals?",
+   "answer": "Yes. This is common in Wyoming, where deeds frequently reserve or convey minerals separately from the surface. Many surface owners don't hold the mineral rights beneath their own land."
+  },
+  {
+   "question": "Does the mineral owner need my permission to drill on my surface property?",
+   "answer": "Generally not to drill, since the mineral estate is dominant under Wyoming law, but they typically owe you notice and, under the state's split estate statute, a surface use agreement or bond in many cases."
+  },
+  {
+   "question": "How do I find out if my land's surface and minerals are split?",
+   "answer": "The county clerk and recorder's deed records show the ownership history for your tract, including any historical reservation or severance of minerals from the surface."
+  },
+  {
+   "question": "Can I sell my minerals if I don't own the surface?",
+   "answer": "Yes. Mineral ownership and surface ownership transfer independently. Selling your minerals doesn't require involvement from or affect whoever owns the surface."
+  },
+  {
+   "question": "What is the Wyoming checkerboard and how does it relate to split estate?",
+   "answer": "It's the alternating pattern of private and federal land ownership across parts of southern Wyoming from 19th-century railroad grants, which affects both surface and mineral ownership patterns and whether development runs through a federal or private process."
+  }
+ ],
+ "status": "written",
+ "wordCount": 901,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-sellmineralrightswyoming-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "slug": "mineral-appraisal-methods",
+ "title": "How Minerals Are Appraised",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How Wyoming Mineral Rights Are Appraised",
+ "metaDescription": "The income approach, comparable sales, and decline curve methods used to appraise Wyoming mineral interests, and where federal acreage complicates it.",
+ "heroLead": "Owners often expect a mineral appraisal to work like a home appraisal, with three recent comps and a clean number. It rarely does, and here's why.",
+ "intro": [
+  "There isn't one standard method for appraising mineral rights, and the approach usually depends on whether the interest is producing, leased but undeveloped, or raw acreage with no lease at all. Most credible appraisals blend more than one method.",
+  "None of what follows produces a fixed number. Every approach depends on data that changes month to month, decline behavior specific to that well, and activity in that part of the basin at the time of the appraisal."
+ ],
+ "sections": [
+  {
+   "heading": "Income Approach, In Plain Terms",
+   "paragraphs": [
+    "For a producing interest, this method projects future royalty income based on the well's decline curve and current commodity prices, then discounts that projected income back to a present value. It's the most common method for wells with a solid production history.",
+    "The two variables that move this number most are the discount rate applied, which reflects the risk in future production and prices, and the shape of the decline curve itself, since a well already deep into decline has less remaining value than one still near peak.",
+    "Operator identity plays a role too. A larger operator with a consistent history of maintaining wells and reporting statements on time typically gets weighed differently than a smaller operator with a spottier production record on comparable acreage."
+   ]
+  },
+  {
+   "heading": "Comparable Sales, and Why They're Hard to Find",
+   "paragraphs": [
+    "Comparable sales work the way they do in real estate, looking at recent transactions of similar interests nearby, but mineral sales aren't publicly recorded with price the way home sales are. Most sale prices stay private between buyer and seller.",
+    "What is public is the deed itself, recorded at the county, which confirms a sale happened and roughly where, even without the price. Buyers active in a county build a working sense of comparable activity over time from their own transaction history.",
+    "Lease bonus payments, when they're disclosed, sometimes offer a second data point, since bonus dollars paid for the right to drill nearby acreage can hint at how the market currently views that part of a county, even without a mineral sale price attached."
+   ]
+  },
+  {
+   "heading": "Decline Curves and Remaining Life",
+   "paragraphs": [
+    "A decline curve models how a well's production typically drops over time, often steep in the first year or two after completion and flattening into a long, low tail afterward. Estimating remaining value depends heavily on where a well currently sits on that curve.",
+    "This is why several months of recent statements matter more to an appraisal than a single check. A short production window doesn't show enough of the curve's shape to project confidently.",
+    "Wells in the same field can decline differently depending on completion technique, lateral length, and how they were spaced relative to neighboring wells, so even two wells drilled the same year on the same section can carry different remaining value."
+   ]
+  },
+  {
+   "heading": "Where Federal Acreage Complicates a Number",
+   "paragraphs": [
+    "When a spacing unit pools fee minerals with federal or state tracts under a communitization agreement, the decimal interest and lease terms follow BLM or state land office rules rather than a privately negotiated lease, which can affect royalty rate and, in turn, value.",
+    "Appraising minerals on the checkerboard means confirming which pattern applies before running any of the methods above, since a tract's status as fee, state, or federal changes both the paperwork and the assumptions that go into the number.",
+    "State land board tracts add a third layer in some Wyoming counties, alongside fee and federal, each administered under its own rules. A careful appraisal identifies which of the three applies to your tract before any of the valuation math begins."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between appraising producing and undeveloped minerals?",
+   "answer": "Producing minerals are valued largely off actual statement history and decline curves. Undeveloped acreage is valued more on nearby permitting and lease activity, since there's no production data yet."
+  },
+  {
+   "question": "Why don't mineral sale prices show up publicly like home sales?",
+   "answer": "The deed transferring ownership is public record, but the sale price is a private contract term between buyer and seller and generally isn't disclosed on the recorded document."
+  },
+  {
+   "question": "How many months of royalty statements does an appraisal need?",
+   "answer": "Six to twelve months gives a workable read on a well's decline trend. Less than that makes it harder to project remaining value with confidence."
+  },
+  {
+   "question": "Does an appraiser physically visit the property?",
+   "answer": "Usually not for a mineral interest. Appraisals rely on county records, operator statements, and public production and permitting data rather than a site visit."
+  },
+  {
+   "question": "Can two appraisers give different numbers for the same interest?",
+   "answer": "Yes. Discount rate assumptions, decline curve modeling, and how each appraiser weighs recent activity can all vary, which is why ranges rather than a single fixed figure are typical."
+  },
+  {
+   "question": "Does the operator drilling nearby wells matter to my appraisal?",
+   "answer": "Yes. An operator actively permitting and drilling near your tract is one of the strongest signals for undeveloped acreage value, since it suggests development could reach your minerals sooner rather than later."
+  },
+  {
+   "question": "How often should I get my minerals reappraised?",
+   "answer": "There's no fixed schedule, but a fresh look makes sense after a new well is completed nearby, a lease renews, or several years pass without a check on current activity in your county."
+  }
+ ],
+ "wordCount": 907,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-sellmineralrightswyoming-com.jpg",
+  "alt": "How Minerals Are Appraised mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,186 @@
+{
+  "_": "This voice belongs only to sellmineralrightswyoming.com. It is a Wyoming county-record field memorandum: plainspoken, short, and built around fee minerals, federal checkerboard ground, the legal description, the paid decimal, the county index, curative items, operator records, and the recording docket. It is never a reusable mineral-rights voice pack.",
+  "identity": {
+    "name": "Wyoming county-record field memorandum",
+    "domain_lock": "sellmineralrightswyoming.com",
+    "reusable": false,
+    "cadence": "find the tract, read the reservation, reconcile the decimal, mark the checkerboard, list the curative, write the terms, record the deed",
+    "lexicon": [
+      "county index",
+      "section plat",
+      "fee minerals",
+      "federal checkerboard",
+      "paid decimal",
+      "curative list",
+      "spacing record",
+      "owner copy",
+      "recording docket"
+    ],
+    "avoid": [
+      "personal blog voice",
+      "first-person singular narration",
+      "instant cash language",
+      "guaranteed value",
+      "highest offer claims",
+      "generic nationwide buyer copy",
+      "reusable voice pack"
+    ]
+  },
+  "scrub": [
+    ["\\bHow do I\\b", "How do you"],
+    ["\\bDo I\\b", "Do you"],
+    ["\\bCan I\\b", "Can you"],
+    ["\\bWhat if I\\b", "What if you"],
+    ["\\bAm I\\b", "Are you"],
+    ["\\bWill I\\b", "Will you"],
+    ["\\bShould I\\b", "Should you"],
+    ["\\bI['’]m\\b", "you are"],
+    ["\\bI['’]ve\\b", "you have"],
+    ["\\bI['’]ll\\b", "you will"],
+    ["\\bI['’]d\\b", "you would"],
+    ["\\bI don['’]t\\b", "you do not"],
+    ["\\bI didn['’]t\\b", "you did not"],
+    ["\\bI can['’]t\\b", "you cannot"],
+    ["\\bmyself\\b", "yourself"],
+    ["\\bmine\\b", "your mineral interest"],
+    ["\\bmy\\b", "your"],
+    ["\\bme\\b", "you"],
+    ["\\bI\\b", "you"]
+  ],
+  "heroes": [
+    [
+      "Sell Mineral Rights in Wyoming",
+      "A Wyoming mineral review built from the county record, legal description, paid decimal, producing history, lease position, checkerboard ownership, written terms, and recording path."
+    ],
+    [
+      "Start at the County Index",
+      "The deed chain, reservation language, probate record, trust authority, and legal description show what can actually be sold."
+    ],
+    [
+      "Mark Fee and Federal Ground Separately",
+      "Wyoming checkerboard patterns can put private fee minerals beside federal minerals. The ownership line must be settled before price is compared."
+    ],
+    [
+      "Carry the Same Tract Through Closing",
+      "The offer, deed, title curative, settlement record, and county recording should all describe the same interest."
+    ]
+  ],
+  "copy": {
+    "home_eyebrow": "WYOMING OWNER FIELD MEMO",
+    "home_title": "Sell Mineral Rights in Wyoming",
+    "home_meta": "Sell Wyoming mineral rights with a county-record review of ownership, paid decimal, production, checkerboard ground, written terms, and recording.",
+    "home_intro": "A Wyoming mineral decision gets clearer when the deed chain, paid decimal, well record, lease position, checkerboard ownership, curative list, and written offer stay tied to one legal description.",
+    "home_situations_title": "Name the Owner Situation First",
+    "home_situations_body": "Inheritance, shared title, an unsolicited offer, producing checks, or an old probate gap can change the first record that needs attention.",
+    "home_basins_title": "Basin Context Starts at the Section",
+    "home_basins_body": "Powder River, Green River, and Niobrara context matters only after the tract, formation, unit, operator, lease, and ownership pattern are identified.",
+    "home_resources_title": "Field Guides for the Owner File",
+    "home_resources_body": "Use the deed, division order, royalty statement, lease, county index, and written offer to answer one material question at a time.",
+    "home_locations_title": "Wyoming Coverage by County Record",
+    "home_locations_body": "The review follows the legal description through Casper, the producing basins, and mineral counties across Wyoming.",
+    "home_interests_title": "Name the Right Being Conveyed",
+    "home_interests_body": "Mineral rights, royalty interests, overrides, working interests, and split estates carry different rights, burdens, and documents.",
+    "hero_cta": "Request a Wyoming Review",
+    "index_tagline": "Use the {title} field index to connect the owner question to the county record, legal description, paid decimal, well evidence, title gap, and written next step.",
+    "detail_cta_title": "Put This Tract on the Wyoming Recording Docket",
+    "detail_cta_body": "Share the county, owner name, interest type, producing status, and the records already available. Bank credentials, government identification numbers, and original documents should not be submitted through this website.",
+    "detail_followup": "Carry this topic back to the exact legal description, county index, paid decimal, producing record, checkerboard pattern, curative list, and written terms.",
+    "faq_heading": "Questions on the Curative List",
+    "about_title": "A Wyoming Mineral Buyer Built Around the County Record",
+    "about_story_title": "The Legal Description Holds the File Together",
+    "about_story_body": "The review starts with the county, section, township, range, lot or aliquot description, ownership fraction, reservation language, lease position, and party authorized to sign.",
+    "about_scope_title": "Fee and Federal Ground Stay on Separate Lines",
+    "about_scope_body": "Wyoming checkerboard ownership can place private minerals beside federal minerals. The tract file marks which right is in the county record and which question belongs with the appropriate public record.",
+    "about_terms_title": "The Paid Decimal Must Reconcile",
+    "about_terms_body": "Division orders, lease royalty, unit participation, products, deductions, taxes, suspense, adjustments, and recent statements should explain the amount actually paid.",
+    "about_roles_title": "Curative Work Is Named Before Closing",
+    "about_roles_body": "Probate, heirship, trust authority, name differences, corrective deeds, reservations, and description conflicts stay on a written curative list until the responsible professional resolves them.",
+    "about_close_title": "The Owner Copy Matches the Recording",
+    "about_close_body": "The closing file keeps the signed agreement, deed, exact legal description, title correspondence, funding record, settlement statement, county recording, payor notice, and any retained interest.",
+    "contact_title": "Request a Wyoming Mineral Review",
+    "contact_intro": "Share the Wyoming county, owner name, interest type, producing status, and the decision that needs a clearer answer. The first conversation can begin before every document is gathered.",
+    "contact_form_title": "Start With the Records Already in Hand",
+    "contact_form_body": "A deed, division order, royalty statement, lease, probate paper, or legal description can identify the next useful county-record check.",
+    "footer_tagline": "Tract found. Reservation read. Decimal reconciled. Checkerboard marked. Curative listed. Terms written. Deed recorded.",
+    "privacy": "Sell Mineral Rights Wyoming uses submitted contact, ownership, property, production, statement, lease, title, offer, and timing information only to answer an inquiry and evaluate requested next steps. Submitted personal information is not sold. Bank credentials, government identification numbers, and original documents should not be submitted through this website.",
+    "terms": "This website provides general educational and transaction-preparation information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, brokerage, exchange, or fiduciary advice. Ownership, production, prices, public records, offers, title findings, and closing amounts can change. Qualified professionals should review decisions involving title, estates, taxes, exchanges, investments, appraisals, or transfers.",
+    "nf_title": "That Wyoming Field Memo Is Not in This File",
+    "nf_body": "Return to owner situations, interest types, Wyoming basins, field guides, investing, exchange guidance, Wyoming areas, or the review form.",
+    "nf_cta": "Return to the Wyoming Owner Desk"
+  },
+  "about_blocks": [
+    [
+      "Find the Tract",
+      "County, section, township, range, lot or aliquot description, net mineral acres, depths, formations, reservations, assignments, and signing authority establish the property being reviewed."
+    ],
+    [
+      "Read the Reservation",
+      "The deed chain should show whether the owner holds fee minerals, royalty only, an override, working interest, a partial depth, or a fraction that was reserved from the surface estate."
+    ],
+    [
+      "Reconcile the Decimal",
+      "Division orders, lease royalty, unit participation, products, deductions, taxes, adjustments, suspense, and recent statements should explain the amount actually paid."
+    ],
+    [
+      "Mark the Checkerboard",
+      "Private fee minerals and federal minerals can sit next to one another in Wyoming. County and public records should be read together without treating one as proof of the other."
+    ],
+    [
+      "Record the Same Interest",
+      "The written offer, deed, curative file, settlement record, funding confirmation, county recording, payor notice, and retained interest should describe the same conveyance."
+    ]
+  ],
+  "slug_ui": {
+    "faq_kicker": "WYOMING CURATIVE FILE",
+    "faq_heading": "Resolve the Record Question Before It Reaches the Deed",
+    "faq_intro": "Each answer points back to a county instrument, legal description, paid line, well record, checkerboard boundary, or written term that can be checked.",
+    "related_kicker": "ADJOINING SECTION PLATS",
+    "related_heading": "Carry the Same Tract Into the Next Owner Memo",
+    "related_intro": "Keep the legal description, ownership fraction, paid decimal, and open curative from {item} visible while reviewing these {taxonomy} records.",
+    "related_action": "Open the Complete Wyoming Field Index"
+  },
+  "taxonomy_enrichment": {
+    "investing": [
+      [
+        "Read {name} Through the Paid Record",
+        "A Wyoming mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The working file identifies the county, legal description, ownership fraction, lease royalty, unit participation, products, deductions, taxes, adjustments, suspense, producing wells, operator, statement months, and any title assumption still open. Current checks show historical cash flow. They do not guarantee future volumes, prices, deductions, development, or distributions."
+      ],
+      [
+        "Keep the Checkerboard and Development Case Separate",
+        "Fee minerals, federal minerals, producing wells, permits, offsets, spacing, undeveloped acreage, lease terms, and operator plans belong on separate evidence lines. A nearby well or basin label can add context without proving future development. The investment file should show concentration by county, operator, formation, payor, and well; label each scenario; preserve the source date; and identify which legal, tax, title, engineering, reserve, appraisal, or investment question needs an independent professional."
+      ],
+      [
+        "Stress the Cash Line in {name}",
+        "A useful downside case changes one assumption at a time: production decline, oil and gas prices, natural-gas liquids, downtime, deductions, taxes, curtailment, operator concentration, or a delayed workover. The paid history should be grouped by well, product, month, and payor instead of compressed into one annual number. Base, downside, and upside cases need the same ownership fraction and paid decimal so the comparison does not hide a title assumption inside an economic forecast."
+      ],
+      [
+        "Preserve the Underwriting Trail",
+        "Every material number in the Wyoming owner file should keep its source and date. Royalty statements, production records, county instruments, lease terms, unit documents, spacing orders, operator notices, and written assumptions belong in a record trail that another reviewer can follow. A purchase decision should also state the holding period, liquidity limits, transfer costs, title expense, tax questions, and the event that would make the original case no longer reliable."
+      ]
+    ],
+    "exchange-1031": [
+      [
+        "Put {name} on the Exchange Calendar",
+        "Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a mineral sale closes or proceeds are received. The working file identifies the selling entity, vesting, relinquished property, legal description, expected proceeds, debt, closing date, identification deadline, acquisition deadline, proposed replacement property, and the professional responsible for each decision. The mineral buyer can supply property and transaction facts but cannot determine whether an exchange qualifies."
+      ],
+      [
+        "Keep County Curative Work and Federal Timing Distinct",
+        "Wyoming deed work, probate, heirship, trust authority, reservations, corrective instruments, division orders, and payor records can move on a different schedule from federal exchange deadlines. The file should state which issue is verified, which item remains curative, who is resolving it, and whether the same owner and property scope appear across the sale agreement, deed, intermediary documents, replacement identification, settlement record, and final acquisition. Verbal assumptions should not replace written review."
+      ],
+      [
+        "Match the Property Scope Across Every Document",
+        "The relinquished-property agreement, mineral deed, legal description, retained-interest language, settlement statement, intermediary instructions, replacement-property identification, and acquisition documents should describe the intended parties and property without quiet changes in acreage, depth, formation, county, or ownership fraction. A qualified intermediary and independent counsel should review the sequence before closing. The owner file should flag every mismatch while there is still time for the responsible professional to resolve it."
+      ],
+      [
+        "Keep an Owner Copy After Closing",
+        "The completed file should retain the signed sale agreement, recorded mineral deed, exact legal description, settlement statement, funding confirmation, qualified-intermediary instructions, identification notices, replacement-property documents, title correspondence, recording information, and tax records supplied by the relevant professionals. The Wyoming payor and operator notice can then be reconciled to the interest actually conveyed. A missing document should remain an open item instead of being treated as completed exchange evidence."
+      ]
+    ]
+  },
+  "form_fields": [
+    ["name", "text", "Name", true],
+    ["email", "email", "Email", true],
+    ["phone", "tel", "Phone", true],
+    ["message", "textarea", "Message", true]
+  ]
+}

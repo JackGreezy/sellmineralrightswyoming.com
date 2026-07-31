@@ -1,0 +1,84 @@
+{
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About Us — Wyoming Mineral Rights Buyer",
+ "metaDescription": "A landman-run mineral rights buyer working Wyoming's checkerboard counties, buying producing and undeveloped interests directly from owners.",
+ "heroLead": "This site is run by a working landman, not a call center reading a script off a spreadsheet of county tax rolls.",
+ "intro": [
+  "I spent the first half of my career running title for operators across Wyoming's producing counties, pulling deeds at the courthouse, chasing heirs through probate files, and building the spacing units that eventually become the division orders owners see in the mail.",
+  "These days I buy mineral interests directly from owners instead of working title for someone else's drilling program. The work is the same courthouse-level detail, just pointed at getting an owner a fair number instead of clearing a well for spud."
+ ],
+ "sections": [
+  {
+   "heading": "Twenty-Five Years Reading Wyoming Title",
+   "paragraphs": [
+    "Most of that time was spent in counties where the checkerboard pattern actually matters: Sweetwater, Sublette, Campbell, Converse, and the Powder River and Green River Basin counties where fee and federal minerals sit section by section across the same township.",
+    "That background matters when you're the one selling. A buyer who's chased heirship through a probate file at three different clerk's offices reads your deed faster and knows what questions to ask before a title problem turns into a closing delay.",
+    "I've sat across the table from families untangling a grandparent's estate, and I've sat in county clerk's offices waiting on a corrective instrument to record before a well could be permitted. Both sides of that experience shape how we handle a sale here."
+   ]
+  },
+  {
+   "heading": "Why We Work the Checkerboard Different",
+   "paragraphs": [
+    "A lot of buyers treat every Wyoming tract the same way. We don't. The first thing we check is whether your minerals are fee-owned outright or sit alongside federal minerals administered by the BLM out of Cheyenne, because that changes both the paperwork and, sometimes, the number.",
+    "Split estate tracts, where the surface and minerals have different owners, get the same close look. It's a detail a lot of out-of-state buyers skip past, and it's exactly the kind of thing that either speeds a closing or causes one to stall for weeks.",
+    "State land board tracts show up in the mix too, in counties where fee, federal, and state minerals sit within the same spacing unit. Knowing which pattern applies to your specific tract before we ever discuss a number is standard practice here, not an afterthought."
+   ]
+  },
+  {
+   "heading": "How We're Different From a Landman Working for an Operator",
+   "paragraphs": [
+    "An operator's landman works to clear title so the operator can drill. Our job is narrower and more direct: value your interest fairly using your actual production or lease history, explain how we got there, and close cleanly if you decide to sell.",
+    "We're not appraisers, attorneys, or CPAs, and we won't pretend to be. If your situation needs one of those, we'll say so plainly rather than push you past a question you should get answered elsewhere first.",
+    "That distinction matters more than owners realize going in. We have no stake in when or whether a well gets drilled on your tract, only in giving you an accurate read on what your interest is worth today."
+   ]
+  },
+  {
+   "heading": "Where We Buy",
+   "paragraphs": [
+    "We buy across Wyoming's oil and gas counties, producing and undeveloped acreage alike, from small fractional interests split among several heirs to larger family holdings that have been in one name for decades.",
+    "If you're not sure whether your interest is worth a call, it usually is. A five-minute conversation about what county your minerals sit in and what paperwork you have tells us most of what we need to know.",
+    "Whether your family's minerals sit on the fee side of the checkerboard or alongside a federal or state tract, we can usually tell you within a short conversation what the pattern means for your specific sale."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are you an operator or a landman working for an operator?",
+   "answer": "No. We buy mineral interests directly from owners for our own account. We don't drill wells or work title clearance for a drilling company."
+  },
+  {
+   "question": "Do you buy small fractional interests?",
+   "answer": "Yes, regularly. Small fractions split among heirs are some of the most common interests we buy, since managing several owners' worth of small checks is often more hassle than it's worth to the family."
+  },
+  {
+   "question": "Do you only buy producing minerals?",
+   "answer": "No. We buy producing interests, leased but undeveloped acreage, and raw acreage with no lease, though the valuation approach differs for each."
+  },
+  {
+   "question": "Will you explain how you arrived at an offer?",
+   "answer": "Yes. We'll walk through the production history, lease status, or nearby activity that went into the number, and we're glad to answer questions before you decide anything."
+  },
+  {
+   "question": "Do you work outside of Wyoming?",
+   "answer": "Our focus is Wyoming's producing and prospective counties, where the checkerboard and split estate patterns are ones we know well from years of title work."
+  },
+  {
+   "question": "How long have you been buying mineral rights directly?",
+   "answer": "Buying directly from owners is the more recent chapter, built on top of a much longer career running title for operators across Wyoming's producing counties."
+  },
+  {
+   "question": "Do you handle the title work yourselves or hire it out?",
+   "answer": "We do the initial title review ourselves, given the background running title for operators, and bring in outside counsel only when a specific legal question calls for it."
+  }
+ ],
+ "wordCount": 881,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-sellmineralrightswyoming-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

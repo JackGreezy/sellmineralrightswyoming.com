@@ -1,0 +1,84 @@
+{
+ "slug": "division-orders-explained",
+ "title": "Division Orders Explained",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Division Orders Explained for Wyoming Owners",
+ "metaDescription": "What a Wyoming division order is, why operators send them, and how to check the decimal interest before you sign and mail one back.",
+ "heroLead": "A division order shows up in the mail after a well starts producing, and most owners sign it without reading past their name. That single decimal line is worth slowing down for.",
+ "intro": [
+  "A division order is the document an operator sends confirming how they intend to split payment among everyone with an interest in a well. It's not the lease and it's not the deed, it's the accounting instrument that authorizes your specific royalty payment.",
+  "Operators typically send a new one whenever ownership changes, a new well is completed on your tract, or a spacing unit gets amended. Wyoming's checkerboard sections mean a single well can pool a dozen or more owners across fee, state, and federal tracts, so getting this document right matters to everyone in the unit."
+ ],
+ "sections": [
+  {
+   "heading": "What a Division Order Actually Is",
+   "paragraphs": [
+    "It's a contract between you and the operator confirming your decimal interest in that specific well's production, separate from the mineral deed that established your ownership in the first place. Signing it doesn't change your ownership, it authorizes payment based on the interest already recorded.",
+    "Because it's a payment authorization and not a transfer of ownership, you're generally not required to sign before the operator begins paying, though most operators will hold payment or place it in suspense until they receive a signed copy back.",
+    "The document also lists the well or property name, the operator's owner number assigned to you, and the legal description of the pooled unit. Keep a signed copy in your own file alongside your deed, since it's the clearest record of what interest an operator has on file for you at that point in time."
+   ]
+  },
+  {
+   "heading": "The Decimal Interest Line",
+   "paragraphs": [
+    "This is the number to check against your own math before you sign anything. It should reflect your fractional ownership in the tract multiplied against the tract's share of the spacing unit, and it should match, or be explainable against, the decimal on your prior statements.",
+    "If the well pools federal or state minerals alongside your fee interest, the decimal is built from the communitization agreement, and it's worth asking the operator's land department for a copy of the pooling order if the math doesn't line up.",
+    "Operators typically carry the decimal out to eight digits to keep rounding errors small across a unit with many owners. If your decimal shifts slightly on a reissued order, ask whether it's a rounding correction or an actual change to the spacing unit, since the two look identical on the page but mean different things."
+   ]
+  },
+  {
+   "heading": "Why Operators Send Them After Every Change",
+   "paragraphs": [
+    "A new division order goes out after a sale, an heirship transfer, a new well completion, or a spacing unit revision, because each of those events can change who's entitled to what share of production going forward.",
+    "This is also why keeping your deed and probate records current with the county matters. An operator working title on a new division order will find whatever the courthouse record shows, and a stale record slows payment for everyone pooled into that unit, including you.",
+    "In parts of the Powder River Basin where infill wells have added density to existing units over the years, owners can see several reissued division orders on the same tract as new wells come online and spacing units get amended to fit the added wellbores."
+   ]
+  },
+  {
+   "heading": "Mistakes That Cost Owners Money",
+   "paragraphs": [
+    "Signing a division order without checking the decimal against your deed is the most common mistake we see. A transposed digit or an outdated pooling percentage can shortchange an owner for years before anyone notices.",
+    "The other common mistake is ignoring a division order entirely. Unsigned interests often go into suspense, meaning the operator holds the funds rather than pays them, and getting that money released later takes paperwork that's easier to avoid up front.",
+    "A third mistake, more common than owners expect, is never updating a mailing address after a move. An operator mailing a division order or a check to an address that's years out of date has no way to reach you, and the funds simply sit in suspense until someone follows up."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to sign a division order to get paid?",
+   "answer": "Most operators will pay based on the recorded ownership even without a signature, but many hold funds in suspense until a signed copy is returned, so signing promptly avoids delay."
+  },
+  {
+   "question": "Does signing a division order change my ownership?",
+   "answer": "No. It authorizes payment based on your existing ownership interest. Your deed, not the division order, is what actually establishes what you own."
+  },
+  {
+   "question": "What should I check before signing?",
+   "answer": "Confirm your name, the well or unit name, and the decimal interest against your deed and any prior statements. If anything looks off, call the operator's land department before signing."
+  },
+  {
+   "question": "Why did I get a new division order after selling part of my interest?",
+   "answer": "Any transfer of ownership triggers a new decimal calculation for both the buyer and any remaining owners, so the operator reissues the order to reflect the updated split."
+  },
+  {
+   "question": "What happens if I never respond to a division order?",
+   "answer": "Your share is typically held in suspense by the operator until the paperwork is resolved, and unclaimed funds in Wyoming can eventually be reported to the state's unclaimed property division."
+  },
+  {
+   "question": "Why did I get two different division orders for wells that seem related?",
+   "answer": "Each well typically has its own spacing unit and decimal interest, even if several wells sit on the same pad or tract, so a separate division order for each one is normal, not an error."
+  },
+  {
+   "question": "Can I request a copy of the pooling order behind my decimal?",
+   "answer": "Yes. The operator's land department can usually provide the communitization agreement or pooling order that the decimal was calculated from if you ask directly."
+  }
+ ],
+ "wordCount": 990,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-division-orders-explained-sellmineralrightswyoming-com.jpg",
+  "alt": "Division Orders Explained mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "boulder-wy",
+ "title": "Sell Mineral Rights in Boulder, WY",
+ "type": "city",
+ "kind": "cdp",
+ "county": "Sublette",
+ "group": "Green River",
+ "primaryKeyword": "sell mineral rights boulder wy",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in Boulder, WY | Sublette County",
+ "metaDescription": "Boulder, WY sits close to the Pinedale Anticline gas field in Sublette County. Get a courthouse-checked read on your mineral interest before you sell.",
+ "heroLead": "Boulder sits just southeast of Pinedale, close enough to the Pinedale Anticline that I always check whether a tract here falls inside the field's productive footprint before assuming anything.",
+ "intro": [
+  "The Pinedale Anticline is one of the larger tight-gas fields developed in Wyoming over the past twenty-five years, targeting the Lance and Mesaverde formations with dense directional drilling from consolidated well pads, an approach designed to minimize surface disturbance while still draining the reservoir efficiently. Ultra Petroleum and other operators built out this field in phases, and Boulder sits close enough to the action that some tracts here carry real production history.",
+  "Others, just a section or two away, have never been touched. I check your specific legal description against the field's actual boundary before saying which situation applies to you."
+ ],
+ "sections": [
+  {
+   "heading": "Inside the Anticline versus outside it",
+   "paragraphs": [
+    "A Boulder-area tract inside the Pinedale Anticline unit boundary can carry a real royalty history worth pricing against actual statements. One outside the boundary, even close by, is undeveloped acreage priced on potential rather than income. This distinction is the single biggest factor in what I'd offer.",
+    "I pull the Wyoming Oil and Gas Conservation Commission's unit maps alongside the Sublette County recorder's lease filings to make this determination, not a guess based on the town name alone."
+   ]
+  },
+  {
+   "heading": "What a producing interest looks like here",
+   "paragraphs": [
+    "For tracts with actual wells, tight-gas decline curves drop fast in the first few years then settle into a longer, shallower tail. Your trailing royalty statements tell me where a given well sits on that curve, which is the real basis for pricing, adjusted to current natural gas market conditions.",
+    "I also check whether your unit has seen any newer infill drilling in recent years, since a wellbore added to an existing unit can extend the productive life of the whole spacing unit beyond what the original wells alone would suggest."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if I'm inside the Pinedale Anticline unit?",
+   "answer": "Send me your legal description and I'll check it against the current unit boundary before answering."
+  },
+  {
+   "question": "My royalty statements show a steep decline. Does that mean the well is done?",
+   "answer": "Not necessarily. Tight-gas wells decline fast early then flatten into a long tail. I'll look at your actual trend before drawing a conclusion."
+  },
+  {
+   "question": "Is there still active development in this part of Sublette County?",
+   "answer": "Development has slowed from its peak, but the field continues producing with periodic activity. I'll check the current status for your tract."
+  },
+  {
+   "question": "What if my tract sits just outside the unit boundary?",
+   "answer": "I'll price it as undeveloped acreage tied to the broader trend, distinct from a producing interest inside the unit."
+  }
+ ],
+ "status": "written",
+ "wordCount": 471
+}

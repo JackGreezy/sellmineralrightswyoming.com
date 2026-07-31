@@ -1,0 +1,72 @@
+{
+ "slug": "overriding-royalty-interests",
+ "title": "Overriding Royalty Interests (ORRI)",
+ "type": "interest-type",
+ "metaTitle": "Sell Overriding Royalty Interests (ORRI) - Wyoming",
+ "metaDescription": "Hold an ORRI carved out of a Wyoming oil and gas lease? These interests expire with the lease. We buy ORRIs statewide. Get a written offer.",
+ "heroLead": "An overriding royalty rides on top of a lease, not on top of the minerals themselves, which means it has a clock running that most owners don't realize until they try to sell.",
+ "intro": [
+  "An overriding royalty interest, or ORRI, is a share of production revenue carved out of a specific oil and gas lease, rather than out of the underlying mineral estate directly. It's typically created when a landman, geologist, or company assigns a lease to an operator but keeps a small royalty percentage for themselves as compensation, or when an operator sells down part of its position while retaining an override.",
+  "The critical thing that separates an ORRI from a mineral or landowner royalty interest is duration: an ORRI only exists as long as the lease it's carved from stays in force. If that lease expires, terminates, or gets released, the override goes with it, unlike a mineral or royalty interest tied to the land itself, which survives regardless of any particular lease's fate."
+ ],
+ "sections": [
+  {
+   "heading": "Where ORRIs Usually Come From",
+   "paragraphs": [
+    "In Wyoming's basins, ORRIs commonly trace back to landmen who assembled leasehold positions for an operator and kept an override as part of their compensation, or to smaller operators who farmed out drilling rights to a larger company while retaining a royalty slice. Some ORRIs have changed hands several times since creation, sold or inherited by people with no direct connection to the original oil and gas deal that produced them.",
+    "Because an ORRI isn't tied to land ownership the way a mineral interest is, you don't need to own any surface or minerals in Wyoming to hold one. We regularly buy ORRIs from owners who have no other connection to the state at all beyond this one carved-out interest."
+   ]
+  },
+  {
+   "heading": "The Lease-Dependency Problem",
+   "paragraphs": [
+    "Because your override lives inside a specific lease, its value depends heavily on that lease's remaining term, whether it's currently held by production, and how likely it is to stay in force. An ORRI attached to a lease that's been held by production from a strong, long-lived well is a fundamentally more durable asset than one attached to a lease nearing the end of its primary term with no production yet.",
+    "We check the underlying lease's status as part of every ORRI valuation — is it producing, is it held by production, is the primary term still running, has there been any assignment activity that might affect it. That lease-level detail matters more for an ORRI than for almost any other type of interest we buy."
+   ]
+  },
+  {
+   "heading": "How ORRIs Get Valued",
+   "paragraphs": [
+    "If the underlying lease has an active producing well, we value your override much like a royalty interest — based on current production, decline curve, and remaining reserves, adjusted for your specific override percentage. If the lease is undrilled or the well hasn't started producing, we look at the lease terms, remaining primary term, and area drilling activity, similar to how we'd approach a leased-but-undrilled mineral interest, but with the added lease-dependency factor built into the discount.",
+    "An override percentage is usually smaller than a landowner royalty, often a few percent rather than the eighth or higher common in landowner deals, and the value reflects that smaller share of production alongside the lease-dependency risk."
+   ]
+  },
+  {
+   "heading": "Selling an Override",
+   "paragraphs": [
+    "Overrides can be sold independently of the underlying mineral or working interest, and the buyer simply steps into your position for as long as the lease remains in force. Send us the assignment or conveyance document that created your ORRI, along with whatever you know about the lease and well it's tied to, and we'll research the current lease status before making an offer.",
+    "If you're not sure whether your override is still attached to an active lease, that's common, especially for ORRIs inherited or purchased secondhand, and it's exactly the kind of thing we check for you as part of the process."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What happens to my ORRI if the lease it's tied to expires?",
+   "answer": "The override typically ends when the lease terminates, since it's carved out of that specific lease rather than the underlying minerals. This is the key risk that separates an ORRI from a landowner royalty."
+  },
+  {
+   "question": "Do I need to own land or minerals in Wyoming to hold an ORRI?",
+   "answer": "No. An ORRI is tied to a lease, not to land ownership, so you can hold one with no other connection to the property or the state."
+  },
+  {
+   "question": "How is an ORRI different from an NPRI?",
+   "answer": "An NPRI is carved from the underlying mineral estate and survives regardless of any particular lease. An ORRI is carved from a specific lease and ends if that lease ends."
+  },
+  {
+   "question": "Can you buy my ORRI if I don't know the current status of the underlying lease?",
+   "answer": "Yes. Send us the assignment document that created your override and we'll research the lease's current status as part of preparing an offer."
+  },
+  {
+   "question": "Is an ORRI generally worth less than a mineral royalty of the same percentage?",
+   "answer": "Often, because of the added risk that the underlying lease could expire, even though the percentage itself might look similar on paper."
+  }
+ ],
+ "status": "written",
+ "wordCount": 876,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-sellmineralrightswyoming-com.jpg",
+  "alt": "Overriding Royalty Interests (ORRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}
