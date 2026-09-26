@@ -26,27 +26,7 @@
       "reusable voice pack"
     ]
   },
-  "scrub": [
-    ["\\bHow do I\\b", "How do you"],
-    ["\\bDo I\\b", "Do you"],
-    ["\\bCan I\\b", "Can you"],
-    ["\\bWhat if I\\b", "What if you"],
-    ["\\bAm I\\b", "Are you"],
-    ["\\bWill I\\b", "Will you"],
-    ["\\bShould I\\b", "Should you"],
-    ["\\bI['’]m\\b", "you are"],
-    ["\\bI['’]ve\\b", "you have"],
-    ["\\bI['’]ll\\b", "you will"],
-    ["\\bI['’]d\\b", "you would"],
-    ["\\bI don['’]t\\b", "you do not"],
-    ["\\bI didn['’]t\\b", "you did not"],
-    ["\\bI can['’]t\\b", "you cannot"],
-    ["\\bmyself\\b", "yourself"],
-    ["\\bmine\\b", "your mineral interest"],
-    ["\\bmy\\b", "your"],
-    ["\\bme\\b", "you"],
-    ["\\bI\\b", "you"]
-  ],
+  "scrub": [],
   "heroes": [
     [
       "Sell Mineral Rights in Wyoming",
@@ -81,7 +61,7 @@
     "home_interests_title": "Name the Right Being Conveyed",
     "home_interests_body": "Mineral rights, royalty interests, overrides, working interests, and split estates carry different rights, burdens, and documents.",
     "hero_cta": "Request a Wyoming Review",
-    "index_tagline": "Use the {title} field index to connect the owner question to the county record, legal description, paid decimal, well evidence, title gap, and written next step.",
+    "index_tagline": "Connect the owner question to the county record, legal description, paid decimal, well evidence, title gap, and written next step.",
     "detail_cta_title": "Put This Tract on the Wyoming Recording Docket",
     "detail_cta_body": "Share the county, owner name, interest type, producing status, and the records already available. Bank credentials, government identification numbers, and original documents should not be submitted through this website.",
     "detail_followup": "Carry this topic back to the exact legal description, county index, paid decimal, producing record, checkerboard pattern, curative list, and written terms.",
@@ -133,26 +113,26 @@
   "slug_ui": {
     "faq_kicker": "WYOMING CURATIVE FILE",
     "faq_heading": "Resolve the Record Question Before It Reaches the Deed",
-    "faq_intro": "Each answer points back to a county instrument, legal description, paid line, well record, checkerboard boundary, or written term that can be checked.",
+    "faq_intro": "Answers tie back to a county instrument, legal description, paid line, well record, checkerboard boundary, or written term.",
     "related_kicker": "ADJOINING SECTION PLATS",
     "related_heading": "Carry the Same Tract Into the Next Owner Memo",
-    "related_intro": "Keep the legal description, ownership fraction, paid decimal, and open curative from {item} visible while reviewing these {taxonomy} records.",
+    "related_intro": "Keep the legal description, ownership fraction, paid decimal, and open curative on one file while comparing the neighboring records.",
     "related_action": "Open the Complete Wyoming Field Index"
   },
   "taxonomy_enrichment": {
     "locations": [
       [
-        "Build the {name} County-Record Packet",
-        "A location name is only the first line of a Wyoming mineral file. The working packet should connect {name} to the county, legal description, section, township, range, owner name, vesting instrument, reservations, lease, division order, payor record, and any probate or trust document that changed the chain. The {meta} That local context belongs beside the recorded evidence, not in place of it. Where fee minerals meet federal or state ownership, the packet should also identify which tract, depth, or formation is actually private and conveyable before any acreage or paid decimal is carried into an offer."
+        "Build the County-Record Packet",
+        "A town name is only the first line of a Wyoming mineral file. The working packet should connect the tract to the county, legal description, section, township, range, owner name, vesting instrument, reservations, lease, division order, payor record, and any probate or trust document that changed the chain. Local field history belongs beside the recorded evidence, not in place of it. Where fee minerals meet federal or state ownership, the packet should also identify which tract, depth, or formation is actually private and conveyable before any acreage or paid decimal is carried into an offer."
       ],
       [
         "Keep the Paid Interest and the Deed Scope Aligned",
-        "A royalty statement can show what is being paid around {name}, but the statement does not by itself prove the full mineral estate. The review should reconcile the paid decimal to the ownership fraction, lease royalty, unit allocation, well, product, production month, deductions, taxes, suspense, and any adjustment line. The proposed deed and written purchase scope should then repeat the verified owner, county, legal description, included depths or formations, effective date, conveyed fraction, retained interest, pre-closing proceeds, title conditions, and recording instructions. Any mismatch stays on the curative list until the supporting record resolves it."
+        "A royalty statement can show what is being paid on a tract, but the statement does not by itself prove the full mineral estate. The review should reconcile the paid decimal to the ownership fraction, lease royalty, unit allocation, well, product, production month, deductions, taxes, suspense, and any adjustment line. The proposed deed and written purchase scope should then repeat the verified owner, county, legal description, included depths or formations, effective date, conveyed fraction, retained interest, pre-closing proceeds, title conditions, and recording instructions. Any mismatch stays on the curative list until the supporting record resolves it."
       ]
     ],
     "investing": [
       [
-        "Read {name} Through the Paid Record",
+        "Read the Position Through the Paid Record",
         "A Wyoming mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The working file identifies the county, legal description, ownership fraction, lease royalty, unit participation, products, deductions, taxes, adjustments, suspense, producing wells, operator, statement months, and any title assumption still open. Current checks show historical cash flow. They do not guarantee future volumes, prices, deductions, development, or distributions."
       ],
       [
@@ -160,7 +140,7 @@
         "Fee minerals, federal minerals, producing wells, permits, offsets, spacing, undeveloped acreage, lease terms, and operator plans belong on separate evidence lines. A nearby well or basin label can add context without proving future development. The investment file should show concentration by county, operator, formation, payor, and well; label each scenario; preserve the source date; and identify which legal, tax, title, engineering, reserve, appraisal, or investment question needs an independent professional."
       ],
       [
-        "Stress the Cash Line in {name}",
+        "Stress the Cash Line",
         "A useful downside case changes one assumption at a time: production decline, oil and gas prices, natural-gas liquids, downtime, deductions, taxes, curtailment, operator concentration, or a delayed workover. The paid history should be grouped by well, product, month, and payor instead of compressed into one annual number. Base, downside, and upside cases need the same ownership fraction and paid decimal so the comparison does not hide a title assumption inside an economic forecast."
       ],
       [
@@ -169,12 +149,12 @@
       ],
       [
         "Define the Decision Rule Before Comparing Outcomes",
-        "The {name} analysis should end with a written decision rule rather than a single projected return. The rule can identify the minimum title evidence, acceptable concentration, required cash yield, downside tolerance, holding period, liquidity assumption, reserve for curative work, and review date. It should also state which change in title, production, commodity price, operator activity, regulation, or tax treatment would require the file to be reopened. That keeps a Wyoming mineral position tied to observable records instead of allowing an old forecast to become a permanent fact."
+        "The analysis should end with a written decision rule rather than a single projected return. The rule can identify the minimum title evidence, acceptable concentration, required cash yield, downside tolerance, holding period, liquidity assumption, reserve for curative work, and review date. It should also state which change in title, production, commodity price, operator activity, regulation, or tax treatment would require the file to be reopened. That keeps a Wyoming mineral position tied to observable records instead of allowing an old forecast to become a permanent fact."
       ]
     ],
     "exchange-1031": [
       [
-        "Put {name} on the Exchange Calendar",
+        "Put the Sale on the Exchange Calendar",
         "Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a mineral sale closes or proceeds are received. The working file identifies the selling entity, vesting, relinquished property, legal description, expected proceeds, debt, closing date, identification deadline, acquisition deadline, proposed replacement property, and the professional responsible for each decision. The mineral buyer can supply property and transaction facts but cannot determine whether an exchange qualifies."
       ],
       [
@@ -191,14 +171,448 @@
       ],
       [
         "Make the Go-or-No-Go Decision Before the Relinquished Closing",
-        "The {name} file should state who has confirmed eligibility, who controls the proceeds, which replacement properties meet the owner’s investment criteria, and what event would cause the exchange plan to stop. A tax objective should not override a title defect, weak replacement economics, inadequate diligence time, or a mismatch in taxpayer identity. If the required professionals, intermediary documents, financing, replacement scope, and backup property are not ready, the owner should see that constraint before the mineral sale closes rather than after the federal clock has started."
+        "The exchange file should state who has confirmed eligibility, who controls the proceeds, which replacement properties meet the owner’s investment criteria, and what event would cause the exchange plan to stop. A tax objective should not override a title defect, weak replacement economics, inadequate diligence time, or a mismatch in taxpayer identity. If the required professionals, intermediary documents, financing, replacement scope, and backup property are not ready, the owner should see that constraint before the mineral sale closes rather than after the federal clock has started."
       ]
     ]
   },
   "form_fields": [
-    ["name", "text", "Name", true],
-    ["email", "email", "Email", true],
-    ["phone", "tel", "Phone", true],
-    ["message", "textarea", "Message", true]
-  ]
+    [
+      "name",
+      "text",
+      "Name",
+      true
+    ],
+    [
+      "email",
+      "email",
+      "Email",
+      true
+    ],
+    [
+      "phone",
+      "tel",
+      "Phone",
+      true
+    ],
+    [
+      "message",
+      "textarea",
+      "Message",
+      true
+    ]
+  ],
+  "question_scrub": [
+    [
+      "\\bHow do I\\b",
+      "How do you"
+    ],
+    [
+      "\\bDo I\\b",
+      "Do you"
+    ],
+    [
+      "\\bCan I\\b",
+      "Can you"
+    ],
+    [
+      "\\bWhat if I\\b",
+      "What if you"
+    ],
+    [
+      "\\bAm I\\b",
+      "Are you"
+    ],
+    [
+      "\\bWill I\\b",
+      "Will you"
+    ],
+    [
+      "\\bShould I\\b",
+      "Should you"
+    ],
+    [
+      "\\bI['’]m\\b",
+      "you are"
+    ],
+    [
+      "\\bI['’]ve\\b",
+      "you have"
+    ],
+    [
+      "\\bI['’]ll\\b",
+      "you will"
+    ],
+    [
+      "\\bI['’]d\\b",
+      "you would"
+    ],
+    [
+      "\\bI don['’]t\\b",
+      "you do not"
+    ],
+    [
+      "\\bI didn['’]t\\b",
+      "you did not"
+    ],
+    [
+      "\\bI can['’]t\\b",
+      "you cannot"
+    ],
+    [
+      "\\bI was\\b",
+      "you were"
+    ],
+    [
+      "\\bI am\\b",
+      "you are"
+    ],
+    [
+      "\\bmyself\\b",
+      "yourself"
+    ],
+    [
+      "\\bmine\\b",
+      "your mineral interest"
+    ],
+    [
+      "\\bmy\\b",
+      "your"
+    ],
+    [
+      "\\bme\\b",
+      "you"
+    ],
+    [
+      "\\bI\\b",
+      "you"
+    ],
+    [
+      "\\bour family's\\b",
+      "the family's"
+    ],
+    [
+      "\\bour\\b",
+      "the"
+    ],
+    [
+      "\\bonce we agree\\b",
+      "once both sides agree"
+    ],
+    [
+      "\\bCan we still sell\\b",
+      "Can the heirs still sell"
+    ],
+    [
+      "\\beven if we['’]re not ready\\b",
+      "even before the estate is ready"
+    ],
+    [
+      "\\bWhat if we don['’]t know exactly what fraction we own\\b",
+      "What if the family does not know exactly what fraction it owns"
+    ],
+    [
+      "\\bdo we all need\\b",
+      "do all the heirs need"
+    ],
+    [
+      "\\bnot sure we own\\b",
+      "not sure the family owns"
+    ],
+    [
+      "(?<=[.!?] )Do we\\b",
+      "Does the family"
+    ],
+    [
+      "\\bdo we\\b",
+      "does the family"
+    ],
+    [
+      "\\bcould we\\b",
+      "could the family"
+    ],
+    [
+      "\\byou was\\b",
+      "you were"
+    ],
+    [
+      "(?<=[a-z,;:—–-] )Do you\\b",
+      "do you"
+    ],
+    [
+      "(?<=[a-z,;:—–-] )Should you\\b",
+      "should you"
+    ],
+    [
+      "(?<=[a-z,;:—–-] )Can you\\b",
+      "can you"
+    ],
+    [
+      "(?<=[a-z;:—–-] )Will you\\b",
+      "will you"
+    ],
+    [
+      "(?<=[a-z,;:—–-] )Are you\\b",
+      "are you"
+    ],
+    [
+      ",\\s+How\\b",
+      ". How"
+    ],
+    [
+      "\\bminerals we sold the surface on\\b",
+      "minerals under land where the surface was sold"
+    ],
+    [
+      "^your\\b",
+      "Your"
+    ],
+    [
+      "^you\\b",
+      "You"
+    ],
+    [
+      "^the\\b",
+      "The"
+    ]
+  ],
+  "answer_scrub": [
+    [
+      "\\bthis section by section\\b",
+      "each tract section by section"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I['’]ll\\b",
+      "We will"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I['’]ve\\b",
+      "We have"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I['’]m\\b",
+      "We are"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I['’]d\\b",
+      "We would"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I don['’]t\\b",
+      "We do not"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I didn['’]t\\b",
+      "We did not"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I can['’]t\\b",
+      "We cannot"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I was\\b",
+      "We were"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I am\\b",
+      "We are"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I\\b",
+      "We"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))My\\b",
+      "Our"
+    ],
+    [
+      "\\bI['’]ll\\b",
+      "we will"
+    ],
+    [
+      "\\bI['’]ve\\b",
+      "we have"
+    ],
+    [
+      "\\bI['’]m\\b",
+      "we are"
+    ],
+    [
+      "\\bI['’]d\\b",
+      "we would"
+    ],
+    [
+      "\\bI don['’]t\\b",
+      "we do not"
+    ],
+    [
+      "\\bI didn['’]t\\b",
+      "we did not"
+    ],
+    [
+      "\\bI can['’]t\\b",
+      "we cannot"
+    ],
+    [
+      "\\bI was\\b",
+      "we were"
+    ],
+    [
+      "\\bI am\\b",
+      "we are"
+    ],
+    [
+      "\\bmyself\\b",
+      "ourselves"
+    ],
+    [
+      "\\bmy\\b",
+      "our"
+    ],
+    [
+      "\\bme\\b",
+      "us"
+    ],
+    [
+      "\\bI\\b",
+      "we"
+    ]
+  ],
+  "narrative_scrub": [
+    [
+      "\\bthis section by section\\b",
+      "each tract section by section"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I['’]ll\\b",
+      "We will"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I['’]ve\\b",
+      "We have"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I['’]m\\b",
+      "We are"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I['’]d\\b",
+      "We would"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I don['’]t\\b",
+      "We do not"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I didn['’]t\\b",
+      "We did not"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I can['’]t\\b",
+      "We cannot"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I was\\b",
+      "We were"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I am\\b",
+      "We are"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))I\\b",
+      "We"
+    ],
+    [
+      "(?:^|(?<=[.!?] )|(?<=>)|(?<=\\n)|(?<=[.!?]\\\" ))My\\b",
+      "Our"
+    ],
+    [
+      "\\bI['’]ll\\b",
+      "we will"
+    ],
+    [
+      "\\bI['’]ve\\b",
+      "we have"
+    ],
+    [
+      "\\bI['’]m\\b",
+      "we are"
+    ],
+    [
+      "\\bI['’]d\\b",
+      "we would"
+    ],
+    [
+      "\\bI don['’]t\\b",
+      "we do not"
+    ],
+    [
+      "\\bI didn['’]t\\b",
+      "we did not"
+    ],
+    [
+      "\\bI can['’]t\\b",
+      "we cannot"
+    ],
+    [
+      "\\bI was\\b",
+      "we were"
+    ],
+    [
+      "\\bI am\\b",
+      "we are"
+    ],
+    [
+      "\\bmyself\\b",
+      "ourselves"
+    ],
+    [
+      "\\bmy\\b",
+      "our"
+    ],
+    [
+      "\\bme\\b",
+      "us"
+    ],
+    [
+      "\\bI\\b",
+      "we"
+    ],
+    [
+      "(?<=[.!?])\\s+Get a written (?:cash )?offer(?: today)?\\.",
+      ""
+    ],
+    [
+      "If you hold minerals near Cheyenne or Torrington, get a written offer today\\.",
+      "Owners near Cheyenne and Torrington start with the Laramie or Goshen County record."
+    ],
+    [
+      "\\bWe buy Powder River Basin mineral and royalty interests, coalbed and shale alike\\.",
+      "Coalbed and shale ground carry separate records across the basin."
+    ],
+    [
+      ", we already know the field\\.",
+      ", the field record is already well documented."
+    ]
+  ],
+  "_scrub_note": "Owner questions keep the owner's voice (I -> you); answers and narrative keep the business voice in the plural (I -> we). The shared list is empty so the two contexts never collide.",
+  "hero_city_suffix": false,
+  "taxonomy_titles": {
+    "locations": "Wyoming Mineral Areas",
+    "situations": "Owner Situations",
+    "interest-types": "Mineral Interest Types",
+    "basins": "Wyoming Basins",
+    "resources": "Wyoming Field Guides",
+    "investing": "Wyoming Mineral Investing",
+    "exchange-1031": "1031 Exchange Guides"
+  },
+  "taxonomy_intros": {
+    "locations": "Wyoming mineral files are read county by county. Each area starts from the local courthouse index, the producing field nearby, and the ownership pattern most deeds in that ground carry.",
+    "situations": "Inheritance, a shared title, an unsolicited letter, or checks that stopped arriving each point to a different first record. Start with the circumstance that matches the owner file.",
+    "interest-types": "Fee minerals, royalty, overriding royalty, working interest, and split estates carry different rights and different paperwork. Name the interest before any number is compared.",
+    "basins": "Powder River, Green River, and Niobrara ground produce from different formations under different ownership patterns. Basin context helps only after the tract and section are identified.",
+    "resources": "Plain explanations of the deeds, division orders, royalty statements, and offer letters that reach a Wyoming owner's table, taken one document at a time.",
+    "investing": "Buying Wyoming minerals starts with the recorded interest and the paid decimal, not a projected yield. Title, cash-flow, and concentration checks come before any return figure.",
+    "exchange-1031": "A mineral sale can sit inside a like-kind exchange when the calendar, the intermediary, and the property scope line up. Deadlines and documents belong with tax counsel before the sale closes."
+  }
 }

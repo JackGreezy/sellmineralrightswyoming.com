@@ -47,7 +47,7 @@ var reactive;
                 return bits.join(MessageDelimiter);
             };
             Object.defineProperty(Child.prototype, "currentHeight", {
-
+				
                 get: function () {
                     return document.body.offsetHeight.toString();
                 },

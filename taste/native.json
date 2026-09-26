@@ -1,0 +1,26 @@
+{
+  "classes": {
+    "header a.rr-header-cta": "button-primary",
+    "#contact-form .rr-contact-field": "form-item",
+    "#contact-form button[type=submit]": "button-primary"
+  },
+  "remove": {
+    "all": [
+      ".content-page-head__img figcaption",
+      ".paragraph-media figcaption.js-paragraph-media-caption"
+    ],
+    "slug": []
+  },
+  "slug_order": ["faq", "related", "cta"],
+  "slug_mounts": {
+    "related": "main",
+    "cta": "main"
+  },
+  "templates": {
+    "faq": "<div class=\"paragraph-multi-cta\"><div class=\"paragraph-headings\"><h2 class=\"tag\">{kicker}</h2><p class=\"paragraph-headings__subtitle title-h7\">{heading}</p></div><ul class=\"paragraph-multi-cta__container\">{items}</ul></div>",
+    "faq_item": "<li class=\"card-informations card-informations--light\"><details><summary><span class=\"button-title-rounded-icon button-title-rounded-icon--bordered\"><span class=\"text\">{q}</span><span class=\"icon\"><svg aria-hidden=\"true\" focusable=\"false\"><use href=\"/assets-f/icon-sprite.svg#plus\"></use></svg></span></span></summary><div class=\"card-informations__content\">{a}</div></details></li>",
+    "related": "<div class=\"paragraph-multi-cta bg-light\"><div class=\"paragraph-headings\"><h2 class=\"tag\">{kicker}</h2><p class=\"paragraph-headings__subtitle title-h7\">{heading}</p></div><ul class=\"paragraph-multi-cta__container\">{items}</ul><div class=\"paragraph-ctas-container paragraph-ctas-container--align-start\"><a href=\"{all_href}\"><span class=\"button-primary\"><span class=\"text\">{all_label}</span><span class=\"icon\"><svg aria-hidden=\"true\" focusable=\"false\"><use href=\"/assets-f/icon-sprite.svg#small-arrow-right\"></use></svg></span></span></a></div></div>",
+    "related_item": "<li class=\"card-informations card-informations--simple-cta card-informations--light\"><div class=\"card-informations__content\"><a href=\"{href}\"><span class=\"button-title-rounded-icon button-title-rounded-icon--bordered\"><span class=\"text\">{name}</span><span class=\"icon\"><svg aria-hidden=\"true\" focusable=\"false\"><use href=\"/assets-f/icon-sprite.svg#small-arrow-right\"></use></svg></span></span></a><p class=\"text-body-s\">{teaser}</p></div></li>",
+    "cta": "<div class=\"paragraph-user-action paragraph--type--user-action paragraph-user-action--dark bg-dark\"><svg aria-hidden=\"true\" class=\"paragraph-user-action__svg\" focusable=\"false\"><use href=\"/assets-f/icon-sprite.svg#a-full\"></use></svg><div class=\"paragraph-user-action__content\"><h2 class=\"title-h5 title-h5--display paragraph-user-action__title\">{title}</h2><p class=\"paragraph-user-action__desc\">{intro}</p></div><div class=\"paragraph-user-action__cta\"><a href=\"{contact_href}\"><span class=\"button-primary\"><span class=\"text\">{label}</span><span class=\"icon\"><svg aria-hidden=\"true\" focusable=\"false\"><use href=\"/assets-f/icon-sprite.svg#small-arrow-right\"></use></svg></span></span></a><a href=\"{tel_href}\"><span class=\"button-secondary\"><span class=\"text\">Call {phone}</span><span class=\"icon\"><svg aria-hidden=\"true\" focusable=\"false\"><use href=\"/assets-f/icon-sprite.svg#phone\"></use></svg></span></span></a></div></div>"
+  }
+}
