@@ -44,7 +44,8 @@
       "burger_selector": ".burger-menu__toggle",
       "burger_slot": ".header__burger",
       "ensure_nav": true,
-      "repair_css": "header{position:relative!important;z-index:10000!important;display:block!important;min-height:132px!important;background:#fff!important;color:#00005c!important;overflow:visible!important}header .header{position:relative!important;display:block!important;min-height:132px!important;background:#fff!important;overflow:visible!important}header .header__wrapper{position:relative!important;display:grid!important;grid-template-columns:260px minmax(0,1fr)!important;grid-template-rows:48px 84px!important;box-sizing:border-box!important;width:min(1440px,calc(100% - 48px))!important;min-height:132px!important;margin:0 auto!important;padding:0!important;overflow:visible!important}header .header__logo--main{grid-column:1!important;grid-row:1/3!important;display:flex!important;align-items:center!important;min-width:0!important;color:#0816a1!important}header .rr-wordmark{display:flex!important;flex-direction:column!important;color:#0816a1!important;line-height:1!important;text-decoration:none!important}header .rr-wm-1{font-family:Inter,Arial,sans-serif!important;font-size:15px!important;font-weight:700!important;letter-spacing:.015em!important}header .rr-wm-2{margin-top:6px!important;font-family:Inter,Arial,sans-serif!important;font-size:11px!important;font-weight:700!important;letter-spacing:.24em!important}header .header__top{grid-column:2!important;grid-row:1!important;display:flex!important;align-items:center!important;justify-content:flex-end!important;min-width:0!important;border-bottom:1px solid #dce4ea!important}header .rr-header-actions{display:flex!important;align-items:center!important;gap:18px!important}header .rr-header-phone{color:#00005c!important;font-family:Inter,Arial,sans-serif!important;font-size:14px!important;font-weight:700!important;text-decoration:none!important;white-space:nowrap!important}header .rr-header-cta{display:inline-flex!important;align-items:center!important;justify-content:center!important;min-height:38px!important;padding:0 17px!important;background:#0816a1!important;color:#fff!important;font-family:Inter,Arial,sans-serif!important;font-size:12px!important;font-weight:700!important;text-decoration:none!important;white-space:nowrap!important}header .header__bottom{grid-column:2!important;grid-row:2!important;display:flex!important;align-items:stretch!important;min-width:0!important}header .js-menu-container,header .menu--level-1{display:flex!important;align-items:stretch!important;width:100%!important;min-width:0!important;margin:0!important;padding:0!important}header .menu--level-1>.menu__item{display:flex!important;align-items:stretch!important;min-width:0!important;margin:0!important}header .menu--level-1>.menu__item>a.menu-link--main{display:flex!important;align-items:center!important;min-width:0!important;padding:0 clamp(12px,1.35vw,22px)!important;color:#00005c!important;font-family:Inter,Arial,sans-serif!important;font-size:clamp(12px,.9vw,15px)!important;font-weight:600!important;line-height:1.2!important;text-decoration:none!important;white-space:nowrap!important}header .menu--level-1>.menu__item>a:hover,header .menu--level-1>.menu__item>a:focus-visible{background:#f0f7fa!important;color:#0816a1!important}header .header__burger{display:none!important}.burger-menu[data-rr-mobile]{z-index:2147482000!important;background:#00005c!important;color:#fff!important}.burger-menu[data-rr-mobile] .rr-m-link{display:block!important;padding:16px 24px!important;border-bottom:1px solid rgba(135,237,255,.26)!important;color:#fff!important;font-family:Inter,Arial,sans-serif!important;text-decoration:none!important}@media(max-width:1140px){header .header__wrapper{grid-template-columns:225px minmax(0,1fr)!important}header .menu--level-1>.menu__item>a.menu-link--main{padding-inline:10px!important;font-size:12px!important}header .rr-header-actions{gap:10px!important}}@media(max-width:900px){header,header .header{min-height:76px!important}header .header__wrapper{display:flex!important;align-items:center!important;width:calc(100% - 28px)!important;min-height:76px!important}header .header__logo--main{display:flex!important;flex:1 1 auto!important}header .header__top,header .header__bottom{display:none!important}header .header__burger{display:flex!important;align-items:center!important;margin-left:auto!important}header .burger-menu__toggle{position:relative!important;display:block!important;width:48px!important;height:48px!important;border:0!important;background:#0816a1!important}}"
+      "repair_css": "header{position:relative!important;z-index:10000!important;display:block!important;min-height:132px!important;background:#fff!important;color:#00005c!important;overflow:visible!important}header .header{position:relative!important;display:block!important;min-height:132px!important;background:#fff!important;overflow:visible!important}header .header__wrapper{position:relative!important;display:grid!important;grid-template-columns:260px minmax(0,1fr)!important;grid-template-rows:48px 84px!important;box-sizing:border-box!important;width:min(1440px,calc(100% - 48px))!important;min-height:132px!important;margin:0 auto!important;padding:0!important;overflow:visible!important}header .header__logo--main{grid-column:1!important;grid-row:1/3!important;display:flex!important;align-items:center!important;min-width:0!important;color:#0816a1!important}header .rr-wordmark{display:flex!important;flex-direction:column!important;color:#0816a1!important;line-height:1!important;text-decoration:none!important}header .rr-wm-1{font-family:Inter,Arial,sans-serif!important;font-size:15px!important;font-weight:700!important;letter-spacing:.015em!important}header .rr-wm-2{margin-top:6px!important;font-family:Inter,Arial,sans-serif!important;font-size:11px!important;font-weight:700!important;letter-spacing:.24em!important}header .header__top{grid-column:2!important;grid-row:1!important;display:flex!important;align-items:center!important;justify-content:flex-end!important;min-width:0!important;border-bottom:1px solid #dce4ea!important}header .rr-header-actions{display:flex!important;align-items:center!important;gap:18px!important}header .rr-header-phone{color:#00005c!important;font-family:Inter,Arial,sans-serif!important;font-size:14px!important;font-weight:700!important;text-decoration:none!important;white-space:nowrap!important}header .rr-header-cta{display:inline-flex!important;align-items:center!important;justify-content:center!important;min-height:38px!important;padding:0 17px!important;background:#0816a1!important;color:#fff!important;font-family:Inter,Arial,sans-serif!important;font-size:12px!important;font-weight:700!important;text-decoration:none!important;white-space:nowrap!important}header .header__bottom{grid-column:2!important;grid-row:2!important;display:flex!important;align-items:stretch!important;min-width:0!important}header .js-menu-container,header .menu--level-1{display:flex!important;align-items:stretch!important;width:100%!important;min-width:0!important;margin:0!important;padding:0!important}header .menu--level-1>.menu__item{display:flex!important;align-items:stretch!important;min-width:0!important;margin:0!important}header .menu--level-1>.menu__item>a.menu-link--main{display:flex!important;align-items:center!important;min-width:0!important;padding:0 clamp(12px,1.35vw,22px)!important;color:#00005c!important;font-family:Inter,Arial,sans-serif!important;font-size:clamp(12px,.9vw,15px)!important;font-weight:600!important;line-height:1.2!important;text-decoration:none!important;white-space:nowrap!important}header .menu--level-1>.menu__item>a:hover,header .menu--level-1>.menu__item>a:focus-visible{background:#f0f7fa!important;color:#0816a1!important}header .header__burger{display:none!important}.burger-menu[data-rr-mobile]{z-index:2147482000!important;background:#00005c!important;color:#fff!important}.burger-menu[data-rr-mobile] .rr-m-link{display:block!important;padding:16px 24px!important;border-bottom:1px solid rgba(135,237,255,.26)!important;color:#fff!important;font-family:Inter,Arial,sans-serif!important;text-decoration:none!important}@media(max-width:1140px){header .header__wrapper{grid-template-columns:225px minmax(0,1fr)!important}header .menu--level-1>.menu__item>a.menu-link--main{padding-inline:10px!important;font-size:12px!important}header .rr-header-actions{gap:10px!important}}@media(max-width:900px){header,header .header{min-height:76px!important}header .header__wrapper{display:flex!important;align-items:center!important;width:calc(100% - 28px)!important;min-height:76px!important}header .header__logo--main{display:flex!important;flex:1 1 auto!important}header .header__top,header .header__bottom{display:none!important}header .header__burger{display:flex!important;align-items:center!important;margin-left:auto!important}header .burger-menu__toggle{position:relative!important;display:block!important;width:48px!important;height:48px!important;border:0!important;background:#0816a1!important}}",
+      "dropdown_host_selector": ".menu--level-1 > .menu__item:has(> a.menu-link--main:not([href=\"/about\"]))"
     },
     "footer": {
       "selector": ".footer",
@@ -66,36 +67,81 @@
         {
           "heading": "Owner Decisions",
           "links": [
-            ["Owner Situations", "/situations"],
-            ["Interest Types", "/interest-types"],
-            ["Wyoming Basins", "/basins"]
+            [
+              "Owner Situations",
+              "/situations"
+            ],
+            [
+              "Interest Types",
+              "/interest-types"
+            ],
+            [
+              "Wyoming Basins",
+              "/basins"
+            ]
           ]
         },
         {
           "heading": "Field Guides",
           "links": [
-            ["Owner Resources", "/resources"],
-            ["Mineral Investing", "/investing"],
-            ["1031 Exchange Guides", "/exchange-1031"]
+            [
+              "Owner Resources",
+              "/resources"
+            ],
+            [
+              "Mineral Investing",
+              "/investing"
+            ],
+            [
+              "1031 Exchange Guides",
+              "/exchange-1031"
+            ]
           ]
         },
         {
           "heading": "Wyoming Records",
           "links": [
-            ["All Wyoming Areas", "/locations"],
-            ["Casper", "/locations/casper-wy"],
-            ["Campbell County", "/locations/campbell-county"],
-            ["Converse County", "/locations/converse-county"]
+            [
+              "All Wyoming Areas",
+              "/locations"
+            ],
+            [
+              "Casper",
+              "/locations/casper-wy"
+            ],
+            [
+              "Campbell County",
+              "/locations/campbell-county"
+            ],
+            [
+              "Converse County",
+              "/locations/converse-county"
+            ]
           ]
         },
         {
           "heading": "Owner Desk",
           "links": [
-            ["About", "/about"],
-            ["How to Sell", "/resources/how-to-sell-mineral-rights"],
-            ["Request a Review", "/contact#contact-form"],
-            ["Privacy Policy", "/privacy"],
-            ["Terms", "/terms"]
+            [
+              "About",
+              "/about"
+            ],
+            [
+              "How to Sell",
+              "/resources/how-to-sell-mineral-rights"
+            ],
+            [
+              "Contact the Owner Desk",
+              "/contact"
+            ],
+            [
+              "Privacy Policy",
+              "/privacy"
+            ],
+            [
+              "Terms",
+              "/terms"
+            ]
           ]
         }
       ],
@@ -150,7 +196,16 @@
       "Drupal",
       "recaptcha"
     ],
-    "social_pattern": "linkedin\\.com/company/thales|facebook\\.com/thales|x\\.com/thales|youtube\\.com/thales"
+    "social_pattern": "linkedin\\.com/company/thales|facebook\\.com/thales|x\\.com/thales|youtube\\.com/thales",
+    "template_only": [
+      "^\\s*<div id\\s*$"
+    ],
+    "attr_replacements": [
+      [
+        "^© ?(?:Kakkoi Studio|123RF)$",
+        "Wyoming mineral field image"
+      ]
+    ]
   },
   "buttons": {
     "class": "button-primary"
@@ -267,32 +322,32 @@
             {
               "sel": ".key-figures-item__value",
               "nth": 0,
-              "text": "01"
+              "text": "Deed"
             },
             {
               "sel": ".key-figures-item__label",
               "nth": 0,
-              "text": "County deed chain"
+              "text": "County chain of title"
             },
             {
               "sel": ".key-figures-item__value",
               "nth": 1,
-              "text": "02"
+              "text": "Decimal"
             },
             {
               "sel": ".key-figures-item__label",
               "nth": 1,
-              "text": "Paid decimal"
+              "text": "Paid on the division order"
             },
             {
               "sel": ".key-figures-item__value",
               "nth": 2,
-              "text": "03"
+              "text": "Plat"
             },
             {
               "sel": ".key-figures-item__label",
               "nth": 2,
-              "text": "Curative list"
+              "text": "Fee and federal section lines"
             },
             {
               "sel": ".paragraph-key-figures .paragraph-ctas-container a",
@@ -365,6 +420,16 @@
             {
               "sel": ".paragraph-user-action__cta .text",
               "text": "Request a Wyoming Review"
+            },
+            {
+              "sel": ".paragraph-user-action__cta .icon",
+              "html": "<svg aria-hidden=\"true\" focusable=\"false\"><use href=\"/assets-f/icon-sprite.svg#small-arrow-right\"></use></svg>"
+            },
+            {
+              "sel": ".paragraph-user-action__cta .button-primary",
+              "attr": {
+                "class": "button-primary"
+              }
             }
           ]
         },
@@ -442,7 +507,9 @@
       "simple_prose": "#block-thales-content article > div > .layout:nth-child(2) .paragraph--type--text-edito",
       "not_found_slot": "#block-thales-content article > div > .layout:nth-child(2) .paragraph--type--text-edito",
       "simple_strip": [
-        "#block-thales-content article > div > .layout:nth-child(n+3)"
+        "#block-thales-content article > div > .layout:nth-child(n+3)",
+        ".content-page-head__desc",
+        ".content-page-head__img figcaption"
       ],
       "strip": [
         ".content-page-head__suptitle",
@@ -530,6 +597,17 @@
               "sel": ".content-page-head__img img",
               "img": "/ours/pages/mineral-rights-pages-contact-sellmineralrightswyoming-com.jpg",
               "alt": "Wyoming mineral records review"
+            },
+            {
+              "sel": ".content-page-head__img figure",
+              "attr": {
+                "aria-label": null,
+                "role": null
+              }
+            },
+            {
+              "sel": ".content-page-head__img figcaption",
+              "drop": true
             }
           ]
         },
