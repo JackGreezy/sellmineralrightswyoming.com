@@ -674,6 +674,14 @@ html body footer.footer .rr-footer-ia{display:flex!important;flex-wrap:wrap!impo
 html body footer.footer .rr-footer-ia a{padding:0!important;color:#f4f9fb!important;font-family:Inter,Arial,sans-serif!important;font-size:12px!important;font-weight:600!important;letter-spacing:0!important;text-transform:none!important;text-decoration:none!important}
 html body footer.footer .rr-footer-ia a:hover{color:#87edff!important}
 
+/* Carousel controls: donor sharp-cornered navy/cyan slider arrows overlaid on the story rail */
+html body [data-rr-carousel] .rr-carousel-controls{position:absolute!important;inset:0!important;display:flex!important;flex-direction:row!important;align-items:center!important;justify-content:space-between!important;box-sizing:border-box!important;width:100%!important;padding:0 4px!important;margin:0!important;pointer-events:none!important;z-index:5!important}
+html body .rr-carousel-control{display:grid!important;place-items:center!important;pointer-events:auto!important;border:1px solid #c3c7c9!important;border-radius:0 .625rem!important;background:#fbfdfe!important;color:#0816a1!important;box-shadow:0 .5rem .9375rem rgba(0,0,92,.14)!important;transition:background-color .3s ease,color .3s ease,border-color .3s ease!important}
+html body .rr-carousel-control:hover,html body .rr-carousel-control:focus-visible{background:#0816a1!important;border-color:#0816a1!important;color:#87edff!important}
+html body .rr-carousel-control::before{content:""!important;display:block!important;width:9px!important;height:9px!important;border-right:2px solid currentColor!important;border-bottom:2px solid currentColor!important}
+html body .rr-carousel-control--prev::before{transform:rotate(135deg)!important;margin-left:4px!important}
+html body .rr-carousel-control--next::before{transform:rotate(-45deg)!important;margin-right:4px!important}
+
 /* ---------- Tablet and phone ---------- */
 @media(max-width:900px){
   html body header .header__wrapper{justify-content:space-between!important}
@@ -1674,7 +1682,11 @@ document.querySelectorAll('[data-rr-carousel="swiper"]').forEach(function(root){
       bullets().forEach(function(bullet,n){var active=n===index;bullet.classList.toggle('swiper-pagination-bullet-active',active);bullet.setAttribute('aria-current',active?'true':'false');});
       return;
     }
-    var viewport=list.parentElement,viewportWidth=(viewport&&viewport.getBoundingClientRect().width)||root.getBoundingClientRect().width,slideWidth=viewportWidth/count;
+    var viewport=list.parentElement;
+    // Pin the viewport to its track before measuring: a site that grids/flexes this ancestor
+    // would otherwise report the sum of its unsized slides and oversize every card.
+    if(viewport&&viewport!==root){viewport.style.setProperty('width','100%','important');viewport.style.setProperty('max-width','100%','important');viewport.style.setProperty('min-width','0','important');}
+    var viewportWidth=(viewport&&viewport.getBoundingClientRect().width)||root.getBoundingClientRect().width,slideWidth=viewportWidth/count;
     root.style.setProperty('overflow','hidden','important');list.style.setProperty('display','flex','important');list.style.setProperty('width',(slides.length*slideWidth)+'px','important');list.style.setProperty('max-width','none','important');list.style.setProperty('margin-left','0','important');list.style.setProperty('margin-right','0','important');
     list.style.setProperty('transition','transform 420ms ease','important');list.style.setProperty('transform','translate3d('+(-index*slideWidth)+'px,0,0)','important');
     slides.forEach(function(slide,n){slide.style.setProperty('display','block','important');slide.style.setProperty('flex','0 0 '+slideWidth+'px','important');slide.style.setProperty('width',slideWidth+'px','important');slide.style.setProperty('max-width',slideWidth+'px','important');slide.style.setProperty('height','auto','important');slide.classList.toggle('swiper-slide-active',n===index);slide.classList.toggle('swiper-slide-visible',n>=index&&n<index+count);slide.setAttribute('aria-hidden',String(!(n>=index&&n<index+count)));});

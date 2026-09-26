@@ -179,6 +179,14 @@ html body footer.footer .rr-footer-ia{display:flex!important;flex-wrap:wrap!impo
 html body footer.footer .rr-footer-ia a{padding:0!important;color:#f4f9fb!important;font-family:Inter,Arial,sans-serif!important;font-size:12px!important;font-weight:600!important;letter-spacing:0!important;text-transform:none!important;text-decoration:none!important}
 html body footer.footer .rr-footer-ia a:hover{color:#87edff!important}
 
+/* Carousel controls: donor sharp-cornered navy/cyan slider arrows overlaid on the story rail */
+html body [data-rr-carousel] .rr-carousel-controls{position:absolute!important;inset:0!important;display:flex!important;flex-direction:row!important;align-items:center!important;justify-content:space-between!important;box-sizing:border-box!important;width:100%!important;padding:0 4px!important;margin:0!important;pointer-events:none!important;z-index:5!important}
+html body .rr-carousel-control{display:grid!important;place-items:center!important;pointer-events:auto!important;border:1px solid #c3c7c9!important;border-radius:0 .625rem!important;background:#fbfdfe!important;color:#0816a1!important;box-shadow:0 .5rem .9375rem rgba(0,0,92,.14)!important;transition:background-color .3s ease,color .3s ease,border-color .3s ease!important}
+html body .rr-carousel-control:hover,html body .rr-carousel-control:focus-visible{background:#0816a1!important;border-color:#0816a1!important;color:#87edff!important}
+html body .rr-carousel-control::before{content:""!important;display:block!important;width:9px!important;height:9px!important;border-right:2px solid currentColor!important;border-bottom:2px solid currentColor!important}
+html body .rr-carousel-control--prev::before{transform:rotate(135deg)!important;margin-left:4px!important}
+html body .rr-carousel-control--next::before{transform:rotate(-45deg)!important;margin-right:4px!important}
+
 /* ---------- Tablet and phone ---------- */
 @media(max-width:900px){
   html body header .header__wrapper{justify-content:space-between!important}
