@@ -1,0 +1,77 @@
+{
+ "slug": "landman-work-in-wyoming-federal-and-fee-minerals",
+ "title": "Landman Work in Wyoming: Federal and Fee Minerals",
+ "type": "resource",
+ "status": "written",
+ "note": "BLM lease records, state trust lands, checkerboard title, county clerk work; what Wyoming landman work is like",
+ "primaryKeyword": "wyoming landman",
+ "metaTitle": "Wyoming Landman Work: Federal and Fee Minerals",
+ "metaDescription": "What landman work looks like in Wyoming: BLM lease records, state trust lands, checkerboard title, county clerk research, and what it means for a mineral owner.",
+ "heroLead": "Wyoming landman work means reading three kinds of ground on one township: federal, state, and private fee. Each has its own records and its own rules.",
+ "intro": [
+  "A Wyoming landman starts by asking who owns the minerals, because the answer changes by section. Federal ground sits next to state trust ground, and both sit next to private fee minerals. The surface owner is often a fourth party.",
+  "The work is county-record work and agency-record work at once. The notes below describe how it runs, who hires, and what a mineral owner should expect from the person who shows up."
+ ],
+ "sections": [
+  {
+   "heading": "Federal minerals: BLM case files and lease serials",
+   "paragraphs": [
+    "Federal oil and gas leases are issued by the Bureau of Land Management. The Wyoming State Office is in Cheyenne. Each lease carries a serial number with a WYW prefix, and the case file shows the lessee, the legal description, the lease date and term, assignments, and any stipulations. The BLM keeps an online land and mineral records system that a landman searches before ever visiting a county.",
+    "Federal leases are issued after parcels are nominated and offered at competitive sales held on a recurring schedule, and an older lease may have been issued noncompetitively. Royalty rates for federal leases have been changed by Congress in recent years, so the lease in hand controls, not the rate remembered from last year. Where a federal tract is pooled with fee tracts, a communitization agreement approved by the BLM governs how revenue is shared, and the paid decimal on the division order should trace back to it."
+   ]
+  },
+  {
+   "heading": "State trust lands and the sections the state kept",
+   "paragraphs": [
+    "At statehood, Wyoming received school trust lands, generally sections 16 and 36 in each township, along with other grants. The Office of State Lands and Investments in Cheyenne manages those surface and mineral estates and leases the minerals under its own forms and rules. A landman working a township with a state section checks that office before concluding the minerals are anything other than state-held.",
+    "Not every state section is the same. Some were sold with minerals reserved, some carry older leases, and some were exchanged. The trust record decides, not the plat."
+   ]
+  },
+  {
+   "heading": "Checkerboard title and what the county shows",
+   "paragraphs": [
+    "Across southern Wyoming, the railroad land grants of the 1860s created a pattern of alternating sections. Odd-numbered sections moved toward the railroad. Even-numbered sections stayed federal. Over the following century the railroad ground was sold, leased, traded and carved up, so the mineral owner under an odd section may be a successor company, a rancher, or a family with a severed royalty.",
+    "Other patents add layers. Homestead-era patents issued under the Stock-Raising Homestead Act of 1916 passed the surface and reserved the minerals to the United States. A landman reading a patent has to see that reservation before anyone talks about a lease.",
+    "The county clerk, who in Wyoming serves as the recorder, holds the deeds, leases, assignments and releases for private ground. District court files hold probate. A complete Wyoming title packet combines county records, BLM records, state land records, and Wyoming Oil and Gas Conservation Commission records in Casper for spacing and well data."
+   ]
+  },
+  {
+   "heading": "The surface owner at the table",
+   "paragraphs": [
+    "Wyoming ranches often own the surface over minerals held by someone else, so a landman spends as much time with surface owners as with mineral owners. State statutes require operators to give notice and to compensate for damage to the surface, and the details sit in the statute, not in the lease. Access roads, pad sites, pipeline corridors and water use are negotiated one tract at a time.",
+    "A split estate is not a defect. It is the normal condition of much of the state. The section plat shows who holds which layer only when the deed chain and the patent reservation are both read."
+   ]
+  },
+  {
+   "heading": "What the work is like, and where it is based",
+   "paragraphs": [
+    "Landmen in Wyoming work out of Casper, Cheyenne, Gillette and Rock Springs, and many operators with Wyoming ground keep their land departments in Denver. Fieldwork means long drives between county seats and federal offices, often in winter weather.",
+    "Activity follows the commodity. The Powder River Basin saw heavy coalbed methane work in the 2000s that faded as gas prices fell. The Pinedale and Jonah fields in the Green River Basin drove leasing and title work until prices dropped around 2009. Niobrara horizontal drilling brought a later wave to the southeast. Each cycle ended in layoffs, and landmen who survived held several skills: federal leasing, title, curative and surface negotiation.",
+    "AAPL credentials, RL, RPL and CPL, are recognized but not required, and Wyoming does not issue a landman license."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What does a landman need to know about federal minerals in Wyoming?",
+   "answer": "How to read a BLM case file, how serial numbers map to legal descriptions, what stipulations limit surface use, and how a communitization agreement allocates revenue between federal and fee tracts. Sage grouse and wildlife restrictions can shape where and when work happens."
+  },
+  {
+   "question": "How can an owner tell whether a section holds fee, state or federal minerals?",
+   "answer": "Start with the legal description and check three places: the county clerk for private deeds and reservations, the BLM for federal patents and leases, and the state land office for trust sections. A plat or a surface deed alone does not prove the mineral estate."
+  },
+  {
+   "question": "Is checkerboard ground harder to title?",
+   "answer": "Usually yes. Alternating ownership, railroad conveyances and old patent reservations create more links to trace, and a missing instrument is easy to overlook. A carefully built run sheet and a title opinion are worth the time."
+  },
+  {
+   "question": "Does Wyoming require a landman license?",
+   "answer": "No. Wyoming does not license landmen as a profession. Some hold AAPL credentials voluntarily, and operators may prefer them. Rules on real estate activity and legal practice can still apply, so check with a Wyoming attorney if the work moves beyond records and leasing."
+  },
+  {
+   "question": "Which Wyoming counties see the most landman work?",
+   "answer": "It varies with the commodity cycle. Campbell and Converse counties anchor the Powder River Basin, Sublette and Sweetwater counties the Green River Basin, and Laramie and Goshen counties the southeast Niobrara area. Current permits on the commission's website show where activity is moving."
+  }
+ ],
+ "wordCount": 1065
+}

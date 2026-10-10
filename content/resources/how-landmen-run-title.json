@@ -1,0 +1,82 @@
+{
+ "slug": "how-landmen-run-title",
+ "title": "How Landmen Run Title",
+ "type": "resource",
+ "status": "written",
+ "note": "the run sheet from patent to present; indexes, instruments, gaps, heirship; why it matters to a seller",
+ "primaryKeyword": "how landmen run title",
+ "metaTitle": "How Landmen Run Title in Wyoming: Patent to Present",
+ "metaDescription": "How a landman builds a run sheet in Wyoming, from the federal patent through every county instrument, and why gaps and heirship matter to a seller.",
+ "heroLead": "Running title means walking one legal description from the first federal patent to the owner today, instrument by instrument. Every gap on the way is a question a buyer will ask.",
+ "intro": [
+  "A run sheet is a working list. Each line is one recorded instrument: date, parties, what moved, where it sits in the county index. When the list is complete, it shows who holds the minerals now and what is attached to them.",
+  "Wyoming adds steps that other states skip. The chain often begins with a federal patent, and part of the record sits with the county, part with the BLM, and part with the district court."
+ ],
+ "sections": [
+  {
+   "heading": "Start at the patent",
+   "paragraphs": [
+    "The first private owner of most Wyoming land received a patent from the United States. The Bureau of Land Management keeps scanned patent records online, searchable by legal description. The patent states the date, the grantee, and any reservations. Some patents reserved minerals to the government, including those issued under the Stock-Raising Homestead Act of 1916. Others conveyed the minerals with the surface, and railroad patents follow their own rules.",
+    "A mistake here carries through the whole chain. If the minerals never left federal hands, nothing the county shows can create fee title to them."
+   ]
+  },
+  {
+   "heading": "Work the county index forward",
+   "paragraphs": [
+    "Next comes the county clerk. Wyoming deeds, mortgages, leases, assignments, releases and affidavits are recorded there, and each entry has a book and page or a document number. A landman searches the grantor index for each owner as the grantor, and the grantee index to find how they got the land. Some offices keep a tract index by legal description. Many do not, and the search runs by name.",
+    "Every conveyance gets read for what it actually transferred. Look for reservations, exceptions, depth limits, and language that conveys the grantor's entire interest, which can sweep in or leave out a royalty depending on the wording. Note each lease, each assignment, and each release. A lease with no release on record may still be alive or may simply have been forgotten."
+   ]
+  },
+  {
+   "heading": "Where the gaps hide",
+   "paragraphs": [
+    "Gaps cluster in predictable places: a deed that was signed but never recorded, a wrong section in a legal description, a spouse who did not sign, a married name that changed the index entry, a mortgage satisfied by letter instead of by release, or a probate never filed in the county where the land sits.",
+    "Each gap goes on the curative list. Some close with an affidavit or a corrective deed. Others need a court order. The curative list is part of the owner copy a seller should expect to see."
+   ]
+  },
+  {
+   "heading": "Heirship in Wyoming records",
+   "paragraphs": [
+    "When an owner dies, title passes by will, by intestacy, or by a trust or other non-probate transfer. Probate is filed in district court in the county of residence, with an ancillary probate in the county or state where the land sits if the owner lived elsewhere. A landman reads the decree, the will, and the list of heirs against the family facts.",
+    "If a generation was skipped, the run sheet shows a name that owned in 1962 and a family that owns now, with nothing recorded in between. That interval is a title problem, even when everyone in the family knows the answer."
+   ]
+  },
+  {
+   "heading": "Tie the record to the paid decimal",
+   "paragraphs": [
+    "A run sheet answers who owns. The division order answers what is being paid. The two should agree. A landman multiplies the net mineral acres in the tract by the lease royalty and the tract's share of the spacing unit from the Wyoming Oil and Gas Conservation Commission record, then compares the result with the decimal on the royalty statement.",
+    "When the numbers differ, the cause is usually in the chain: a deed not reflected in the operator's file, an heir missing from the owner list, or a reservation the operator read differently. Resolving it sometimes ends with a corrected division order and back payment, and it starts with the recording docket, where the instrument that settles the question will be found."
+   ]
+  },
+  {
+   "heading": "Why a seller should care",
+   "paragraphs": [
+    "A buyer prices the interest the record proves, not the interest the family remembers. If the run sheet shows a gap, the buyer will either ask for curative work before closing or discount the offer for the uncertainty. An owner who has a clean run sheet and a short curative list negotiates from a better position.",
+    "Operators also run title before they pay. A division order built on incomplete title can put funds in suspense. The same research that protects a seller in a sale protects royalty checks in the meantime."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How far back does a run sheet go?",
+   "answer": "To the sovereign grant. In Wyoming that means the federal patent or the state or railroad grant, then every recorded instrument after it. Operators may accept a shorter period for a lease, but a title opinion for drilling normally goes to the patent."
+  },
+  {
+   "question": "Can an owner run title without a landman?",
+   "answer": "Yes, for a simple tract. The county clerk's indexes are open to the public, and the BLM patent search is online. Complicated chains with severed minerals, multiple heirs or federal ground are usually worth handing to a professional."
+  },
+  {
+   "question": "What is a curative list?",
+   "answer": "A list of the defects in the chain and the document needed to fix each one, such as an affidavit of heirship, a release, or a corrective deed. It is the to-do list between a messy record and clean title."
+  },
+  {
+   "question": "Does the county record prove who owns the minerals?",
+   "answer": "It shows what was recorded. A deed not recorded, a federal reservation in a patent, or a missing probate can all change the real answer. Treat the county record as strong evidence read alongside BLM and court records."
+  },
+  {
+   "question": "How long does it take to run title on one tract?",
+   "answer": "It depends on the age of the chain, the number of conveyances, and how the county indexes its records. A clean quarter section can be done in a day or two, while a checkerboard tract with severed minerals and multiple probates can take weeks."
+  }
+ ],
+ "wordCount": 1048
+}

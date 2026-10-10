@@ -8,13 +8,15 @@
  "voice": "plainspoken-landman: 25yr field landman; short declaratives; courthouse-records concrete",
  "angle": "WY pillar; federal checkerboard ownership explainer edge",
  "taxonomyCounts": {
-  "locations": 125,
   "basins": 3,
-  "situations": 10,
+  "exchange-1031": 10,
   "interest-types": 6,
-  "resources": 10,
-  "pages": 7
+  "investing": 10,
+  "locations": 125,
+  "pages": 7,
+  "resources": 12,
+  "situations": 10
  },
- "totalPages": 161,
+ "totalPages": 183,
  "status": "scaffold"
 }

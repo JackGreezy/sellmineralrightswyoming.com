@@ -38,7 +38,7 @@
       "logo_slot": ".header__logo--main",
       "nav_link_selector": ".menu--level-1 > .menu__item > a.menu-link--main",
       "html_map": {
-        ".header__top": "<div class=\"rr-header-actions\"><a class=\"rr-header-phone\" href=\"tel:+13075551036\">307-555-1036</a><a class=\"rr-header-cta\" href=\"/contact#contact-form\">Request a Wyoming Review</a></div>"
+        ".header__top": "<div class=\"rr-header-actions\"><a class=\"rr-header-phone\" href=\"tel:+13073425748\">307-342-5748</a><a class=\"rr-header-cta\" href=\"/contact#contact-form\">Request a Wyoming Review</a></div>"
       },
       "mobile_menu_slot": "#burger-menu",
       "burger_selector": ".burger-menu__toggle",

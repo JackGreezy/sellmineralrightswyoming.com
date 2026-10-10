@@ -3,7 +3,7 @@
   "name": "Sell Mineral Rights Wyoming",
   "city": "Casper",
   "region": "Casper, the Powder River Basin, the Green River Basin, and mineral-producing counties across Wyoming",
-  "phone": "307-555-1036",
+  "phone": "307-342-5748",
   "email": "wyoming@sellmineralrightswyoming.com",
   "domain": "sellmineralrightswyoming.com",
   "vertical": "mineral-rights"
@@ -8357,6 +8357,124 @@
       "width": 1600,
       "height": 1000
      },
+     "imageAlt": "",
+     "related": []
+    },
+    {
+     "slug": "landman-work-in-wyoming-federal-and-fee-minerals",
+     "name": "Landman Work in Wyoming: Federal and Fee Minerals",
+     "meta": "What landman work looks like in Wyoming: BLM lease records, state trust lands, checkerboard title, county clerk research, and what it means for a mineral owner.",
+     "sections": [
+      {
+       "title": "",
+       "html": "<p>Wyoming landman work means reading three kinds of ground on one township: federal, state, and private fee. Each has its own records and its own rules.</p><p>A Wyoming landman starts by asking who owns the minerals, because the answer changes by section. Federal ground sits next to state trust ground, and both sit next to private fee minerals. The surface owner is often a fourth party.</p><p>The work is county-record work and agency-record work at once. The notes below describe how it runs, who hires, and what a mineral owner should expect from the person who shows up.</p>"
+      },
+      {
+       "title": "Federal minerals: BLM case files and lease serials",
+       "html": "<p>Federal oil and gas leases are issued by the Bureau of Land Management. The Wyoming State Office is in Cheyenne. Each lease carries a serial number with a WYW prefix, and the case file shows the lessee, the legal description, the lease date and term, assignments, and any stipulations. The BLM keeps an online land and mineral records system that a landman searches before ever visiting a county.</p><p>Federal leases are issued after parcels are nominated and offered at competitive sales held on a recurring schedule, and an older lease may have been issued noncompetitively. Royalty rates for federal leases have been changed by Congress in recent years, so the lease in hand controls, not the rate remembered from last year. Where a federal tract is pooled with fee tracts, a communitization agreement approved by the BLM governs how revenue is shared, and the paid decimal on the division order should trace back to it.</p>"
+      },
+      {
+       "title": "State trust lands and the sections the state kept",
+       "html": "<p>At statehood, Wyoming received school trust lands, generally sections 16 and 36 in each township, along with other grants. The Office of State Lands and Investments in Cheyenne manages those surface and mineral estates and leases the minerals under its own forms and rules. A landman working a township with a state section checks that office before concluding the minerals are anything other than state-held.</p><p>Not every state section is the same. Some were sold with minerals reserved, some carry older leases, and some were exchanged. The trust record decides, not the plat.</p>"
+      },
+      {
+       "title": "Checkerboard title and what the county shows",
+       "html": "<p>Across southern Wyoming, the railroad land grants of the 1860s created a pattern of alternating sections. Odd-numbered sections moved toward the railroad. Even-numbered sections stayed federal. Over the following century the railroad ground was sold, leased, traded and carved up, so the mineral owner under an odd section may be a successor company, a rancher, or a family with a severed royalty.</p><p>Other patents add layers. Homestead-era patents issued under the Stock-Raising Homestead Act of 1916 passed the surface and reserved the minerals to the United States. A landman reading a patent has to see that reservation before anyone talks about a lease.</p><p>The county clerk, who in Wyoming serves as the recorder, holds the deeds, leases, assignments and releases for private ground. District court files hold probate. A complete Wyoming title packet combines county records, BLM records, state land records, and Wyoming Oil and Gas Conservation Commission records in Casper for spacing and well data.</p>"
+      },
+      {
+       "title": "The surface owner at the table",
+       "html": "<p>Wyoming ranches often own the surface over minerals held by someone else, so a landman spends as much time with surface owners as with mineral owners. State statutes require operators to give notice and to compensate for damage to the surface, and the details sit in the statute, not in the lease. Access roads, pad sites, pipeline corridors and water use are negotiated one tract at a time.</p><p>A split estate is not a defect. It is the normal condition of much of the state. The section plat shows who holds which layer only when the deed chain and the patent reservation are both read.</p>"
+      },
+      {
+       "title": "What the work is like, and where it is based",
+       "html": "<p>Landmen in Wyoming work out of Casper, Cheyenne, Gillette and Rock Springs, and many operators with Wyoming ground keep their land departments in Denver. Fieldwork means long drives between county seats and federal offices, often in winter weather.</p><p>Activity follows the commodity. The Powder River Basin saw heavy coalbed methane work in the 2000s that faded as gas prices fell. The Pinedale and Jonah fields in the Green River Basin drove leasing and title work until prices dropped around 2009. Niobrara horizontal drilling brought a later wave to the southeast. Each cycle ended in layoffs, and landmen who survived held several skills: federal leasing, title, curative and surface negotiation.</p><p>AAPL credentials, RL, RPL and CPL, are recognized but not required, and Wyoming does not issue a landman license.</p>"
+      }
+     ],
+     "faqs": [
+      {
+       "q": "What does a landman need to know about federal minerals in Wyoming?",
+       "a": "<p>How to read a BLM case file, how serial numbers map to legal descriptions, what stipulations limit surface use, and how a communitization agreement allocates revenue between federal and fee tracts. Sage grouse and wildlife restrictions can shape where and when work happens.</p>"
+      },
+      {
+       "q": "How can an owner tell whether a section holds fee, state or federal minerals?",
+       "a": "<p>Start with the legal description and check three places: the county clerk for private deeds and reservations, the BLM for federal patents and leases, and the state land office for trust sections. A plat or a surface deed alone does not prove the mineral estate.</p>"
+      },
+      {
+       "q": "Is checkerboard ground harder to title?",
+       "a": "<p>Usually yes. Alternating ownership, railroad conveyances and old patent reservations create more links to trace, and a missing instrument is easy to overlook. A carefully built run sheet and a title opinion are worth the time.</p>"
+      },
+      {
+       "q": "Does Wyoming require a landman license?",
+       "a": "<p>No. Wyoming does not license landmen as a profession. Some hold AAPL credentials voluntarily, and operators may prefer them. Rules on real estate activity and legal practice can still apply, so check with a Wyoming attorney if the work moves beyond records and leasing.</p>"
+      },
+      {
+       "q": "Which Wyoming counties see the most landman work?",
+       "a": "<p>It varies with the commodity cycle. Campbell and Converse counties anchor the Powder River Basin, Sublette and Sweetwater counties the Green River Basin, and Laramie and Goshen counties the southeast Niobrara area. Current permits on the commission's website show where activity is moving.</p>"
+      }
+     ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
+     "related": []
+    },
+    {
+     "slug": "how-landmen-run-title",
+     "name": "How Landmen Run Title",
+     "meta": "How a landman builds a run sheet in Wyoming, from the federal patent through every county instrument, and why gaps and heirship matter to a seller.",
+     "sections": [
+      {
+       "title": "",
+       "html": "<p>Running title means walking one legal description from the first federal patent to the owner today, instrument by instrument. Every gap on the way is a question a buyer will ask.</p><p>A run sheet is a working list. Each line is one recorded instrument: date, parties, what moved, where it sits in the county index. When the list is complete, it shows who holds the minerals now and what is attached to them.</p><p>Wyoming adds steps that other states skip. The chain often begins with a federal patent, and part of the record sits with the county, part with the BLM, and part with the district court.</p>"
+      },
+      {
+       "title": "Start at the patent",
+       "html": "<p>The first private owner of most Wyoming land received a patent from the United States. The Bureau of Land Management keeps scanned patent records online, searchable by legal description. The patent states the date, the grantee, and any reservations. Some patents reserved minerals to the government, including those issued under the Stock-Raising Homestead Act of 1916. Others conveyed the minerals with the surface, and railroad patents follow their own rules.</p><p>A mistake here carries through the whole chain. If the minerals never left federal hands, nothing the county shows can create fee title to them.</p>"
+      },
+      {
+       "title": "Work the county index forward",
+       "html": "<p>Next comes the county clerk. Wyoming deeds, mortgages, leases, assignments, releases and affidavits are recorded there, and each entry has a book and page or a document number. A landman searches the grantor index for each owner as the grantor, and the grantee index to find how they got the land. Some offices keep a tract index by legal description. Many do not, and the search runs by name.</p><p>Every conveyance gets read for what it actually transferred. Look for reservations, exceptions, depth limits, and language that conveys the grantor's entire interest, which can sweep in or leave out a royalty depending on the wording. Note each lease, each assignment, and each release. A lease with no release on record may still be alive or may simply have been forgotten.</p>"
+      },
+      {
+       "title": "Where the gaps hide",
+       "html": "<p>Gaps cluster in predictable places: a deed that was signed but never recorded, a wrong section in a legal description, a spouse who did not sign, a married name that changed the index entry, a mortgage satisfied by letter instead of by release, or a probate never filed in the county where the land sits.</p><p>Each gap goes on the curative list. Some close with an affidavit or a corrective deed. Others need a court order. The curative list is part of the owner copy a seller should expect to see.</p>"
+      },
+      {
+       "title": "Heirship in Wyoming records",
+       "html": "<p>When an owner dies, title passes by will, by intestacy, or by a trust or other non-probate transfer. Probate is filed in district court in the county of residence, with an ancillary probate in the county or state where the land sits if the owner lived elsewhere. A landman reads the decree, the will, and the list of heirs against the family facts.</p><p>If a generation was skipped, the run sheet shows a name that owned in 1962 and a family that owns now, with nothing recorded in between. That interval is a title problem, even when everyone in the family knows the answer.</p>"
+      },
+      {
+       "title": "Tie the record to the paid decimal",
+       "html": "<p>A run sheet answers who owns. The division order answers what is being paid. The two should agree. A landman multiplies the net mineral acres in the tract by the lease royalty and the tract's share of the spacing unit from the Wyoming Oil and Gas Conservation Commission record, then compares the result with the decimal on the royalty statement.</p><p>When the numbers differ, the cause is usually in the chain: a deed not reflected in the operator's file, an heir missing from the owner list, or a reservation the operator read differently. Resolving it sometimes ends with a corrected division order and back payment, and it starts with the recording docket, where the instrument that settles the question will be found.</p>"
+      },
+      {
+       "title": "Why a seller should care",
+       "html": "<p>A buyer prices the interest the record proves, not the interest the family remembers. If the run sheet shows a gap, the buyer will either ask for curative work before closing or discount the offer for the uncertainty. An owner who has a clean run sheet and a short curative list negotiates from a better position.</p><p>Operators also run title before they pay. A division order built on incomplete title can put funds in suspense. The same research that protects a seller in a sale protects royalty checks in the meantime.</p>"
+      }
+     ],
+     "faqs": [
+      {
+       "q": "How far back does a run sheet go?",
+       "a": "<p>To the sovereign grant. In Wyoming that means the federal patent or the state or railroad grant, then every recorded instrument after it. Operators may accept a shorter period for a lease, but a title opinion for drilling normally goes to the patent.</p>"
+      },
+      {
+       "q": "Can an owner run title without a landman?",
+       "a": "<p>Yes, for a simple tract. The county clerk's indexes are open to the public, and the BLM patent search is online. Complicated chains with severed minerals, multiple heirs or federal ground are usually worth handing to a professional.</p>"
+      },
+      {
+       "q": "What is a curative list?",
+       "a": "<p>A list of the defects in the chain and the document needed to fix each one, such as an affidavit of heirship, a release, or a corrective deed. It is the to-do list between a messy record and clean title.</p>"
+      },
+      {
+       "q": "Does the county record prove who owns the minerals?",
+       "a": "<p>It shows what was recorded. A deed not recorded, a federal reservation in a patent, or a missing probate can all change the real answer. Treat the county record as strong evidence read alongside BLM and court records.</p>"
+      },
+      {
+       "q": "How long does it take to run title on one tract?",
+       "a": "<p>It depends on the age of the chain, the number of conveyances, and how the county indexes its records. A clean quarter section can be done in a day or two, while a checkerboard tract with severed minerals and multiple probates can take weeks.</p>"
+      }
+     ],
+     "noindex": false,
+     "image": "",
      "imageAlt": "",
      "related": []
     },
