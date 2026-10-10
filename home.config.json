@@ -63,5 +63,783 @@
     "/ours/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightswyoming-com.jpg": "/ours/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightswyoming-com.jpg",
     "/images/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightswyoming-com.jpg": "/ours/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightswyoming-com.jpg"
   },
-  "brand_logo_variant": ""
+  "brand_logo_variant": "",
+  "location_hero_images": {
+    "/locations/albin-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/alpine-northwest-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/antelope-hills-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/arrowhead-springs-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/auburn-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/bar-nunn-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/bedford-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/bessemer-bend-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/big-piney-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/bondurant-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/boulder-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/burlington-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/burns-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/byron-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/clearview-acres-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/daniel-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/deaver-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/diamondville-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/east-thermopolis-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/edgerton-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/esterbrook-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/etna-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/evansville-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/fairview-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/fontenelle-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/fox-farm-college-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/frannie-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/freedom-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/garland-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/granger-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/grover-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/hillsdale-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/homa-hills-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/hyattville-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/kemmerer-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/kirby-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/little-america-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/lost-springs-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/marbleton-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/mckinnon-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/midwest-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/mills-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/mountain-view-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/natrona-county": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/nordic-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/north-rock-springs-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/oakley-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/opal-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/orin-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/osmond-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/owl-creek-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/pine-bluffs-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/point-of-rocks-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/powell-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/purple-sage-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/ralston-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/ranchettes-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/rolling-hills-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/shell-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/sleepy-hollow-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/smoot-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/south-greeley-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/superior-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/table-rock-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/taylor-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/turnerville-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/vista-west-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/warren-afb-wy": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/washakie-county": {
+      "src": "/ours/locations/regional-afton-wy.jpg",
+      "alt": "Regional view: Afton, Wyoming",
+      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Wyoming",
+      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+    },
+    "/locations/casper-wy": {
+      "src": "/ours/locations/sell-mineral-rights-casper-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Casper, WY"
+    },
+    "/locations/gillette-wy": {
+      "src": "/ours/locations/sell-mineral-rights-gillette-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Gillette, WY"
+    },
+    "/locations/powder-river-wy": {
+      "src": "/ours/locations/sell-mineral-rights-powder-river-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Powder River, WY"
+    },
+    "/locations/douglas-wy": {
+      "src": "/ours/locations/sell-mineral-rights-douglas-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Douglas, WY"
+    },
+    "/locations/rock-springs-wy": {
+      "src": "/ours/locations/sell-mineral-rights-rock-springs-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Rock Springs, WY"
+    },
+    "/locations/green-river-wy": {
+      "src": "/ours/locations/sell-mineral-rights-green-river-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Green River, WY"
+    },
+    "/locations/pinedale-wy": {
+      "src": "/ours/locations/sell-mineral-rights-pinedale-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Pinedale, WY"
+    },
+    "/locations/buffalo-wy": {
+      "src": "/ours/locations/sell-mineral-rights-buffalo-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Buffalo, WY"
+    },
+    "/locations/afton-wy": {
+      "src": "/ours/locations/sell-mineral-rights-afton-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Afton, WY"
+    },
+    "/locations/alcova-wy": {
+      "src": "/ours/locations/sell-mineral-rights-alcova-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Alcova, WY"
+    },
+    "/locations/alpine-northeast-wy": {
+      "src": "/ours/locations/sell-mineral-rights-alpine-northeast-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Alpine Northeast, WY"
+    },
+    "/locations/alpine-wy": {
+      "src": "/ours/locations/sell-mineral-rights-alpine-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Alpine, WY"
+    },
+    "/locations/bairoil-wy": {
+      "src": "/ours/locations/sell-mineral-rights-bairoil-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bairoil, WY"
+    },
+    "/locations/basin-wy": {
+      "src": "/ours/locations/sell-mineral-rights-basin-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Basin, WY"
+    },
+    "/locations/big-horn-county": {
+      "src": "/ours/locations/sell-mineral-rights-big-horn-county-mt.jpg",
+      "alt": "Local view for Sell Mineral Rights in Big Horn County, WY"
+    },
+    "/locations/brookhurst-wy": {
+      "src": "/ours/locations/sell-mineral-rights-brookhurst-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Brookhurst, WY"
+    },
+    "/locations/campbell-county": {
+      "src": "/ours/locations/sell-mineral-rights-campbell-county-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Campbell County, WY"
+    },
+    "/locations/carpenter-wy": {
+      "src": "/ours/locations/sell-mineral-rights-carpenter-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Carpenter, WY"
+    },
+    "/locations/casper-mountain-wy": {
+      "src": "/ours/locations/sell-mineral-rights-casper-mountain-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Casper Mountain, WY"
+    },
+    "/locations/cheyenne-wy": {
+      "src": "/ours/locations/sell-mineral-rights-cheyenne-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cheyenne, WY"
+    },
+    "/locations/cody-wy": {
+      "src": "/ours/locations/sell-mineral-rights-cody-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cody, WY"
+    },
+    "/locations/cokeville-wy": {
+      "src": "/ours/locations/sell-mineral-rights-cokeville-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cokeville, WY"
+    },
+    "/locations/converse-county": {
+      "src": "/ours/locations/sell-mineral-rights-converse-county-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Converse County, WY"
+    },
+    "/locations/cora-wy": {
+      "src": "/ours/locations/sell-mineral-rights-cora-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cora, WY"
+    },
+    "/locations/cowley-wy": {
+      "src": "/ours/locations/sell-mineral-rights-cowley-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cowley, WY"
+    },
+    "/locations/eden-wy": {
+      "src": "/ours/locations/sell-mineral-rights-eden-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Eden, WY"
+    },
+    "/locations/farson-wy": {
+      "src": "/ours/locations/sell-mineral-rights-farson-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Farson, WY"
+    },
+    "/locations/glenrock-wy": {
+      "src": "/ours/locations/sell-mineral-rights-glenrock-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Glenrock, WY"
+    },
+    "/locations/greybull-wy": {
+      "src": "/ours/locations/sell-mineral-rights-greybull-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Greybull, WY"
+    },
+    "/locations/hartrandt-wy": {
+      "src": "/ours/locations/sell-mineral-rights-hartrandt-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Hartrandt, WY"
+    },
+    "/locations/hot-springs-county": {
+      "src": "/ours/locations/sell-mineral-rights-hot-springs-county-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Hot Springs County, WY"
+    },
+    "/locations/james-town-wy": {
+      "src": "/ours/locations/sell-mineral-rights-james-town-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in James Town, WY"
+    },
+    "/locations/johnson-county": {
+      "src": "/ours/locations/sell-mineral-rights-johnson-county-tx.jpg",
+      "alt": "Local view for Sell Mineral Rights in Johnson County, WY"
+    },
+    "/locations/kaycee-wy": {
+      "src": "/ours/locations/sell-mineral-rights-kaycee-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Kaycee, WY"
+    },
+    "/locations/la-barge-wy": {
+      "src": "/ours/locations/sell-mineral-rights-la-barge-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in La Barge, WY"
+    },
+    "/locations/laramie-county": {
+      "src": "/ours/locations/sell-mineral-rights-laramie-county-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Laramie County, WY"
+    },
+    "/locations/lincoln-county": {
+      "src": "/ours/locations/sell-mineral-rights-lincoln-county-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lincoln County, WY"
+    },
+    "/locations/lovell-wy": {
+      "src": "/ours/locations/sell-mineral-rights-lovell-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lovell, WY"
+    },
+    "/locations/lucerne-wy": {
+      "src": "/ours/locations/sell-mineral-rights-lucerne-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lucerne, WY"
+    },
+    "/locations/mammoth-wy": {
+      "src": "/ours/locations/sell-mineral-rights-mammoth-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Mammoth, WY"
+    },
+    "/locations/manderson-wy": {
+      "src": "/ours/locations/sell-mineral-rights-manderson-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Manderson, WY"
+    },
+    "/locations/meadow-acres-wy": {
+      "src": "/ours/locations/sell-mineral-rights-meadow-acres-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Meadow Acres, WY"
+    },
+    "/locations/meeteetse-wy": {
+      "src": "/ours/locations/sell-mineral-rights-meeteetse-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Meeteetse, WY"
+    },
+    "/locations/park-county": {
+      "src": "/ours/locations/sell-mineral-rights-park-county-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Park County, WY"
+    },
+    "/locations/red-butte-wy": {
+      "src": "/ours/locations/sell-mineral-rights-red-butte-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Red Butte, WY"
+    },
+    "/locations/reliance-wy": {
+      "src": "/ours/locations/sell-mineral-rights-reliance-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Reliance, WY"
+    },
+    "/locations/star-valley-ranch-wy": {
+      "src": "/ours/locations/sell-mineral-rights-star-valley-ranch-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Star Valley Ranch, WY"
+    },
+    "/locations/sublette-county": {
+      "src": "/ours/locations/sell-mineral-rights-sublette-county-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Sublette County, WY"
+    },
+    "/locations/sweetwater-county": {
+      "src": "/ours/locations/sell-mineral-rights-sweetwater-county-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Sweetwater County, WY"
+    },
+    "/locations/ten-sleep-wy": {
+      "src": "/ours/locations/sell-mineral-rights-ten-sleep-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Ten Sleep, WY"
+    },
+    "/locations/thayne-wy": {
+      "src": "/ours/locations/sell-mineral-rights-thayne-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Thayne, WY"
+    },
+    "/locations/thermopolis-wy": {
+      "src": "/ours/locations/sell-mineral-rights-thermopolis-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Thermopolis, WY"
+    },
+    "/locations/wamsutter-wy": {
+      "src": "/ours/locations/sell-mineral-rights-wamsutter-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Wamsutter, WY"
+    },
+    "/locations/washam-wy": {
+      "src": "/ours/locations/sell-mineral-rights-washam-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Washam, WY"
+    },
+    "/locations/worland-wy": {
+      "src": "/ours/locations/sell-mineral-rights-worland-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Worland, WY"
+    },
+    "/locations/wright-wy": {
+      "src": "/ours/locations/sell-mineral-rights-wright-wy.jpg",
+      "alt": "Local view for Sell Mineral Rights in Wright, WY"
+    }
+  }
 }
