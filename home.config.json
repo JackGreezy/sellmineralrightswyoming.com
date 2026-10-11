@@ -66,556 +66,694 @@
   "brand_logo_variant": "",
   "location_hero_images": {
     "/locations/albin-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/alpine-northwest-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/antelope-hills-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/arrowhead-springs-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/auburn-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/bar-nunn-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/bedford-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/bessemer-bend-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/big-piney-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/bondurant-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/boulder-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/burlington-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/burns-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/byron-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/clearview-acres-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/daniel-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/deaver-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/diamondville-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/east-thermopolis-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/edgerton-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/esterbrook-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/etna-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/evansville-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/fairview-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/fontenelle-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/fox-farm-college-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/frannie-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/freedom-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/garland-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/granger-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/grover-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/hillsdale-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/homa-hills-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/hyattville-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/kemmerer-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/kirby-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/little-america-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/lost-springs-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/marbleton-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/mckinnon-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/midwest-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/mills-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/mountain-view-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/natrona-county": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/nordic-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/north-rock-springs-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/oakley-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/opal-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/orin-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/osmond-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/owl-creek-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/pine-bluffs-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/point-of-rocks-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/powell-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/purple-sage-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/ralston-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/ranchettes-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/rolling-hills-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/shell-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/sleepy-hollow-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/smoot-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/south-greeley-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/superior-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/table-rock-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/taylor-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/turnerville-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/vista-west-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/warren-afb-wy": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/washakie-county": {
-      "src": "/ours/locations/regional-afton-wy.jpg",
-      "alt": "Regional view: Afton, Wyoming",
-      "credit": "Afton, Wyoming. Regional Wyoming photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg\" rel=\"noopener\">Cfrolander / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"noopener\">CC BY-SA 3.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-greybull-wy.jpg",
+      "alt": "View of Greybull, Wyoming",
       "regional": true,
       "region": "Wyoming",
-      "source": "https://commons.wikimedia.org/wiki/File%3AAfton_Wyoming_Elkhorn_Arch_July_31_2013.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_West_down_Greybull_Avenue_in_Greybull,_Wyoming.jpg",
+      "license": "CC0",
+      "attributionRequired": false,
+      "caption": "Regional Wyoming view: Greybull, Wyoming."
     },
     "/locations/casper-wy": {
       "src": "/ours/locations/sell-mineral-rights-casper-wy.jpg",
